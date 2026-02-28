@@ -54,7 +54,7 @@ ${episodeMemory}
 ═══════════════════════════════════════════════
 WEEKLY NEWSLETTER CONTENT (give these dedicated discussion):
 ═══════════════════════════════════════════════
-These are in-depth weekly market newsletters that Dad follows closely. When a new issue appears, give it a dedicated segment — not just a passing mention. Summarize the key arguments, highlight any contrarian or notable viewpoints, and discuss what it means for investors.
+These are in-depth weekly market newsletters that Dan follows closely. When a new issue appears, give it a dedicated segment — not just a passing mention. Summarize the key arguments, highlight any contrarian or notable viewpoints, and discuss what it means for investors.
 
 ${JSON.stringify(newsletterItems, null, 2)}
 
@@ -62,8 +62,8 @@ ${JSON.stringify(newsletterItems, null, 2)}
     : '';
 
   const prompt = `
-You are writing the script for "Dad's Daily Digest," a two-host personal morning podcast for Dad.
-Today is ${today}. Dad is based in Dallas, Texas.
+You are writing the script for "Dad's Daily Digest," a two-host personal morning podcast for Dan.
+Today is ${today}. Dan is based in Dallas, Texas.
 
 Dallas weather right now: ${weatherSummary}
 
@@ -98,7 +98,7 @@ STRUCTURE (follow this exactly):
 ═══════════════════════════════════════════════
 
 [COLD OPEN — 15–30 seconds]
-- HOST greets Dad warmly (use "Dad" naturally, not every sentence).
+- HOST greets Dan warmly (use "Dan" naturally, not every sentence).
 - One sentence on what today's episode covers (the "headline of headlines").
 - COHOST reacts and weaves in the Dallas weather naturally (not as a weather report — more like what a friend would say: "beautiful morning out there in Dallas" or "might want to grab a jacket today").
 
@@ -123,11 +123,11 @@ ${newsletterItems.length > 0 ? `[NEWSLETTER SEGMENT — dedicated discussion for
 When a weekly newsletter (Dividend Cafe or Thoughts from the Frontline) has a new issue,
 give it a full 1–2 minute segment. Summarize the key thesis, notable data points, and
 any contrarian or surprising viewpoints. Don't just mention it in passing — treat it
-as substantial content that Dad values.
+as substantial content that Dan values.
 
 ` : ''}[WRAP-UP — 15–30 seconds]
 - HOST gives a quick recap of the 1–2 biggest themes.
-- COHOST adds what Dad should keep an eye on over the coming days.
+- COHOST adds what Dan should keep an eye on over the coming days.
 - Both sign off warmly and personally.
 
 ═══════════════════════════════════════════════
@@ -140,7 +140,7 @@ STYLE RULES:
 - Target word count: 1,200–1,800 words (8–12 minutes at a natural speaking pace).
 - The ONLY bracketed labels allowed are [HOST] and [COHOST] at the start of each speaker turn.
   No other stage directions, segment headers, or bracketed labels.
-- Assume Dad is an experienced, sophisticated reader of financial news — don't over-explain basic concepts, but do provide context for complex developments.
+- Assume Dan is an experienced, sophisticated reader of financial news — don't over-explain basic concepts, but do provide context for complex developments.
 
 ═══════════════════════════════════════════════
 RAW NEWS CONTENT:
