@@ -1,0 +1,7 @@
+node_modules/
+.env
+service-account.json
+*.mp3
+*.txt
+.DS_Store
+/tmp/

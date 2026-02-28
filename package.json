@@ -1,0 +1,17 @@
+{
+  "name": "dad-podcast",
+  "version": "1.0.0",
+  "description": "Dad's Daily Digest — auto-generated daily news podcast",
+  "scripts": {
+    "start": "node src/index.js",
+    "dry-run": "node src/index.js --dry-run",
+    "cost-report": "node scripts/cost-report.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.75.0",
+    "@google-cloud/text-to-speech": "^6.4.0",
+    "axios": "^1.13.5",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.3.1"
+  }
+}
