@@ -45,6 +45,7 @@ function buildUpdatedFeed(existingFeedXml, episode, baseUrl, podcastInfo) {
     <itunes:author>${escapeXml(podcastInfo.author)}</itunes:author>
     <itunes:owner>
       <itunes:name>${escapeXml(podcastInfo.author)}</itunes:name>
+      <itunes:email>${escapeXml(podcastInfo.email || '')}</itunes:email>
     </itunes:owner>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>

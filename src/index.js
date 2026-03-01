@@ -41,6 +41,7 @@ const REPO = process.env.GITHUB_REPOSITORY;
 const GH_TOKEN = process.env.GITHUB_TOKEN;
 const PODCAST_TITLE = process.env.PODCAST_TITLE || "Dad's Daily Digest";
 const PODCAST_AUTHOR = process.env.PODCAST_AUTHOR || 'Tyler Watson';
+const PODCAST_EMAIL = process.env.PODCAST_EMAIL || 'howdy@tyler.rodeo';
 
 /**
  * Get current feed.xml from gh-pages branch
@@ -212,6 +213,7 @@ async function run({ dryRun = false } = {}) {
       {
         title: PODCAST_TITLE,
         author: PODCAST_AUTHOR,
+        email: PODCAST_EMAIL,
         description: "Daily news digest covering WSJ, NYT, and weekly market newsletters — built with love for Dad's 70th birthday.",
       }
     );
