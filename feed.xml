@@ -14,6 +14,16 @@
     </itunes:owner>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Dad&apos;s Daily Digest — 2026-02-28</title>
+      <description># Episode Summary
+
+This episode covers three major stories shaping markets this weekend: the deepening fallout from U.S. and Israeli strikes on Iran&apos;s top military leadership, which has created a dangerous power vacuum and already prompted oil tankers to reroute away from the critical Strait of Hormuz, signaling rising energy costs ahead. Berkshire Hathaway reports its first earnings under new CEO Gregory Abel, marked by insurance weakness but more notably by a significant shift in tone—moving away from Warren Buffett&apos;s folksy wisdom toward a more corporate, direct communication style that will be closely watched in coming quarters. Finally, Netflix&apos;s decision to walk away from an $83 billion Warner Bros. Discovery deal is</description>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-02-28.mp3" length="3743232" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-02-28.mp3</guid>
+      <itunes:duration>234</itunes:duration>
+    </item>
     
     <item>
       <title>Dad&apos;s Daily Digest — 2026-02-28</title>
