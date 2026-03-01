@@ -11,6 +11,7 @@
     <itunes:author>Tyler Watson</itunes:author>
     <itunes:owner>
       <itunes:name>Tyler Watson</itunes:name>
+      <itunes:email>howdy@tyler.rodeo</itunes:email>
     </itunes:owner>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
