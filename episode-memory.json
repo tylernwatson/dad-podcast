@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-21",
+      "summary": "# Episode Summary\n\nThis Saturday episode tracks three major developments shaping markets and politics: the escalating Iran conflict's devastating impact on global energy supplies, with strikes across nine countries disrupting the Strait of Hormuz and forcing the U.S. to lift Iranian oil sanctions in hopes of relieving pressure at the pump; a federal court's ruling striking down Pentagon press restrictions as unconstitutional, protecting journalists' access during wartime; and insights from the latest Dividend Cafe cautioning investors against building portfolios on military speculation while offering a reality check on private credit contagion fears. Throughout, energy prices emerge as both an economic pressure point and a political wildcard heading into the midterms.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-20",
       "summary": "# Dad's Daily Digest: March 20th\n\nThis episode examines three critical stories shaping markets and geopolitics: the widening gap between U.S. and Israeli strategic goals in the Iran conflict, which threatens to eliminate diplomatic off-ramps; a record 7.7 million student loan defaults totaling $181 billion, signaling underappreciated consumer stress beyond headline inflation figures; and the evolving AI investment landscape, where defense and national security applications are reshaping the thesis that volatility exposed back in January. Together, these threads reveal growing tensions between geopolitical stability, household financial resilience, and shifting patterns in how capital is being deployed.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-08",
       "summary": "# Episode Summary\n\nThe U.S. conflict with Iran has escalated dramatically following the assassination of Khamenei, with American military casualties now marking the first combat deaths—but the administration's unclear objectives and lack of defined endgame strategy raise serious concerns about the sustainability and scope of the campaign. Beyond the immediate geopolitical tensions, the conflict is reshaping markets across multiple fronts: gas prices have spiked 14% to 18-month highs, major tech companies' multi-trillion-dollar Gulf infrastructure investments are now in question, and the Fed faces renewed inflation pressures that make rate cuts unlikely. The episode also examines emerging financial risks including the rapid growth of dollar-pegged stablecoins",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-07",
-      "summary": "# Episode Summary\n\nThis episode examines the escalating Iran conflict and its cascading effects on global markets and everyday costs—from a historic 14% weekly spike in gas prices to ripple effects on food production through disrupted fertilizer supplies and higher shipping costs. The discussion explores geopolitical complexities including the emerging role of low-cost drone warfare, Europe's particular vulnerability to energy shocks, and the intraday market volatility that's creating investor anxiety this week. A featured analysis argues that dividend-focused investing offers a grounding perspective during uncertain times by shifting focus from daily price swings to steady cash flow generation.",
       "keyTopics": []
     }
   ]
