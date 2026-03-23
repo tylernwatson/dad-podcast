@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-23",
+      "summary": "# Episode Summary\n\nAfter weeks of escalation, markets are rallying on news that Trump has deferred his Iran deadline following \"very good and productive\" talks, with oil prices falling and stock futures rising—signaling a potential diplomatic off-ramp, though the substance of negotiations remains crucial. Beyond the geopolitical relief, the episode explores the long-term structural damage to Persian Gulf energy infrastructure from recent strikes, which could impact global energy prices and supply chains for months regardless of ceasefire outcomes. The show also covers a tragic collision at LaGuardia Airport between a regional jet and fire truck, market repositioning as safe-haven assets like gold sell off alongside the rally, and corporate shifts like Target's formal end to its",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-22",
       "summary": "# This Week's Critical Stories\n\nAs tensions simmer in the Iran conflict, President Trump signals he may be considering a \"wind-down\" of operations — a potential diplomatic off-ramp that could reshape global markets, though key war objectives remain unmet. Beyond the headlines, India's economy faces severe collateral damage from Gulf instability, with tens of millions of workers' remittances and critical trade routes disrupted, adding pressure to an already fragile post-pandemic recovery. Meanwhile, a federal court has ruled key Pentagon press restrictions unconstitutional, raising questions about transparency and information control as the conflict potentially moves toward negotiation.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-10",
       "summary": "# Episode Summary\n\nThis episode breaks down a dramatic 24-hour period in markets triggered by geopolitical tension with Iran, featuring wild swings in oil prices and stocks before rebounding on reports that the conflict could end soon. Beyond the markets, the discussion covers the succession of Iran's new Supreme Leader and the humanitarian toll of the conflict, including damage to critical water infrastructure amid an existing crisis. The episode also examines how rising energy prices complicate the administration's midterm agenda and explores China's strategic positioning through aggressive oil stockpiling ahead of the conflict.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-09",
-      "summary": "# Episode Summary\n\nThis episode breaks down three major stories reshaping the week ahead: crude oil crossing $110 a barrel for the first time since the pandemic, marking a sustained geopolitical energy shock with ripple effects across inflation, Fed policy, and consumer spending; newly released video evidence contradicting White House claims about a U.S. airstrike on an Iranian naval base that killed 175 people, mostly children, raising critical questions about government transparency and military objectives; and a $10 billion government-backed initiative to stockpile rare-earth minerals and reduce U.S. dependence on Chinese processing. Together, these stories illustrate how geopolitical instability, energy markets, and strategic industrial policy are conver",
       "keyTopics": []
     }
   ]
