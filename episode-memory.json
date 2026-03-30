@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-30",
+      "summary": "# Episode Summary\n\nOil prices have surged to $115 a barrel, pushing gas toward $4 a gallon and creating a stagflation scenario that leaves the Federal Reserve powerless to respond without worsening inflation — a dynamic not seriously priced into markets in four decades. Meanwhile, the administration claims \"mission accomplished\" in Iran despite the regime remaining fully intact, a rhetoric-reality gap that's widening amid anti-war protests fueled by soaring energy costs and economic pain. Add to this a sharp selloff in AI infrastructure stocks triggered by Chinese startup DeepSeek's claims of cheaper AI development, and markets face a rare convergence of energy shocks, geopolitical uncertainty, and valuation questions all",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-29",
       "summary": "# Sunday Briefing: Iran's Asymmetric Strategy, Rising Domestic Pressure, and Energy Market Shifts\n\nThis episode dives into three interconnected stories shaping markets and politics: Iran's escalating missile and drone campaign demonstrates it remains a potent force despite diplomatic hopes, with the Houthis now actively reigniting Red Sea shipping threats that could drive energy prices higher. Domestically, thousands of \"No Kings\" protests across the country—joined by Senate candidates—are creating real political pressure on the administration's military engagement, even as it juggles a government shutdown crisis. The deeper takeaway: this conflict is accelerating a global energy transition away from fossil fuels, creating a near-term",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-17",
       "summary": "# Tuesday Morning News Briefing: Iran Crisis, Oil Markets, and Geopolitical Shifts\n\nThe Iran conflict is escalating with new urgency following U.S. strikes on Tehran's critical oil export terminal and the emergence of Ali Larijani as Iran's de facto leader—a sophisticated operator who could either open diplomatic channels or extend the crisis. Meanwhile, Gulf allies are questioning their decades-long security relationships with Washington, turning to alternative partners and rejecting military contributions, while oil prices climb again amid ongoing supply disruptions. Beyond the Middle East, stock markets showed resilience yesterday, but structural risks loom: concentration in mega-cap tech stocks could intensify, private credit concerns may be overstated, and",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-16",
-      "summary": "# Monday Briefing: War, Fed Uncertainty, and Economic Ripple Effects\n\nThis episode dives into three converging crises reshaping markets and the economy: the Iran conflict entering its third week with the Trump administration facing a stark choice between escalation or a diplomatic exit, complicated further by threats to delay a summit with China unless it helps reopen the Strait of Hormuz. The Federal Reserve meets this week facing an impossible position—caught between inflation pressures from soaring oil prices and recession risks from global slowdowns—while divisions within the FOMC deepen over whether rate cuts are warranted. Beyond headline geopolitics and monetary policy, the real economic damage is already rippling through supply chains worldwide,",
       "keyTopics": []
     }
   ]
