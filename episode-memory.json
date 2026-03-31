@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-31",
+      "summary": "# Podcast Summary\n\nGas prices have hit $4 a gallon nationally following the Iran conflict that began in late February, creating immediate economic pain for consumers at the pump and throughout supply chains as fuel surcharges ripple through food distribution and other sectors. Beyond the energy shock, the podcast explores the deeper tech and AI market selloff—arguing the overvaluation problems predate Iran—and flags a critical risk: the massive 2026 IPO pipeline (SpaceX, OpenAI, Anthropic, and others) could freeze if market volatility persists, disrupting a major wealth creation engine. The discussion weaves together geopolitical uncertainty, Fed policy constraints, bond market repricing signals, and the",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-30",
       "summary": "# Episode Summary\n\nOil prices have surged to $115 a barrel, pushing gas toward $4 a gallon and creating a stagflation scenario that leaves the Federal Reserve powerless to respond without worsening inflation — a dynamic not seriously priced into markets in four decades. Meanwhile, the administration claims \"mission accomplished\" in Iran despite the regime remaining fully intact, a rhetoric-reality gap that's widening amid anti-war protests fueled by soaring energy costs and economic pain. Add to this a sharp selloff in AI infrastructure stocks triggered by Chinese startup DeepSeek's claims of cheaper AI development, and markets face a rare convergence of energy shocks, geopolitical uncertainty, and valuation questions all",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-18",
       "summary": "# Episode Summary\n\nThis episode unpacks a volatile geopolitical and economic landscape shaped by three interconnected stories: Israel's escalating Iran operations now openly pursuing regime change (with potential strikes on critical oil infrastructure like Kharg Island), the Federal Reserve's meeting today facing an impossible tradeoff between inflation and growth driven by energy shocks, and Asia's quiet pivot back to coal as LNG supplies get disrupted—a shift that could reshape global energy markets for years. The discussion reveals how market volatility masks relatively modest net price movements, explores the tension between AI import surges and Trump's trade deficit goals, and considers whether the current rotation from mega-cap tech to dividend-paying real economy stocks signals healthier market broadening",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-17",
-      "summary": "# Tuesday Morning News Briefing: Iran Crisis, Oil Markets, and Geopolitical Shifts\n\nThe Iran conflict is escalating with new urgency following U.S. strikes on Tehran's critical oil export terminal and the emergence of Ali Larijani as Iran's de facto leader—a sophisticated operator who could either open diplomatic channels or extend the crisis. Meanwhile, Gulf allies are questioning their decades-long security relationships with Washington, turning to alternative partners and rejecting military contributions, while oil prices climb again amid ongoing supply disruptions. Beyond the Middle East, stock markets showed resilience yesterday, but structural risks loom: concentration in mega-cap tech stocks could intensify, private credit concerns may be overstated, and",
       "keyTopics": []
     }
   ]
