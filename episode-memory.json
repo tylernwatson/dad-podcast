@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-01",
+      "summary": "# Episode Summary\n\nMarkets rally on signals of a potential Iran conflict resolution, with oil prices declining sharply and easing stagflation concerns that had constrained Federal Reserve options. Meanwhile, the Supreme Court hears landmark oral arguments on birthright citizenship, a constitutional case with far-reaching implications for presidential power that extends well beyond immigration policy. The episode also explores tech sector challenges—from autonomous vehicle deployment failures in China to valuation pressures in AI stocks—and examines whether current bull market momentum can sustain amid ongoing geopolitical and economic uncertainties.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-31",
       "summary": "# Podcast Summary\n\nGas prices have hit $4 a gallon nationally following the Iran conflict that began in late February, creating immediate economic pain for consumers at the pump and throughout supply chains as fuel surcharges ripple through food distribution and other sectors. Beyond the energy shock, the podcast explores the deeper tech and AI market selloff—arguing the overvaluation problems predate Iran—and flags a critical risk: the massive 2026 IPO pipeline (SpaceX, OpenAI, Anthropic, and others) could freeze if market volatility persists, disrupting a major wealth creation engine. The discussion weaves together geopolitical uncertainty, Fed policy constraints, bond market repricing signals, and the",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-19",
       "summary": "# Middle East Escalation and the Fed's Impossible Dilemma\n\nThis morning brings two major developments: Israel struck Iran's South Pars gas field, one of the world's largest natural gas reserves, escalating the Middle East conflict and threatening global LNG supplies through neighboring Qatar—a move that has oil prices surging and markets bracing for potential energy shocks across Europe and Asia. Simultaneously, the Fed faces a deepening bind as supply-side inflation pressures collide with recession concerns, leaving monetary policy tools that can't solve energy-driven price shocks, while Jerome Powell signals he's staying put amid tension with the White House over rate cut demands.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-18",
-      "summary": "# Episode Summary\n\nThis episode unpacks a volatile geopolitical and economic landscape shaped by three interconnected stories: Israel's escalating Iran operations now openly pursuing regime change (with potential strikes on critical oil infrastructure like Kharg Island), the Federal Reserve's meeting today facing an impossible tradeoff between inflation and growth driven by energy shocks, and Asia's quiet pivot back to coal as LNG supplies get disrupted—a shift that could reshape global energy markets for years. The discussion reveals how market volatility masks relatively modest net price movements, explores the tension between AI import surges and Trump's trade deficit goals, and considers whether the current rotation from mega-cap tech to dividend-paying real economy stocks signals healthier market broadening",
       "keyTopics": []
     }
   ]
