@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-02",
+      "summary": "# Episode Summary\n\nMarkets reacted sharply to President Trump's overnight address on Iran, which raised more questions than answers—particularly his statement that the Strait of Hormuz is \"not America's problem,\" despite 20% of global oil supply flowing through it. The speech erased recent progress in easing stagflation fears, with oil prices surging and stocks selling off, while the Federal Reserve remains boxed in and unable to cut rates in response. Beyond the immediate geopolitical turbulence, the episode explores how structural shifts like AI-enabled micro-companies and the potential freezing of a historically significant 2026 IPO pipeline could have far more durable economic consequences than the headlines suggest.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-01",
       "summary": "# Episode Summary\n\nMarkets rally on signals of a potential Iran conflict resolution, with oil prices declining sharply and easing stagflation concerns that had constrained Federal Reserve options. Meanwhile, the Supreme Court hears landmark oral arguments on birthright citizenship, a constitutional case with far-reaching implications for presidential power that extends well beyond immigration policy. The episode also explores tech sector challenges—from autonomous vehicle deployment failures in China to valuation pressures in AI stocks—and examines whether current bull market momentum can sustain amid ongoing geopolitical and economic uncertainties.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-20",
       "summary": "# Dad's Daily Digest: March 20th\n\nThis episode examines three critical stories shaping markets and geopolitics: the widening gap between U.S. and Israeli strategic goals in the Iran conflict, which threatens to eliminate diplomatic off-ramps; a record 7.7 million student loan defaults totaling $181 billion, signaling underappreciated consumer stress beyond headline inflation figures; and the evolving AI investment landscape, where defense and national security applications are reshaping the thesis that volatility exposed back in January. Together, these threads reveal growing tensions between geopolitical stability, household financial resilience, and shifting patterns in how capital is being deployed.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-19",
-      "summary": "# Middle East Escalation and the Fed's Impossible Dilemma\n\nThis morning brings two major developments: Israel struck Iran's South Pars gas field, one of the world's largest natural gas reserves, escalating the Middle East conflict and threatening global LNG supplies through neighboring Qatar—a move that has oil prices surging and markets bracing for potential energy shocks across Europe and Asia. Simultaneously, the Fed faces a deepening bind as supply-side inflation pressures collide with recession concerns, leaving monetary policy tools that can't solve energy-driven price shocks, while Jerome Powell signals he's staying put amid tension with the White House over rate cut demands.",
       "keyTopics": []
     }
   ]
