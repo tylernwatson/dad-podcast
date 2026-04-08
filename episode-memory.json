@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-08",
+      "summary": "# Episode Summary\n\nA ceasefire agreement between the U.S. and Iran sends markets into a relief rally, with oil prices plunging and stocks surging—but the two-week deal leaves major geopolitical tensions unresolved and energy supply normalization months away. Meanwhile, special elections in Georgia and Wisconsin signal major Democratic gains that could reshape the midterm outlook, while Delta Air Lines' strong earnings report demonstrates the resilience of American consumer demand even amid economic uncertainty.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-07",
       "summary": "# Episode Summary\n\nWith Trump's 8 p.m. deadline for Iran to open the Strait of Hormuz dominating market attention, oil prices are climbing and stocks are selling off as investors brace for potential military strikes on Iranian infrastructure. Meanwhile, a deeper analysis of market rotation reveals a more nuanced story: the Magnificent Seven tech stocks are in bear market territory, but the broader S&P 500 is holding up better than headlines suggest, with money rotating into less-stretched sectors rather than fleeing equities entirely. The episode balances geopolitical uncertainty with data-driven perspective on private credit defaults and portfolio positioning, while celebrating the successful Artemis II moon mission as a counterweight to the week",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-26",
       "summary": "# Episode Summary\n\nThis episode covers three major developing stories: an Israeli airstrike killing Iran's naval commander amid fragile diplomatic talks, creating tension between U.S. and Israeli strategic objectives and widening geopolitical uncertainty; landmark jury verdicts holding Meta and YouTube liable for harms to young users, drawing comparisons to Big Tobacco and signaling a potential shift in how courts and regulators treat social media platforms; and sharp market analysis showing bonds may be positioned for a sharp rally once oil prices stabilize, while equities face pre-existing valuation challenges despite high levels of pessimism already priced in. The episode also flags defense-tech investment momentum and NATO's first coordinated response to infrastructure sabotage as",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-25",
-      "summary": "# Episode Summary\n\nThis episode explores three major stories shaping markets and geopolitics: the ongoing partial blockade of the Strait of Hormuz, where Iranian drones present a complex challenge to U.S. efforts to restore shipping and the risks of potential tanker escort missions; the sobering investigation into the LaGuardia air collision that revealed cascading communication failures and renewed concerns about air travel safety; and OpenAI's strategic shutdown of its Sora video tool ahead of a potential IPO, signaling financial discipline but also questions about sustainable AI company valuations. The show also dives into contrarian analysis on private credit, challenging fears of contagion and arguing the asset class is being misdiagnosed",
       "keyTopics": []
     }
   ]
