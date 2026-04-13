@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-13",
+      "summary": "# Episode Summary\n\nThis episode examines a volatile geopolitical landscape reshaping global markets: the U.S. is preparing a naval blockade on Iranian ports following failed ceasefire negotiations, threatening to disrupt 20% of the world's oil supply through the Strait of Hormuz and driving energy prices higher. Meanwhile, Hungary's pro-Trump Prime Minister Orbán was defeated in weekend elections, weakening the administration's European alliance just as coordinated Western responses to Middle East tensions become critical. The episode also highlights how China's dominance in battery manufacturing and clean energy technology positions it to benefit as oil disruptions accelerate the global shift toward alternative energy infrastructure.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-12",
       "summary": "# Sunday Digest: Iran Talks Collapse, Oil Markets at Risk\n\nVice President Vance's 21-hour negotiation in Islamabad ended without a deal, leaving fundamental disagreements over the Strait of Hormuz and Iran's uranium stockpile unresolved—a development that threatens elevated oil prices and economic stability as Iran bets it can outlast U.S. political will. Beyond geopolitics, the episode explores the \"annoyance economy\" costing Americans $165 billion annually through hidden fees and chatbots, plus the accelerating global AI arms race that's outpacing governance frameworks in both financial and military domains.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-31",
       "summary": "# Podcast Summary\n\nGas prices have hit $4 a gallon nationally following the Iran conflict that began in late February, creating immediate economic pain for consumers at the pump and throughout supply chains as fuel surcharges ripple through food distribution and other sectors. Beyond the energy shock, the podcast explores the deeper tech and AI market selloff—arguing the overvaluation problems predate Iran—and flags a critical risk: the massive 2026 IPO pipeline (SpaceX, OpenAI, Anthropic, and others) could freeze if market volatility persists, disrupting a major wealth creation engine. The discussion weaves together geopolitical uncertainty, Fed policy constraints, bond market repricing signals, and the",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-30",
-      "summary": "# Episode Summary\n\nOil prices have surged to $115 a barrel, pushing gas toward $4 a gallon and creating a stagflation scenario that leaves the Federal Reserve powerless to respond without worsening inflation — a dynamic not seriously priced into markets in four decades. Meanwhile, the administration claims \"mission accomplished\" in Iran despite the regime remaining fully intact, a rhetoric-reality gap that's widening amid anti-war protests fueled by soaring energy costs and economic pain. Add to this a sharp selloff in AI infrastructure stocks triggered by Chinese startup DeepSeek's claims of cheaper AI development, and markets face a rare convergence of energy shocks, geopolitical uncertainty, and valuation questions all",
       "keyTopics": []
     }
   ]
