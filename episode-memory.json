@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-15",
+      "summary": "# Episode Summary\n\nThis episode unpacks the cascading consequences of the eight-week Iran blockade in the Strait of Hormuz, from GPS spoofing tactics that complicate military enforcement to strained U.S.-China relations over alleged arms shipments. Beyond geopolitics, the conflict is reshaping everyday life—driving up gas prices, spurring consumer interest in electric vehicles, and forcing major economies like Japan to spend billions protecting their supply chains while countries like India struggle to manage energy transitions amid grid infrastructure gaps.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-14",
       "summary": "# Episode Summary\n\nSeven weeks into the Iran conflict, a U.S. naval blockade at the Strait of Hormuz faces operational uncertainty as ships continue moving through despite enforcement claims, while a proposed 20-year nuclear suspension has calmed markets and boosted investor confidence in diplomatic resolution. Meanwhile, China is imposing new regulations to prevent foreign companies from leaving, and property developer Vanke's massive losses signal deeper structural problems in China's real estate sector—both developments reshaping how multinationals must navigate their supply chains and China exposure.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-02",
       "summary": "# Episode Summary\n\nMarkets reacted sharply to President Trump's overnight address on Iran, which raised more questions than answers—particularly his statement that the Strait of Hormuz is \"not America's problem,\" despite 20% of global oil supply flowing through it. The speech erased recent progress in easing stagflation fears, with oil prices surging and stocks selling off, while the Federal Reserve remains boxed in and unable to cut rates in response. Beyond the immediate geopolitical turbulence, the episode explores how structural shifts like AI-enabled micro-companies and the potential freezing of a historically significant 2026 IPO pipeline could have far more durable economic consequences than the headlines suggest.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-01",
-      "summary": "# Episode Summary\n\nMarkets rally on signals of a potential Iran conflict resolution, with oil prices declining sharply and easing stagflation concerns that had constrained Federal Reserve options. Meanwhile, the Supreme Court hears landmark oral arguments on birthright citizenship, a constitutional case with far-reaching implications for presidential power that extends well beyond immigration policy. The episode also explores tech sector challenges—from autonomous vehicle deployment failures in China to valuation pressures in AI stocks—and examines whether current bull market momentum can sustain amid ongoing geopolitical and economic uncertainties.",
       "keyTopics": []
     }
   ]
