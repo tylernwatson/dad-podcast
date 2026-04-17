@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-04-17</title>
+      <description># Today&apos;s Episode Summary
+
+A cease-fire between Israel and Lebanon clears the path for U.S.-Iran nuclear negotiations, though fragile conditions and political pressure on Netanyahu suggest obstacles remain. Meanwhile, Congress passed only a 10-day extension of warrantless surveillance law FISA Section 702 after libertarian Republicans blocked a longer renewal, leaving the Senate to approve the stopgap before expiration. Finally, federal agencies are racing to access Anthropic&apos;s new Claude Mythos Preview AI model, which can identify—and potentially create—cyberthreats, raising questions about whether AI capabilities are outpacing safety frameworks in national security applications.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-04-17.mp3" length="3801984" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-04-17.mp3</guid>
+      <itunes:duration>238</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-04-16</title>
       <description># Episode Summary
 
