@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-18",
+      "summary": "# Episode Summary\n\nThis episode examines three major stories: the Iran cease-fire negotiations and their complex implications for energy markets, where reopening the Strait of Hormuz won't automatically normalize oil prices due to lingering operational hesitation and supply chain friction. The discussion then shifts to mounting corporate profit pressures from tariffs, elevated wages, rising refinance costs, and AI-driven disruption to software business models. Finally, David Bahnsen's latest analysis challenges investors to distinguish between impressive AI capabilities and actual commercial impacts, warning against confusing technical awe with sound business model analysis.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-17",
       "summary": "# Today's Episode Summary\n\nA cease-fire between Israel and Lebanon clears the path for U.S.-Iran nuclear negotiations, though fragile conditions and political pressure on Netanyahu suggest obstacles remain. Meanwhile, Congress passed only a 10-day extension of warrantless surveillance law FISA Section 702 after libertarian Republicans blocked a longer renewal, leaving the Senate to approve the stopgap before expiration. Finally, federal agencies are racing to access Anthropic's new Claude Mythos Preview AI model, which can identify—and potentially create—cyberthreats, raising questions about whether AI capabilities are outpacing safety frameworks in national security applications.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-05",
       "summary": "# Sunday News Briefing: Iran Crisis, Oil Markets, and Washington's Quiet Policy Shifts\n\nThis episode covers three major stories shaping the week ahead: a U.S. airman's dramatic rescue from deep inside Iran in a high-risk military operation, and what oil markets' growing skepticism of diplomatic signals reveals about the real state of the conflict. The show also examines how immigration policy is advancing through quiet bureaucratic channels rather than public confrontation, and touches on notable legal challenges to the administration's college data demands—plus a surprising box office win for the new Super Mario Galaxy movie despite poor reviews.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-04",
-      "summary": "# Saturday News Briefing\n\nThis episode covers four major stories shaping the week ahead: a missing American airman after military operations in the Iran theater, creating potential leverage for hostage negotiations; Cabinet turbulence in Washington and questions about whether the administration's strategy against Iran matches its campaign promises; a deteriorating long-term budget outlook despite near-term deficit improvements; and the real-world impact of $4 gas on gig economy workers and consumer finances. Together, these stories paint a picture of mounting pressure—geopolitical, political, and economic—all converging at once.",
       "keyTopics": []
     }
   ]
