@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-27",
+      "summary": "# Episode Summary\n\nA Chinese AI startup called DeepSeek triggered a major market selloff by developing a competitive AI model at a fraction of U.S. competitors' costs, sending Nvidia down 16% and raising questions about whether expensive chip infrastructure is truly necessary for AI leadership. Meanwhile, Elon Musk's lawsuit against OpenAI kicks off in court today, seeking $150 billion in damages and a company restructuring over its shift from nonprofit to for-profit operations—a legal battle that could reshape the entire AI industry's commercialization path. As the Iran conflict enters its eighth week, the economic fallout is spreading globally, hitting China's economy particularly hard and prompting Beijing to block a Meta acquisition",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-26",
       "summary": "# Sunday Briefing: April 26th\n\nThis episode breaks down three major developing stories: a shooting at the White House Correspondents' Dinner that left a California suspect in custody while President Trump was in attendance, collapsed Iran nuclear talks in Islamabad that disrupted the city's economy and created uncertainty around future negotiations affecting oil markets and Middle East stability, and an investigative report revealing that U.S. Mint gold purchases are sourced through supply chains linked to foreign cartels—raising questions about commodity market transparency. The episode also covers emerging demographic trends showing couples delaying parenthood due to housing and childcare costs, and the growing influence of long-form podcasting in shaping serious discussions around AI and technology.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-14",
       "summary": "# Episode Summary\n\nSeven weeks into the Iran conflict, a U.S. naval blockade at the Strait of Hormuz faces operational uncertainty as ships continue moving through despite enforcement claims, while a proposed 20-year nuclear suspension has calmed markets and boosted investor confidence in diplomatic resolution. Meanwhile, China is imposing new regulations to prevent foreign companies from leaving, and property developer Vanke's massive losses signal deeper structural problems in China's real estate sector—both developments reshaping how multinationals must navigate their supply chains and China exposure.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-13",
-      "summary": "# Episode Summary\n\nThis episode examines a volatile geopolitical landscape reshaping global markets: the U.S. is preparing a naval blockade on Iranian ports following failed ceasefire negotiations, threatening to disrupt 20% of the world's oil supply through the Strait of Hormuz and driving energy prices higher. Meanwhile, Hungary's pro-Trump Prime Minister Orbán was defeated in weekend elections, weakening the administration's European alliance just as coordinated Western responses to Middle East tensions become critical. The episode also highlights how China's dominance in battery manufacturing and clean energy technology positions it to benefit as oil disruptions accelerate the global shift toward alternative energy infrastructure.",
       "keyTopics": []
     }
   ]
