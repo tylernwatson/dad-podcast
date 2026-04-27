@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-04-27</title>
+      <description># Episode Summary
+
+A Chinese AI startup called DeepSeek triggered a major market selloff by developing a competitive AI model at a fraction of U.S. competitors&apos; costs, sending Nvidia down 16% and raising questions about whether expensive chip infrastructure is truly necessary for AI leadership. Meanwhile, Elon Musk&apos;s lawsuit against OpenAI kicks off in court today, seeking $150 billion in damages and a company restructuring over its shift from nonprofit to for-profit operations—a legal battle that could reshape the entire AI industry&apos;s commercialization path. As the Iran conflict enters its eighth week, the economic fallout is spreading globally, hitting China&apos;s economy particularly hard and prompting Beijing to block a Meta acquisition</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-04-27.mp3" length="4403136" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-04-27.mp3</guid>
+      <itunes:duration>275</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-04-26</title>
       <description># Sunday Briefing: April 26th
 
