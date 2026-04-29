@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-29",
+      "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and policy this week: gas prices climbing to $4.23 nationally due to Middle East supply disruptions, while OPEC fractures as the UAE exits the cartel; the escalating Musk-Altman trial over OpenAI's governance transition and a potential $150 billion damages claim; and diplomatic nuance at a White House state dinner where King Charles subtly reinforced transatlantic commitments on checks and balances. The show also unpacks why Kevin Warsh's likely confirmation as Fed chair by mid-May matters less for interest rate decisions and more for how the Federal Reserve will manage its $7 trillion balance sheet—a",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-28",
       "summary": "# Daily Market Briefing: Fed Transition, AI Revenue Concerns, and Energy Crisis\n\nThis episode covers four critical stories shaping markets and geopolitics this week. First, Jerome Powell's anticipated final Fed meeting is overshadowed by what comes next under Kevin Warsh—expect a focus on balance sheet management rather than immediate rate cuts, contrary to market expectations. Second, OpenAI faces mounting pressure after missing internal revenue targets, raising questions about its billion-dollar capital spending and IPO timeline at a moment when the entire AI industry must prove profitability. Third, an eight-week Iran conflict has created a structural natural gas crunch that the U.S. can't quickly resolve, threatening energy prices across Europe",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-16",
       "summary": "# Episode Summary\n\nMarkets hit record highs on growing optimism that diplomatic talks could resolve the Iran conflict, but the reality on the ground is far messier—the blockade is difficult to enforce, and Iran has built economic cushions that could prolong the standoff. Meanwhile, European airlines face a potential jet fuel crisis if tanker shipments through the Strait of Hormuz don't resume soon, with ripple effects expected across tourism and travel industries heading into summer. Back in Washington, House Republicans returned from recess to find their legislative agenda in turmoil, unable to agree on basic issues like reopening the Department of Homeland Security—a credibility problem that compounds as the administration tries to project strength on foreign policy",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-15",
-      "summary": "# Episode Summary\n\nThis episode unpacks the cascading consequences of the eight-week Iran blockade in the Strait of Hormuz, from GPS spoofing tactics that complicate military enforcement to strained U.S.-China relations over alleged arms shipments. Beyond geopolitics, the conflict is reshaping everyday life—driving up gas prices, spurring consumer interest in electric vehicles, and forcing major economies like Japan to spend billions protecting their supply chains while countries like India struggle to manage energy transitions amid grid infrastructure gaps.",
       "keyTopics": []
     }
   ]
