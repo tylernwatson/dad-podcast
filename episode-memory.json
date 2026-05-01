@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-01",
+      "summary": "# Dad's Daily Digest - Friday, May 1st\n\nThis episode covers three major stories reshaping markets and policy: a deeply divided Federal Reserve wrestling with inflation concerns as new chair Kevin Warsh prepares to take the helm, U.S. oil companies refusing to increase production despite geopolitical tensions and high prices—keeping energy costs elevated and inflation pressures intact. Additionally, millions of Americans are quietly losing health insurance coverage as expired ACA subsidies price them out of the marketplace, creating a slow-motion healthcare crisis with significant downstream costs.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-30",
       "summary": "# Episode Summary\n\nOil prices have surged to wartime highs above $120 a barrel amid an ongoing Iran conflict that shows no signs of resolution, creating unprecedented pressure on inflation and central bank policy decisions worldwide. Federal Reserve Chair Powell's final meeting has complicated the outlook for incoming Fed chair Kevin Warsh, as markets now question whether rate cuts are viable given energy-driven inflation and economic fragility. The episode also explores emerging market concerns—from OpenAI's missed revenue targets and questions about AI spending justification, to contrarian investor signals showing retail flows chasing recovery rallies after selling market dips.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-18",
       "summary": "# Episode Summary\n\nThis episode examines three major stories: the Iran cease-fire negotiations and their complex implications for energy markets, where reopening the Strait of Hormuz won't automatically normalize oil prices due to lingering operational hesitation and supply chain friction. The discussion then shifts to mounting corporate profit pressures from tariffs, elevated wages, rising refinance costs, and AI-driven disruption to software business models. Finally, David Bahnsen's latest analysis challenges investors to distinguish between impressive AI capabilities and actual commercial impacts, warning against confusing technical awe with sound business model analysis.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-17",
-      "summary": "# Today's Episode Summary\n\nA cease-fire between Israel and Lebanon clears the path for U.S.-Iran nuclear negotiations, though fragile conditions and political pressure on Netanyahu suggest obstacles remain. Meanwhile, Congress passed only a 10-day extension of warrantless surveillance law FISA Section 702 after libertarian Republicans blocked a longer renewal, leaving the Senate to approve the stopgap before expiration. Finally, federal agencies are racing to access Anthropic's new Claude Mythos Preview AI model, which can identify—and potentially create—cyberthreats, raising questions about whether AI capabilities are outpacing safety frameworks in national security applications.",
       "keyTopics": []
     }
   ]
