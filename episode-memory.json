@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-02",
+      "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and geopolitics: the U.S. withdrawal of 5,000 troops from Germany following a diplomatic dispute with Chancellor Merz—a move with serious implications for NATO cohesion and European security. Spirit Airlines' complete shutdown marks the end of the ultra-low-cost carrier model, likely raising fares in competitive markets. The Trump administration's moves to relax federal cannabis regulations and extend tax breaks could unlock institutional capital for a sector long hamstrung by federal scheduling. Finally, a sharp analysis from Dividend Cafe cuts through market noise by reframing the recent 10% correction as normal volatility rather than evidence of a bubble—reminding",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-01",
       "summary": "# Dad's Daily Digest - Friday, May 1st\n\nThis episode covers three major stories reshaping markets and policy: a deeply divided Federal Reserve wrestling with inflation concerns as new chair Kevin Warsh prepares to take the helm, U.S. oil companies refusing to increase production despite geopolitical tensions and high prices—keeping energy costs elevated and inflation pressures intact. Additionally, millions of Americans are quietly losing health insurance coverage as expired ACA subsidies price them out of the marketplace, creating a slow-motion healthcare crisis with significant downstream costs.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-19",
       "summary": "# Episode Summary\n\nThis episode unpacks three major stories reshaping global markets and geopolitics: Iran's demonstration that controlling the Strait of Hormuz is a credible long-term deterrent—a capability that will shadow future negotiations regardless of ceasefire outcomes—and the ripple effects across Qatar's LNG exports and luxury goods sales in the Gulf. The second major focus is the DeepSeek AI shock that sent Nvidia and chip stocks tumbling, which the hosts contextualize as likely overblown panic; lower AI training costs typically expand overall market demand rather than shrink it, suggesting the underlying infrastructure thesis remains intact. Finally, the episode flags emerging Washington dynamics worth monitoring—the appointment of a Trump loy",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-18",
-      "summary": "# Episode Summary\n\nThis episode examines three major stories: the Iran cease-fire negotiations and their complex implications for energy markets, where reopening the Strait of Hormuz won't automatically normalize oil prices due to lingering operational hesitation and supply chain friction. The discussion then shifts to mounting corporate profit pressures from tariffs, elevated wages, rising refinance costs, and AI-driven disruption to software business models. Finally, David Bahnsen's latest analysis challenges investors to distinguish between impressive AI capabilities and actual commercial impacts, warning against confusing technical awe with sound business model analysis.",
       "keyTopics": []
     }
   ]
