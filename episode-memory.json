@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-04",
+      "summary": "# Episode Summary\n\nThis episode tracks two major stories reshaping markets and geopolitics: Iran's rejection of a U.S. proposal to escort ships through the Strait of Hormuz has sent oil prices climbing above $120 a barrel, complicating efforts to resolve the conflict while affecting everything from global inflation to Indian glassmaking industries—all as China plays both sides diplomatically ahead of Trump's Beijing visit. On the corporate front, GameStop has stunned markets with a $55 billion bid to acquire eBay, a move that signals ambitious expansion plans but faces enormous execution challenges and skepticism from analysts and investors alike.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-03",
       "summary": "# Sunday Briefing: May 3rd\n\nThis episode dives into three major stories shaping markets and everyday life: the Iran conflict's mounting political and economic costs, including $120+ oil and Fed challenges under incoming Chair Kevin Warsh; Spirit Airlines' sudden shutdown and what it signals about the collapse of ultra-low-cost carriers in an energy crisis; and the emerging regulatory battle over ultraprocessed food definitions that could reshape consumer staples companies and grocery shelves. From geopolitics to airline bankruptcies to food policy, these interconnected stories reveal how energy costs are rippling through inflation, business models, and government regulation.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-21",
       "summary": "# Episode Summary\n\nThis episode covers four major market and political developments: cautious optimism around U.S.-Iran peace talks is lifting oil prices and stocks, though deep negotiating tensions remain; the Federal Reserve leadership transition faces complications as Kevin Warsh's confirmation gets tangled with a criminal investigation into the central bank; Apple undergoes a significant leadership change with hardware engineer John Ternus replacing Tim Cook as CEO, raising questions about his ability to execute an AI strategy; and bank earnings are coming in stronger than expected, pushing back on recession fears despite broader concerns about margin compression and AI disruption. The episode also highlights why monitoring Warsh's confirmation timeline and upcoming earnings guidance from non-financial companies will be critical for understanding the",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-20",
-      "summary": "# Today's Episode Summary\n\nTensions are mounting on multiple fronts as Vice President Vance returns to peace negotiations with Iran while the U.S. simultaneously seizes cargo ships in the region—a mixed signal that's rattling markets and deflating earlier optimism about a swift resolution. Meanwhile, the Trump administration announced a major $166 billion tariff refund following a Supreme Court ruling, offering relief to American importers but raising questions about how quickly smaller businesses can navigate the refund process. These developments underscore broader challenges facing energy markets, supply chains, and government coordination as geopolitical and economic pressures continue to build.",
       "keyTopics": []
     }
   ]
