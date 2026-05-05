@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-05",
+      "summary": "# Podcast Summary\n\nThis episode examines the escalating Iran conflict and its ripple effects across global markets, particularly spiking oil prices above $120 a barrel despite mixed diplomatic signals. Key structural shifts include a growing rift between Saudi Arabia and the UAE within OPEC, China's aggressive push into renewable energy during the crisis, and Amazon's expansion of its logistics network as a competitive service — all of which signal longer-term inflation pressures and market uncertainty that investors are finally beginning to price in after weeks of remarkable resilience.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-04",
       "summary": "# Episode Summary\n\nThis episode tracks two major stories reshaping markets and geopolitics: Iran's rejection of a U.S. proposal to escort ships through the Strait of Hormuz has sent oil prices climbing above $120 a barrel, complicating efforts to resolve the conflict while affecting everything from global inflation to Indian glassmaking industries—all as China plays both sides diplomatically ahead of Trump's Beijing visit. On the corporate front, GameStop has stunned markets with a $55 billion bid to acquire eBay, a move that signals ambitious expansion plans but faces enormous execution challenges and skepticism from analysts and investors alike.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-22",
       "summary": "# Episode Summary\n\nThis episode unpacks three interconnected stories reshaping markets and business strategy. The Iran ceasefire is fraying as Tehran signals it can outlast economic pressure, triggering real-world disruption: energy hoarding is driving oil prices higher globally, and Lufthansa just announced cutting 20,000 flights due to skyrocketing jet fuel costs. Meanwhile, SpaceX's reported $60 billion bet to acquire AI coding startup Cursor raises sharp questions about capital allocation and business focus—a move that contrasts with broader skepticism about whether AI spending is actually rational. The week's through-line: technical capability and commercial value aren't the same thing, whether you're evaluating geopolit",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-21",
-      "summary": "# Episode Summary\n\nThis episode covers four major market and political developments: cautious optimism around U.S.-Iran peace talks is lifting oil prices and stocks, though deep negotiating tensions remain; the Federal Reserve leadership transition faces complications as Kevin Warsh's confirmation gets tangled with a criminal investigation into the central bank; Apple undergoes a significant leadership change with hardware engineer John Ternus replacing Tim Cook as CEO, raising questions about his ability to execute an AI strategy; and bank earnings are coming in stronger than expected, pushing back on recession fears despite broader concerns about margin compression and AI disruption. The episode also highlights why monitoring Warsh's confirmation timeline and upcoming earnings guidance from non-financial companies will be critical for understanding the",
       "keyTopics": []
     }
   ]
