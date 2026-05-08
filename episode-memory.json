@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-08",
+      "summary": "# Episode Summary\n\nThis episode tackles three major developments: escalating U.S.-Iran tensions following American strikes on Iranian military sites, with Saudi Arabia's denial of airspace support signaling friction even among traditional allies, while China positions itself to gain leverage ahead of Trump's Xi summit. Domestically, a jobs report lands this morning against a backdrop of elevated fuel costs and sticky inflation, forcing the Fed into a difficult position between supporting labor markets and controlling price pressures. Finally, the newsletter examines market volatility this year—from January's AI bubble concerns to March's correction to the current recovery—arguing that investors shouldn't conflate normal market drawdowns with structural crises.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-07",
       "summary": "# Episode Summary\n\nThis episode examines the long-term economic fallout from the Iran conflict, revealing that even if diplomatic negotiations succeed, the disrupted oil supply chain means price relief won't arrive quickly. Meanwhile, markets have shown remarkable resilience, recovering from a ten-percent drop in just eleven days, though the resilience is being tested as negotiations drag on through Pakistani intermediaries. The conversation also explores how the conflict is reshaping geopolitical power dynamics, with China gaining influence across energy-starved Asian economies, plus brief looks at solid consumer spending in fast food and a prediction market platform's eye-popping billion-dollar fundraise.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-25",
       "summary": "# Episode Summary\n\nThis episode tackles three major developing stories: the Iran nuclear standoff, where Trump's demand for complete elimination of Iran's atomic stockpile contradicts his 2018 withdrawal from the nuclear accord that triggered Iran's enrichment spree; the Federal Reserve leadership transition, where Kevin Warsh's nomination is expected to move quickly through the Senate, with the real policy shift likely to be in how the Fed manages its balance sheet rather than interest rates; and the emerging used EV market, where hundreds of thousands of expiring leases will flood the market with affordable late-model electric vehicles over the next three years. The episode also touches on SiriusXM's potential acquisition of iHeartMedia as a",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-24",
-      "summary": "# Episode Summary\n\nThis episode explores three interconnected global stories reshaping markets and geopolitics: the Iran standoff is evolving into a costly war of attrition that's depleting U.S. military supplies while accelerating China's push toward a dollar-independent financial system. Meanwhile, a $166 billion tariff refund is flowing primarily to corporate balance sheets rather than consumers who absorbed the original price increases—raising questions about policy intent versus outcome. Finally, the AI industry is entering a more sobering phase where companies face mounting pressure to prove that cutting-edge capabilities can actually generate sustainable revenue, with major players like OpenAI forced to impose cost discipline as the expense of staying competitive outpaces current business models.",
       "keyTopics": []
     }
   ]
