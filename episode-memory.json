@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-10",
+      "summary": "# Episode Summary\n\nThis episode tracks three major stories shaping markets and politics: the escalating Strait of Hormuz situation, where a U.S. Navy blockade remains firmly in place despite earlier signs of de-escalation, keeping oil prices elevated and straining Iran's economy; the growing reliance of American consumers on credit cards to cover rising costs for essentials like gas and groceries, signaling potential financial stress ahead; and Virginia's court-ordered redistricting that's scrambling the House map and upending Democratic candidacies just months before the midterms. The hosts also flag emerging risks around AI note-taking tools inadvertently exposing attorney-client privilege in corporate settings.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-09",
       "summary": "# Dad's Daily Digest: Saturday Episode Summary\n\nThis episode covers three major stories reshaping American politics and markets: aggressive Republican redistricting efforts that are redrawing the House map ahead of the midterms, a surprising new Iran supply route through the Caspian Sea that complicates diplomatic negotiations and oil price forecasts, and ongoing tariff court battles creating uncertainty for businesses and investors. The week's Dividend Cafe offers a masterclass in business strategy by analyzing Rupert Murdoch's decision to sell Disney the glamorous entertainment assets while keeping the cash-generative news and sports networks—a lesson in valuing durable cash flow over high-growth excitement.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-27",
       "summary": "# Episode Summary\n\nA Chinese AI startup called DeepSeek triggered a major market selloff by developing a competitive AI model at a fraction of U.S. competitors' costs, sending Nvidia down 16% and raising questions about whether expensive chip infrastructure is truly necessary for AI leadership. Meanwhile, Elon Musk's lawsuit against OpenAI kicks off in court today, seeking $150 billion in damages and a company restructuring over its shift from nonprofit to for-profit operations—a legal battle that could reshape the entire AI industry's commercialization path. As the Iran conflict enters its eighth week, the economic fallout is spreading globally, hitting China's economy particularly hard and prompting Beijing to block a Meta acquisition",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-26",
-      "summary": "# Sunday Briefing: April 26th\n\nThis episode breaks down three major developing stories: a shooting at the White House Correspondents' Dinner that left a California suspect in custody while President Trump was in attendance, collapsed Iran nuclear talks in Islamabad that disrupted the city's economy and created uncertainty around future negotiations affecting oil markets and Middle East stability, and an investigative report revealing that U.S. Mint gold purchases are sourced through supply chains linked to foreign cartels—raising questions about commodity market transparency. The episode also covers emerging demographic trends showing couples delaying parenthood due to housing and childcare costs, and the growing influence of long-form podcasting in shaping serious discussions around AI and technology.",
       "keyTopics": []
     }
   ]
