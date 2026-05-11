@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-11",
+      "summary": "# Episode Summary\n\nThis week brings major market-moving events, with Trump's Beijing summit with Xi Jinping taking center stage alongside unresolved Iran tensions and a resurgent political fight over the carried interest tax loophole. The summit carries significant weight on trade, Taiwan security, and Iran policy, with China signaling it's \"locked and loaded\" for potential confrontation, while Trump's rejection of Iran's latest offer suggests the naval standoff remains intact and could keep oil prices elevated. Domestically, new research on carried interest revenue potential is creating unexpected political momentum for closing a long-protected private equity tax break, while internationally, Britain's nationalization of its last major steel mill signals a broader trend of government intervention in",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-10",
       "summary": "# Episode Summary\n\nThis episode tracks three major stories shaping markets and politics: the escalating Strait of Hormuz situation, where a U.S. Navy blockade remains firmly in place despite earlier signs of de-escalation, keeping oil prices elevated and straining Iran's economy; the growing reliance of American consumers on credit cards to cover rising costs for essentials like gas and groceries, signaling potential financial stress ahead; and Virginia's court-ordered redistricting that's scrambling the House map and upending Democratic candidacies just months before the midterms. The hosts also flag emerging risks around AI note-taking tools inadvertently exposing attorney-client privilege in corporate settings.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-28",
       "summary": "# Daily Market Briefing: Fed Transition, AI Revenue Concerns, and Energy Crisis\n\nThis episode covers four critical stories shaping markets and geopolitics this week. First, Jerome Powell's anticipated final Fed meeting is overshadowed by what comes next under Kevin Warsh—expect a focus on balance sheet management rather than immediate rate cuts, contrary to market expectations. Second, OpenAI faces mounting pressure after missing internal revenue targets, raising questions about its billion-dollar capital spending and IPO timeline at a moment when the entire AI industry must prove profitability. Third, an eight-week Iran conflict has created a structural natural gas crunch that the U.S. can't quickly resolve, threatening energy prices across Europe",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-27",
-      "summary": "# Episode Summary\n\nA Chinese AI startup called DeepSeek triggered a major market selloff by developing a competitive AI model at a fraction of U.S. competitors' costs, sending Nvidia down 16% and raising questions about whether expensive chip infrastructure is truly necessary for AI leadership. Meanwhile, Elon Musk's lawsuit against OpenAI kicks off in court today, seeking $150 billion in damages and a company restructuring over its shift from nonprofit to for-profit operations—a legal battle that could reshape the entire AI industry's commercialization path. As the Iran conflict enters its eighth week, the economic fallout is spreading globally, hitting China's economy particularly hard and prompting Beijing to block a Meta acquisition",
       "keyTopics": []
     }
   ]
