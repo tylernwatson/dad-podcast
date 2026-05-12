@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-12",
+      "summary": "# Episode Summary\n\nThis episode breaks down how the Iran conflict is now driving U.S. inflation, with April's CPI coming in at 3.8% as energy costs replace tariffs as the primary price driver—a shift that leaves the Federal Reserve with limited policy tools to respond. Oil prices are climbing again as the ceasefire deteriorates, creating downstream effects across supply chains globally, from grocery prices to Japanese snack packaging. The discussion also covers the Microsoft-OpenAI trial's implications for AI investment structures and the stock market's resilience despite expensive valuations, supported by strong earnings growth that masks thin dividend yield support.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-11",
       "summary": "# Episode Summary\n\nThis week brings major market-moving events, with Trump's Beijing summit with Xi Jinping taking center stage alongside unresolved Iran tensions and a resurgent political fight over the carried interest tax loophole. The summit carries significant weight on trade, Taiwan security, and Iran policy, with China signaling it's \"locked and loaded\" for potential confrontation, while Trump's rejection of Iran's latest offer suggests the naval standoff remains intact and could keep oil prices elevated. Domestically, new research on carried interest revenue potential is creating unexpected political momentum for closing a long-protected private equity tax break, while internationally, Britain's nationalization of its last major steel mill signals a broader trend of government intervention in",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-29",
       "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and policy this week: gas prices climbing to $4.23 nationally due to Middle East supply disruptions, while OPEC fractures as the UAE exits the cartel; the escalating Musk-Altman trial over OpenAI's governance transition and a potential $150 billion damages claim; and diplomatic nuance at a White House state dinner where King Charles subtly reinforced transatlantic commitments on checks and balances. The show also unpacks why Kevin Warsh's likely confirmation as Fed chair by mid-May matters less for interest rate decisions and more for how the Federal Reserve will manage its $7 trillion balance sheet—a",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-28",
-      "summary": "# Daily Market Briefing: Fed Transition, AI Revenue Concerns, and Energy Crisis\n\nThis episode covers four critical stories shaping markets and geopolitics this week. First, Jerome Powell's anticipated final Fed meeting is overshadowed by what comes next under Kevin Warsh—expect a focus on balance sheet management rather than immediate rate cuts, contrary to market expectations. Second, OpenAI faces mounting pressure after missing internal revenue targets, raising questions about its billion-dollar capital spending and IPO timeline at a moment when the entire AI industry must prove profitability. Third, an eight-week Iran conflict has created a structural natural gas crunch that the U.S. can't quickly resolve, threatening energy prices across Europe",
       "keyTopics": []
     }
   ]
