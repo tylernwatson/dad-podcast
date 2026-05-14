@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-14",
+      "summary": "# Episode Summary\n\nThis episode tracks the Trump-Xi summit in Beijing, where negotiations over Iran policy and trade could reshape energy markets and U.S. inflation—though China's strategic patience may limit immediate breakthroughs. The show also explores how the crypto industry is lobbying Congress to lock in favorable regulations, and examines Rupert Murdoch's 2019 Disney deal as a masterclass in choosing durable cash-flow businesses over glamorous but capital-intensive assets.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-12",
       "summary": "# Episode Summary\n\nThis episode breaks down how the Iran conflict is now driving U.S. inflation, with April's CPI coming in at 3.8% as energy costs replace tariffs as the primary price driver—a shift that leaves the Federal Reserve with limited policy tools to respond. Oil prices are climbing again as the ceasefire deteriorates, creating downstream effects across supply chains globally, from grocery prices to Japanese snack packaging. The discussion also covers the Microsoft-OpenAI trial's implications for AI investment structures and the stock market's resilience despite expensive valuations, supported by strong earnings growth that masks thin dividend yield support.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-30",
       "summary": "# Episode Summary\n\nOil prices have surged to wartime highs above $120 a barrel amid an ongoing Iran conflict that shows no signs of resolution, creating unprecedented pressure on inflation and central bank policy decisions worldwide. Federal Reserve Chair Powell's final meeting has complicated the outlook for incoming Fed chair Kevin Warsh, as markets now question whether rate cuts are viable given energy-driven inflation and economic fragility. The episode also explores emerging market concerns—from OpenAI's missed revenue targets and questions about AI spending justification, to contrarian investor signals showing retail flows chasing recovery rallies after selling market dips.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-29",
-      "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and policy this week: gas prices climbing to $4.23 nationally due to Middle East supply disruptions, while OPEC fractures as the UAE exits the cartel; the escalating Musk-Altman trial over OpenAI's governance transition and a potential $150 billion damages claim; and diplomatic nuance at a White House state dinner where King Charles subtly reinforced transatlantic commitments on checks and balances. The show also unpacks why Kevin Warsh's likely confirmation as Fed chair by mid-May matters less for interest rate decisions and more for how the Federal Reserve will manage its $7 trillion balance sheet—a",
       "keyTopics": []
     }
   ]
