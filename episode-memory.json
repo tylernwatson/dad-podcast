@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-18",
+      "summary": "# Episode Summary\n\nThis episode breaks down how Trump's approval rating has dropped to 37 percent—a second-term low—driven largely by voter concerns about inflation, gas prices, and the ongoing Iran conflict. The hosts examine the political and economic ripple effects, including a G7 meeting in Paris this week aimed at coordinating a global response to energy price fallout and inflation. They also explore emerging economic anxieties like AI's impact on job prospects (surfacing in graduation speeches) and persistent healthcare insurance delays, highlighting how these stories interconnect with broader market trends and consumer confidence.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-17",
       "summary": "# Sunday's Top Stories: Iran's Economic Toll, GOP Primary Reckoning, and Trade Confusion\n\nRising gas and grocery prices from the Iran conflict are hitting American wallets hard and becoming a major political liability for Trump just months before the midterms, while inflation pressures ripple globally through disrupted energy markets in Qatar and beyond. Senator Bill Cassidy's loss in Louisiana's Republican primary signals the GOP base's unforgiving stance on Trump loyalty, even as the party grapples with midterm vulnerability in general elections where voters care more about inflation than primary politics. China's claim of a tariff reduction agreement contradicts Trump's post-summit messaging, leaving markets uncertain about what actually happened in Beijing and whether",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-04",
       "summary": "# Episode Summary\n\nThis episode tracks two major stories reshaping markets and geopolitics: Iran's rejection of a U.S. proposal to escort ships through the Strait of Hormuz has sent oil prices climbing above $120 a barrel, complicating efforts to resolve the conflict while affecting everything from global inflation to Indian glassmaking industries—all as China plays both sides diplomatically ahead of Trump's Beijing visit. On the corporate front, GameStop has stunned markets with a $55 billion bid to acquire eBay, a move that signals ambitious expansion plans but faces enormous execution challenges and skepticism from analysts and investors alike.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-03",
-      "summary": "# Sunday Briefing: May 3rd\n\nThis episode dives into three major stories shaping markets and everyday life: the Iran conflict's mounting political and economic costs, including $120+ oil and Fed challenges under incoming Chair Kevin Warsh; Spirit Airlines' sudden shutdown and what it signals about the collapse of ultra-low-cost carriers in an energy crisis; and the emerging regulatory battle over ultraprocessed food definitions that could reshape consumer staples companies and grocery shelves. From geopolitics to airline bankruptcies to food policy, these interconnected stories reveal how energy costs are rippling through inflation, business models, and government regulation.",
       "keyTopics": []
     }
   ]
