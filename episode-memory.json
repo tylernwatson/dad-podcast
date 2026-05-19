@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-19",
+      "summary": "# Episode Summary\n\nThis episode breaks down three critical stories shaping markets and politics: a massive $67 billion merger between Dominion Energy and NextEra that creates the world's largest utility with major exposure to AI infrastructure and renewable energy, beneath-the-surface market fragility characterized by thin breadth (fewer stocks participating in index gains), rising Treasury yields, and dangerous concentration of AI exposure across all asset classes. The political landscape is heating up as midterm races intensify with historically unfavorable conditions for the party in power, while a new GOP poll reveals roughly one-third of Republican voters want a different direction post-Trump.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-18",
       "summary": "# Episode Summary\n\nThis episode breaks down how Trump's approval rating has dropped to 37 percent—a second-term low—driven largely by voter concerns about inflation, gas prices, and the ongoing Iran conflict. The hosts examine the political and economic ripple effects, including a G7 meeting in Paris this week aimed at coordinating a global response to energy price fallout and inflation. They also explore emerging economic anxieties like AI's impact on job prospects (surfacing in graduation speeches) and persistent healthcare insurance delays, highlighting how these stories interconnect with broader market trends and consumer confidence.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-05",
       "summary": "# Podcast Summary\n\nThis episode examines the escalating Iran conflict and its ripple effects across global markets, particularly spiking oil prices above $120 a barrel despite mixed diplomatic signals. Key structural shifts include a growing rift between Saudi Arabia and the UAE within OPEC, China's aggressive push into renewable energy during the crisis, and Amazon's expansion of its logistics network as a competitive service — all of which signal longer-term inflation pressures and market uncertainty that investors are finally beginning to price in after weeks of remarkable resilience.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-04",
-      "summary": "# Episode Summary\n\nThis episode tracks two major stories reshaping markets and geopolitics: Iran's rejection of a U.S. proposal to escort ships through the Strait of Hormuz has sent oil prices climbing above $120 a barrel, complicating efforts to resolve the conflict while affecting everything from global inflation to Indian glassmaking industries—all as China plays both sides diplomatically ahead of Trump's Beijing visit. On the corporate front, GameStop has stunned markets with a $55 billion bid to acquire eBay, a move that signals ambitious expansion plans but faces enormous execution challenges and skepticism from analysts and investors alike.",
       "keyTopics": []
     }
   ]
