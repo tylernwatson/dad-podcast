@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-20",
+      "summary": "# Episode Summary\n\nThis episode tackles three interconnected financial and political stories shaping markets and policy. First, long-term Treasury yields have surged to pre-2008 crisis levels—signaling the bond market is demanding higher compensation to hold U.S. debt as the national debt crosses 100% of GDP, creating a potential trap for the new Fed chair. Second, a deep dive into the structural reality of America's debt obligations reveals the true scope extends well beyond headline numbers and demands long-term fiscal thinking around tax policy and entitlements. Finally, several Washington developments—including the IRS dropping a $100 million penalty against Trump, revelations about a potential Israel-backed plan to install a new Iranian leader,",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-19",
       "summary": "# Episode Summary\n\nThis episode breaks down three critical stories shaping markets and politics: a massive $67 billion merger between Dominion Energy and NextEra that creates the world's largest utility with major exposure to AI infrastructure and renewable energy, beneath-the-surface market fragility characterized by thin breadth (fewer stocks participating in index gains), rising Treasury yields, and dangerous concentration of AI exposure across all asset classes. The political landscape is heating up as midterm races intensify with historically unfavorable conditions for the party in power, while a new GOP poll reveals roughly one-third of Republican voters want a different direction post-Trump.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-06",
       "summary": "# Wednesday, May 6th: Oil Markets Shift on Iran De-escalation, Trump's Political Reach Expands\n\nOil prices dropped sharply overnight after the Trump administration paused its naval escort operations in the Strait of Hormuz, signaling a major de-escalation in Iran tensions that have roiled markets all week—though experts urge cautious optimism rather than celebration as the underlying diplomatic situation remains unresolved. In domestic politics, Trump demonstrated significant political force by backing primary challengers against Indiana Republicans who refused his redistricting demands, with at least five endorsed candidates winning and sending a clear message about his influence over state-level races that will shape House majorities for the next decade. The",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-05",
-      "summary": "# Podcast Summary\n\nThis episode examines the escalating Iran conflict and its ripple effects across global markets, particularly spiking oil prices above $120 a barrel despite mixed diplomatic signals. Key structural shifts include a growing rift between Saudi Arabia and the UAE within OPEC, China's aggressive push into renewable energy during the crisis, and Amazon's expansion of its logistics network as a competitive service — all of which signal longer-term inflation pressures and market uncertainty that investors are finally beginning to price in after weeks of remarkable resilience.",
       "keyTopics": []
     }
   ]
