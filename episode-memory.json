@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-21",
+      "summary": "# Episode Summary\n\nThis episode digs into three major stories shaping markets and politics: a wave of massive AI company IPOs (SpaceX, OpenAI, and Anthropic) hitting public markets at a moment when AI already dominates investment flows across equities and bonds—raising serious concentration risks. On the consumer front, strong sales at value retailers like Walmart and TJ Maxx reveal households are actually trading down and stretching budgets due to energy costs, signaling real economic strain beneath surface-level spending data. Finally, the show examines a controversial Trump administration fund offering payouts to allies and questions about weaponized federal machinery, alongside polling showing both parties heading into midterms with fractured bases",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-20",
       "summary": "# Episode Summary\n\nThis episode tackles three interconnected financial and political stories shaping markets and policy. First, long-term Treasury yields have surged to pre-2008 crisis levels—signaling the bond market is demanding higher compensation to hold U.S. debt as the national debt crosses 100% of GDP, creating a potential trap for the new Fed chair. Second, a deep dive into the structural reality of America's debt obligations reveals the true scope extends well beyond headline numbers and demands long-term fiscal thinking around tax policy and entitlements. Finally, several Washington developments—including the IRS dropping a $100 million penalty against Trump, revelations about a potential Israel-backed plan to install a new Iranian leader,",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-07",
       "summary": "# Episode Summary\n\nThis episode examines the long-term economic fallout from the Iran conflict, revealing that even if diplomatic negotiations succeed, the disrupted oil supply chain means price relief won't arrive quickly. Meanwhile, markets have shown remarkable resilience, recovering from a ten-percent drop in just eleven days, though the resilience is being tested as negotiations drag on through Pakistani intermediaries. The conversation also explores how the conflict is reshaping geopolitical power dynamics, with China gaining influence across energy-starved Asian economies, plus brief looks at solid consumer spending in fast food and a prediction market platform's eye-popping billion-dollar fundraise.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-06",
-      "summary": "# Wednesday, May 6th: Oil Markets Shift on Iran De-escalation, Trump's Political Reach Expands\n\nOil prices dropped sharply overnight after the Trump administration paused its naval escort operations in the Strait of Hormuz, signaling a major de-escalation in Iran tensions that have roiled markets all week—though experts urge cautious optimism rather than celebration as the underlying diplomatic situation remains unresolved. In domestic politics, Trump demonstrated significant political force by backing primary challengers against Indiana Republicans who refused his redistricting demands, with at least five endorsed candidates winning and sending a clear message about his influence over state-level races that will shape House majorities for the next decade. The",
       "keyTopics": []
     }
   ]
