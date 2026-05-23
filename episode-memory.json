@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-23",
+      "summary": "# Podcast Summary\n\nThis episode covers four major stories shaping the political and economic landscape: mounting political turbulence in Washington, including low approval ratings and Senate Republican defections over a controversial green card policy that would require applicants to leave the U.S.; a significant shake-up in national security following the resignation of the Director of National Intelligence and shifting dynamics on Iran negotiations that have sidelined Israel from diplomatic talks; Iran's ongoing pressure campaign on global shipping and its economic impact on energy markets and household costs; and an in-depth look at the data center boom driving AI infrastructure, placing it in historical context to help investors separate genuine opportunity from narrative hype.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-22",
       "summary": "# Episode Summary\n\nThis episode breaks down three major stories shaping the weekend: the Iran conflict is escalating with no ceasefire in sight, costing American households $44 billion in gas price premiums as Iran potentially seeks to institutionalize control over the Strait of Hormuz; Senate Republicans are publicly breaking ranks with Trump over a controversial $1.8 billion federal compensation fund, signaling cumulative erosion in party loyalty heading into midterms; and California Governor Newsom's \"universal basic capital\" proposal is gaining traction as a potential solution to ensure workers benefit from AI gains rather than wealth concentrating among shareholders. Together, these stories reveal a political landscape fractured on both sides, where kitchen-",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-09",
       "summary": "# Dad's Daily Digest: Saturday Episode Summary\n\nThis episode covers three major stories reshaping American politics and markets: aggressive Republican redistricting efforts that are redrawing the House map ahead of the midterms, a surprising new Iran supply route through the Caspian Sea that complicates diplomatic negotiations and oil price forecasts, and ongoing tariff court battles creating uncertainty for businesses and investors. The week's Dividend Cafe offers a masterclass in business strategy by analyzing Rupert Murdoch's decision to sell Disney the glamorous entertainment assets while keeping the cash-generative news and sports networks—a lesson in valuing durable cash flow over high-growth excitement.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-08",
-      "summary": "# Episode Summary\n\nThis episode tackles three major developments: escalating U.S.-Iran tensions following American strikes on Iranian military sites, with Saudi Arabia's denial of airspace support signaling friction even among traditional allies, while China positions itself to gain leverage ahead of Trump's Xi summit. Domestically, a jobs report lands this morning against a backdrop of elevated fuel costs and sticky inflation, forcing the Fed into a difficult position between supporting labor markets and controlling price pressures. Finally, the newsletter examines market volatility this year—from January's AI bubble concerns to March's correction to the current recovery—arguing that investors shouldn't conflate normal market drawdowns with structural crises.",
       "keyTopics": []
     }
   ]
