@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-24",
+      "summary": "# Today's Episode Summary\n\nThis Sunday's episode unpacks three interconnected stories reshaping markets and policy: the dramatic reshaping of the CFTC's regulatory oversight amid deregulation that favors crypto and prediction markets, raising questions about market integrity; the Supreme Court entering a critical decision period that could determine major elements of the administration's agenda on immigration and executive power; and the Iran conflict's ripple effects now disrupting Asian manufacturing through naphtha shortages, creating a slow-burn supply shock with delayed inflation implications. The common thread: mounting uncertainty about regulatory rules, institutional checks, and global supply chains that markets haven't fully priced in.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-23",
       "summary": "# Podcast Summary\n\nThis episode covers four major stories shaping the political and economic landscape: mounting political turbulence in Washington, including low approval ratings and Senate Republican defections over a controversial green card policy that would require applicants to leave the U.S.; a significant shake-up in national security following the resignation of the Director of National Intelligence and shifting dynamics on Iran negotiations that have sidelined Israel from diplomatic talks; Iran's ongoing pressure campaign on global shipping and its economic impact on energy markets and household costs; and an in-depth look at the data center boom driving AI infrastructure, placing it in historical context to help investors separate genuine opportunity from narrative hype.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-10",
       "summary": "# Episode Summary\n\nThis episode tracks three major stories shaping markets and politics: the escalating Strait of Hormuz situation, where a U.S. Navy blockade remains firmly in place despite earlier signs of de-escalation, keeping oil prices elevated and straining Iran's economy; the growing reliance of American consumers on credit cards to cover rising costs for essentials like gas and groceries, signaling potential financial stress ahead; and Virginia's court-ordered redistricting that's scrambling the House map and upending Democratic candidacies just months before the midterms. The hosts also flag emerging risks around AI note-taking tools inadvertently exposing attorney-client privilege in corporate settings.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-09",
-      "summary": "# Dad's Daily Digest: Saturday Episode Summary\n\nThis episode covers three major stories reshaping American politics and markets: aggressive Republican redistricting efforts that are redrawing the House map ahead of the midterms, a surprising new Iran supply route through the Caspian Sea that complicates diplomatic negotiations and oil price forecasts, and ongoing tariff court battles creating uncertainty for businesses and investors. The week's Dividend Cafe offers a masterclass in business strategy by analyzing Rupert Murdoch's decision to sell Disney the glamorous entertainment assets while keeping the cash-generative news and sports networks—a lesson in valuing durable cash flow over high-growth excitement.",
       "keyTopics": []
     }
   ]
