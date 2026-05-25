@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-25",
+      "summary": "# Podcast Summary\n\nThis episode covers two major stories with opposing market implications: a potentially incomplete Iran deal that could reopen the Strait of Hormuz and ease energy prices, alongside growing Republican concerns about their midterm prospects as the party struggles with inflation, elevated gas prices, and internal divisions. Additionally, the show discusses a papal encyclical on AI that raises questions about wealth concentration and regulation, and explores China's shift toward luxury domestic brands at the expense of European competitors.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-24",
       "summary": "# Today's Episode Summary\n\nThis Sunday's episode unpacks three interconnected stories reshaping markets and policy: the dramatic reshaping of the CFTC's regulatory oversight amid deregulation that favors crypto and prediction markets, raising questions about market integrity; the Supreme Court entering a critical decision period that could determine major elements of the administration's agenda on immigration and executive power; and the Iran conflict's ripple effects now disrupting Asian manufacturing through naphtha shortages, creating a slow-burn supply shock with delayed inflation implications. The common thread: mounting uncertainty about regulatory rules, institutional checks, and global supply chains that markets haven't fully priced in.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-11",
       "summary": "# Episode Summary\n\nThis week brings major market-moving events, with Trump's Beijing summit with Xi Jinping taking center stage alongside unresolved Iran tensions and a resurgent political fight over the carried interest tax loophole. The summit carries significant weight on trade, Taiwan security, and Iran policy, with China signaling it's \"locked and loaded\" for potential confrontation, while Trump's rejection of Iran's latest offer suggests the naval standoff remains intact and could keep oil prices elevated. Domestically, new research on carried interest revenue potential is creating unexpected political momentum for closing a long-protected private equity tax break, while internationally, Britain's nationalization of its last major steel mill signals a broader trend of government intervention in",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-10",
-      "summary": "# Episode Summary\n\nThis episode tracks three major stories shaping markets and politics: the escalating Strait of Hormuz situation, where a U.S. Navy blockade remains firmly in place despite earlier signs of de-escalation, keeping oil prices elevated and straining Iran's economy; the growing reliance of American consumers on credit cards to cover rising costs for essentials like gas and groceries, signaling potential financial stress ahead; and Virginia's court-ordered redistricting that's scrambling the House map and upending Democratic candidacies just months before the midterms. The hosts also flag emerging risks around AI note-taking tools inadvertently exposing attorney-client privilege in corporate settings.",
       "keyTopics": []
     }
   ]
