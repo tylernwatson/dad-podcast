@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-26",
+      "summary": "# Episode Summary\n\nThis episode covers four major stories: escalating U.S.-Iran tensions following American military strikes that have complicated peace negotiations and driven up oil prices, with significant implications for summer gas costs; a significant corporate shake-up at BP with the removal of its chairman over governance concerns; major AI funding momentum, including OpenRouter's $113 million raise and the Vatican's new encyclical criticizing tech wealth concentration; and a deeper institutional concern about eroding trust in the Justice Department among prosecutors and grand juries. The episode explores how these seemingly separate stories—geopolitical conflict, corporate instability, tech investment, and institutional credibility—are interconnected forces that could impact everything from your wallet to capital markets.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-25",
       "summary": "# Podcast Summary\n\nThis episode covers two major stories with opposing market implications: a potentially incomplete Iran deal that could reopen the Strait of Hormuz and ease energy prices, alongside growing Republican concerns about their midterm prospects as the party struggles with inflation, elevated gas prices, and internal divisions. Additionally, the show discusses a papal encyclical on AI that raises questions about wealth concentration and regulation, and explores China's shift toward luxury domestic brands at the expense of European competitors.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-12",
       "summary": "# Episode Summary\n\nThis episode breaks down how the Iran conflict is now driving U.S. inflation, with April's CPI coming in at 3.8% as energy costs replace tariffs as the primary price driver—a shift that leaves the Federal Reserve with limited policy tools to respond. Oil prices are climbing again as the ceasefire deteriorates, creating downstream effects across supply chains globally, from grocery prices to Japanese snack packaging. The discussion also covers the Microsoft-OpenAI trial's implications for AI investment structures and the stock market's resilience despite expensive valuations, supported by strong earnings growth that masks thin dividend yield support.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-11",
-      "summary": "# Episode Summary\n\nThis week brings major market-moving events, with Trump's Beijing summit with Xi Jinping taking center stage alongside unresolved Iran tensions and a resurgent political fight over the carried interest tax loophole. The summit carries significant weight on trade, Taiwan security, and Iran policy, with China signaling it's \"locked and loaded\" for potential confrontation, while Trump's rejection of Iran's latest offer suggests the naval standoff remains intact and could keep oil prices elevated. Domestically, new research on carried interest revenue potential is creating unexpected political momentum for closing a long-protected private equity tax break, while internationally, Britain's nationalization of its last major steel mill signals a broader trend of government intervention in",
       "keyTopics": []
     }
   ]
