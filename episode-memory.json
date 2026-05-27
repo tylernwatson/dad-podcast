@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-27",
+      "summary": "# Episode Summary\n\nTexas's primary runoff results are reshaping the political landscape: scandal-plagued Ken Paxton's Trump-backed victory over establishment Senator John Cornyn could unexpectedly open the state to Democrats, while signaling an ongoing purge of independent Republicans from the party. The episode also explores the trillion-dollar memory chip industry—dominated by Samsung, SK Hynix, and Micron—as the overlooked yet critical infrastructure powering AI's explosive growth, alongside emerging questions about labor equity and classroom AI regulation. Finally, a deregulation wave is sparking a land rush for new bank charters from crypto and fintech firms, raising compound systemic risks that warrant closer scrutiny.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-26",
       "summary": "# Episode Summary\n\nThis episode covers four major stories: escalating U.S.-Iran tensions following American military strikes that have complicated peace negotiations and driven up oil prices, with significant implications for summer gas costs; a significant corporate shake-up at BP with the removal of its chairman over governance concerns; major AI funding momentum, including OpenRouter's $113 million raise and the Vatican's new encyclical criticizing tech wealth concentration; and a deeper institutional concern about eroding trust in the Justice Department among prosecutors and grand juries. The episode explores how these seemingly separate stories—geopolitical conflict, corporate instability, tech investment, and institutional credibility—are interconnected forces that could impact everything from your wallet to capital markets.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-14",
       "summary": "# Episode Summary\n\nThis episode tracks the Trump-Xi summit in Beijing, where negotiations over Iran policy and trade could reshape energy markets and U.S. inflation—though China's strategic patience may limit immediate breakthroughs. The show also explores how the crypto industry is lobbying Congress to lock in favorable regulations, and examines Rupert Murdoch's 2019 Disney deal as a masterclass in choosing durable cash-flow businesses over glamorous but capital-intensive assets.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-12",
-      "summary": "# Episode Summary\n\nThis episode breaks down how the Iran conflict is now driving U.S. inflation, with April's CPI coming in at 3.8% as energy costs replace tariffs as the primary price driver—a shift that leaves the Federal Reserve with limited policy tools to respond. Oil prices are climbing again as the ceasefire deteriorates, creating downstream effects across supply chains globally, from grocery prices to Japanese snack packaging. The discussion also covers the Microsoft-OpenAI trial's implications for AI investment structures and the stock market's resilience despite expensive valuations, supported by strong earnings growth that masks thin dividend yield support.",
       "keyTopics": []
     }
   ]
