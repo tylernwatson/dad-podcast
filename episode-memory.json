@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-28",
+      "summary": "# Today's Top Stories\n\nThis episode covers three major developments reshaping markets and politics: a higher-than-expected PCE inflation reading tied to the Iran conflict that's forcing the Fed to reconsider rate hikes and threatening mortgage relief hopes, a Justice Department criminal inquiry into E. Jean Carroll that's part of a documented pattern of investigations targeting perceived presidential enemies—raising serious questions about institutional credibility and rule of law. The show also tracks broader political fractures, including Gen Z male voter disillusionment with Trump, governance chaos at BP over energy strategy, and insider trading charges in the prediction markets space that threaten to undermine platform legitimacy.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-27",
       "summary": "# Episode Summary\n\nTexas's primary runoff results are reshaping the political landscape: scandal-plagued Ken Paxton's Trump-backed victory over establishment Senator John Cornyn could unexpectedly open the state to Democrats, while signaling an ongoing purge of independent Republicans from the party. The episode also explores the trillion-dollar memory chip industry—dominated by Samsung, SK Hynix, and Micron—as the overlooked yet critical infrastructure powering AI's explosive growth, alongside emerging questions about labor equity and classroom AI regulation. Finally, a deregulation wave is sparking a land rush for new bank charters from crypto and fintech firms, raising compound systemic risks that warrant closer scrutiny.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-15",
       "summary": "# Weekly Market Wrap: Beijing Summit Disappoints, Fed Leadership Transitions, Oil Pressures Inflation\n\nThis episode breaks down three major stories shaping markets this week: Trump's summit in Beijing with Xi Jinping yielded underwhelming results on trade and critically failed to secure Chinese leverage over Iran, leaving oil prices climbing in the high nineties. Meanwhile, the Federal Reserve is undergoing a leadership transition as Jerome Powell hands off to Kevin Warsh, who faces the immediate challenge of navigating sticky inflation (now at 3.8% driven by energy) without traditional policy tools. Throughout it all, the S&P 500 remains propped up by strong earnings growth (up 27% year",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-14",
-      "summary": "# Episode Summary\n\nThis episode tracks the Trump-Xi summit in Beijing, where negotiations over Iran policy and trade could reshape energy markets and U.S. inflation—though China's strategic patience may limit immediate breakthroughs. The show also explores how the crypto industry is lobbying Congress to lock in favorable regulations, and examines Rupert Murdoch's 2019 Disney deal as a masterclass in choosing durable cash-flow businesses over glamorous but capital-intensive assets.",
       "keyTopics": []
     }
   ]
