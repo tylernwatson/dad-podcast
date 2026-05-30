@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-30",
+      "summary": "# This Week's Key Topics\n\nThis episode digs into three major stories: Kevin Warsh's confirmation as Fed Chair and what it means for monetary policy independence versus actual economic performance; a federal judge's unusual move to reopen Trump's IRS lawsuit while questioning the Justice Department's conduct, signaling renewed institutional checks on executive power; and China's accelerating rise in biotech innovation—particularly in oncology drug development—that threatens long-held assumptions about U.S. pharmaceutical dominance and could force a reassessment of major pharma valuations. The episode also touches on the SEC's proposed elimination of climate disclosure rules and the ongoing political uncertainty around Trump's 2028 succession plans.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-29",
       "summary": "# Today's Episode Summary\n\nThis episode covers three major stories shaping markets and policy: the Trump administration's inconsistent Iran strategy is creating dangerous uncertainty around the Strait of Hormuz and driving energy prices higher, potentially becoming the defining economic issue of summer; Anthropic has surpassed OpenAI with a $900 billion valuation, signaling massive capital flows into AI despite questions about whether the valuations will hold up. The episode also examines the Justice Department's broadening investigation into private citizens who funded E. Jean Carroll's lawsuits—raising concerns about using federal scrutiny as a chilling effect on civil litigation—before closing on a more optimistic note about how some companies are using AI to boost worker",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-17",
       "summary": "# Sunday's Top Stories: Iran's Economic Toll, GOP Primary Reckoning, and Trade Confusion\n\nRising gas and grocery prices from the Iran conflict are hitting American wallets hard and becoming a major political liability for Trump just months before the midterms, while inflation pressures ripple globally through disrupted energy markets in Qatar and beyond. Senator Bill Cassidy's loss in Louisiana's Republican primary signals the GOP base's unforgiving stance on Trump loyalty, even as the party grapples with midterm vulnerability in general elections where voters care more about inflation than primary politics. China's claim of a tariff reduction agreement contradicts Trump's post-summit messaging, leaving markets uncertain about what actually happened in Beijing and whether",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-16",
-      "summary": "# Episode Summary\n\nThis episode examines three major developments shaping markets and geopolitics: the U.S. debt crossing 100% of GDP—a significant long-term milestone requiring serious 20-year planning despite short-term market indifference—and how rising oil prices are redistributing wealth globally from energy-importing nations to producers, with major geopolitical implications. The show also tracks escalating U.S. pressure campaigns against Cuba and a notably softer China stance from new Secretary of State Marco Rubio, while connecting these seemingly separate stories to underlying inflation, Fed policy, and supply chain dynamics.",
       "keyTopics": []
     }
   ]
