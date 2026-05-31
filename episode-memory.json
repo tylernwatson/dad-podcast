@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-31",
+      "summary": "# Sunday Digest Summary\n\nThis episode covers four major stories reshaping markets and politics: escalating Iran nuclear negotiations and their potential impact on oil prices heading into summer; a massive exodus of 10,000+ federal lawyers that's weakening government legal capacity while strengthening opposition groups; redistricting battles across Southern states that could reshape electoral maps and legislative control; and Airbnb's evolution from home-sharing disruptor into a full-service travel platform competing with established players like Expedia. Each story carries significant implications for everything from consumer gas prices to regulatory quality to the 2026 midterms.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-30",
       "summary": "# This Week's Key Topics\n\nThis episode digs into three major stories: Kevin Warsh's confirmation as Fed Chair and what it means for monetary policy independence versus actual economic performance; a federal judge's unusual move to reopen Trump's IRS lawsuit while questioning the Justice Department's conduct, signaling renewed institutional checks on executive power; and China's accelerating rise in biotech innovation—particularly in oncology drug development—that threatens long-held assumptions about U.S. pharmaceutical dominance and could force a reassessment of major pharma valuations. The episode also touches on the SEC's proposed elimination of climate disclosure rules and the ongoing political uncertainty around Trump's 2028 succession plans.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-18",
       "summary": "# Episode Summary\n\nThis episode breaks down how Trump's approval rating has dropped to 37 percent—a second-term low—driven largely by voter concerns about inflation, gas prices, and the ongoing Iran conflict. The hosts examine the political and economic ripple effects, including a G7 meeting in Paris this week aimed at coordinating a global response to energy price fallout and inflation. They also explore emerging economic anxieties like AI's impact on job prospects (surfacing in graduation speeches) and persistent healthcare insurance delays, highlighting how these stories interconnect with broader market trends and consumer confidence.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-17",
-      "summary": "# Sunday's Top Stories: Iran's Economic Toll, GOP Primary Reckoning, and Trade Confusion\n\nRising gas and grocery prices from the Iran conflict are hitting American wallets hard and becoming a major political liability for Trump just months before the midterms, while inflation pressures ripple globally through disrupted energy markets in Qatar and beyond. Senator Bill Cassidy's loss in Louisiana's Republican primary signals the GOP base's unforgiving stance on Trump loyalty, even as the party grapples with midterm vulnerability in general elections where voters care more about inflation than primary politics. China's claim of a tariff reduction agreement contradicts Trump's post-summit messaging, leaving markets uncertain about what actually happened in Beijing and whether",
       "keyTopics": []
     }
   ]
