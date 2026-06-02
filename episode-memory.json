@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-02",
+      "summary": "# Episode Summary\n\nThis episode tracks four major developments reshaping markets and policy: the Trump administration's new 25% tariff on Brazilian imports—adding inflationary pressure as the Fed navigates delicate conditions—and escalating Middle East tensions where Trump's dismissive stance on Iran negotiations contradicts de-escalatory signals. On Wall Street, a landmark conviction of prominent short-seller Andrew Left raises questions about the line between legitimate research and market manipulation. Finally, the Dividend Cafe flags a striking combination of historical valuation extremes, mega-cap concentration, and record household stock allocation—signaling that while markets continue climbing, the easy gains may be behind us and discipline is now essential.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-01",
       "summary": "# Monday Morning Briefing: Iran Tensions, Major Casino Bid, and Tech Security Concerns\n\nThis episode covers three major stories shaping markets and politics: escalating U.S.-Iran military exchanges that are driving oil prices higher and straining consumer wallets—especially ahead of midterms—while the U.S. Navy quietly escorts 70+ commercial ships through the critical Strait of Hormuz. Barry Diller's company is preparing an $18 billion takeover bid for MGM Resorts, signaling confidence in the financing environment despite elevated interest rates. Finally, a report reveals the Chinese military openly attempted to acquire restricted Nvidia chips over six years, adding fuel to the debate over AI chip",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-20",
       "summary": "# Episode Summary\n\nThis episode tackles three interconnected financial and political stories shaping markets and policy. First, long-term Treasury yields have surged to pre-2008 crisis levels—signaling the bond market is demanding higher compensation to hold U.S. debt as the national debt crosses 100% of GDP, creating a potential trap for the new Fed chair. Second, a deep dive into the structural reality of America's debt obligations reveals the true scope extends well beyond headline numbers and demands long-term fiscal thinking around tax policy and entitlements. Finally, several Washington developments—including the IRS dropping a $100 million penalty against Trump, revelations about a potential Israel-backed plan to install a new Iranian leader,",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-19",
-      "summary": "# Episode Summary\n\nThis episode breaks down three critical stories shaping markets and politics: a massive $67 billion merger between Dominion Energy and NextEra that creates the world's largest utility with major exposure to AI infrastructure and renewable energy, beneath-the-surface market fragility characterized by thin breadth (fewer stocks participating in index gains), rising Treasury yields, and dangerous concentration of AI exposure across all asset classes. The political landscape is heating up as midterm races intensify with historically unfavorable conditions for the party in power, while a new GOP poll reveals roughly one-third of Republican voters want a different direction post-Trump.",
       "keyTopics": []
     }
   ]
