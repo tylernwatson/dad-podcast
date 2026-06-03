@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-03",
+      "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping markets and politics: Iranian drones striking Kuwait's airport in a significant Persian Gulf escalation that's driving oil prices higher, the Trump administration's sweeping new tariff campaign targeting 59 countries on forced labor grounds, and primary election results that complicate the narrative around Trump's endorsement power while reshaping the midterm landscape. The show also explores what Fed independence really means in a deep-dive analysis of Kevin Warsh's confirmation as Fed chair, arguing the debate often oversimplifies a more nuanced historical reality.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-02",
       "summary": "# Episode Summary\n\nThis episode tracks four major developments reshaping markets and policy: the Trump administration's new 25% tariff on Brazilian imports—adding inflationary pressure as the Fed navigates delicate conditions—and escalating Middle East tensions where Trump's dismissive stance on Iran negotiations contradicts de-escalatory signals. On Wall Street, a landmark conviction of prominent short-seller Andrew Left raises questions about the line between legitimate research and market manipulation. Finally, the Dividend Cafe flags a striking combination of historical valuation extremes, mega-cap concentration, and record household stock allocation—signaling that while markets continue climbing, the easy gains may be behind us and discipline is now essential.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-21",
       "summary": "# Episode Summary\n\nThis episode digs into three major stories shaping markets and politics: a wave of massive AI company IPOs (SpaceX, OpenAI, and Anthropic) hitting public markets at a moment when AI already dominates investment flows across equities and bonds—raising serious concentration risks. On the consumer front, strong sales at value retailers like Walmart and TJ Maxx reveal households are actually trading down and stretching budgets due to energy costs, signaling real economic strain beneath surface-level spending data. Finally, the show examines a controversial Trump administration fund offering payouts to allies and questions about weaponized federal machinery, alongside polling showing both parties heading into midterms with fractured bases",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-20",
-      "summary": "# Episode Summary\n\nThis episode tackles three interconnected financial and political stories shaping markets and policy. First, long-term Treasury yields have surged to pre-2008 crisis levels—signaling the bond market is demanding higher compensation to hold U.S. debt as the national debt crosses 100% of GDP, creating a potential trap for the new Fed chair. Second, a deep dive into the structural reality of America's debt obligations reveals the true scope extends well beyond headline numbers and demands long-term fiscal thinking around tax policy and entitlements. Finally, several Washington developments—including the IRS dropping a $100 million penalty against Trump, revelations about a potential Israel-backed plan to install a new Iranian leader,",
       "keyTopics": []
     }
   ]
