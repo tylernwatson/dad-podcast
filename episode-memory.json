@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-05",
+      "summary": "# Friday, June 5th: Jobs, Congress, and AI's Future\n\nThe labor market remains stable but gives the Fed no reason to cut rates anytime soon—while young graduates face a concerning employment crisis that could scar their earnings for years. Congress is increasingly defying executive branch foreign policy on Ukraine and Iran, signaling a real institutional pushback, as China simultaneously tightens its economic fortress and loses leverage over North Korea to Russia. Finally, AI safety company Anthropic just proposed an international \"brake pedal\" framework for dangerous AI capabilities, a move that could reshape the industry's trajectory and investor outlook if it gains traction.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-04",
       "summary": "# Thursday's Essential Briefing\n\nCongress delivers a rare bipartisan rebuke to the executive on Iran war powers—four Republicans cross party lines in a signal that legislative constraints are now limiting unilateral escalation, with meaningful implications for oil price stability and energy security vulnerabilities exposed by the conflict. Meanwhile, SpaceX prepares for what could be history's largest IPO while markets hit new highs, prompting sharp warnings from analysts about stretched valuations, record household stock allocation, and the historical pattern that emerges when all three converge—a moment calling for discipline rather than panic.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-23",
       "summary": "# Podcast Summary\n\nThis episode covers four major stories shaping the political and economic landscape: mounting political turbulence in Washington, including low approval ratings and Senate Republican defections over a controversial green card policy that would require applicants to leave the U.S.; a significant shake-up in national security following the resignation of the Director of National Intelligence and shifting dynamics on Iran negotiations that have sidelined Israel from diplomatic talks; Iran's ongoing pressure campaign on global shipping and its economic impact on energy markets and household costs; and an in-depth look at the data center boom driving AI infrastructure, placing it in historical context to help investors separate genuine opportunity from narrative hype.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-22",
-      "summary": "# Episode Summary\n\nThis episode breaks down three major stories shaping the weekend: the Iran conflict is escalating with no ceasefire in sight, costing American households $44 billion in gas price premiums as Iran potentially seeks to institutionalize control over the Strait of Hormuz; Senate Republicans are publicly breaking ranks with Trump over a controversial $1.8 billion federal compensation fund, signaling cumulative erosion in party loyalty heading into midterms; and California Governor Newsom's \"universal basic capital\" proposal is gaining traction as a potential solution to ensure workers benefit from AI gains rather than wealth concentrating among shareholders. Together, these stories reveal a political landscape fractured on both sides, where kitchen-",
       "keyTopics": []
     }
   ]
