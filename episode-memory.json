@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-06",
+      "summary": "# Episode Summary\n\nThis week's markets got a sharp reality check when a stronger-than-expected jobs report triggered a 2.5% drop in the S&P 500—the worst day of the year—as investors repriced expectations for Fed rate cuts. Beyond the markets, the episode digs into mounting stress in immigration courts overwhelmed by deportation surge caseloads, the intersection of Texas politics and enforcement targeting Latino voters, and a dual threat to cattle ranchers from creeping screwworm infestations and drought conditions. The Dividend Cafe takes an unexpected turn this week, pivoting from traditional financial analysis to share a commencement speech about resilience and long-term perspective—a timely",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-05",
       "summary": "# Friday, June 5th: Jobs, Congress, and AI's Future\n\nThe labor market remains stable but gives the Fed no reason to cut rates anytime soon—while young graduates face a concerning employment crisis that could scar their earnings for years. Congress is increasingly defying executive branch foreign policy on Ukraine and Iran, signaling a real institutional pushback, as China simultaneously tightens its economic fortress and loses leverage over North Korea to Russia. Finally, AI safety company Anthropic just proposed an international \"brake pedal\" framework for dangerous AI capabilities, a move that could reshape the industry's trajectory and investor outlook if it gains traction.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-24",
       "summary": "# Today's Episode Summary\n\nThis Sunday's episode unpacks three interconnected stories reshaping markets and policy: the dramatic reshaping of the CFTC's regulatory oversight amid deregulation that favors crypto and prediction markets, raising questions about market integrity; the Supreme Court entering a critical decision period that could determine major elements of the administration's agenda on immigration and executive power; and the Iran conflict's ripple effects now disrupting Asian manufacturing through naphtha shortages, creating a slow-burn supply shock with delayed inflation implications. The common thread: mounting uncertainty about regulatory rules, institutional checks, and global supply chains that markets haven't fully priced in.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-23",
-      "summary": "# Podcast Summary\n\nThis episode covers four major stories shaping the political and economic landscape: mounting political turbulence in Washington, including low approval ratings and Senate Republican defections over a controversial green card policy that would require applicants to leave the U.S.; a significant shake-up in national security following the resignation of the Director of National Intelligence and shifting dynamics on Iran negotiations that have sidelined Israel from diplomatic talks; Iran's ongoing pressure campaign on global shipping and its economic impact on energy markets and household costs; and an in-depth look at the data center boom driving AI infrastructure, placing it in historical context to help investors separate genuine opportunity from narrative hype.",
       "keyTopics": []
     }
   ]
