@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-07",
+      "summary": "# Sunday Morning Briefing: June 7\n\nThis episode breaks down four critical stories shaping markets and policy: Iran's nuclear pledges that experts say offer no new diplomatic ground despite White House claims, oil price risks tied to potential demand destruction amid sticky inflation, a Pentagon counterintelligence alert revealing Israel's alleged eavesdropping on U.S.-Iran negotiations, and rising consumer debt delinquencies signaling underlying stress in American households despite strong headline employment numbers. The week ahead hinges on monitoring crude oil movements, consumer credit stress through earnings season, and whether the Israel espionage story gains congressional traction.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-06",
       "summary": "# Episode Summary\n\nThis week's markets got a sharp reality check when a stronger-than-expected jobs report triggered a 2.5% drop in the S&P 500—the worst day of the year—as investors repriced expectations for Fed rate cuts. Beyond the markets, the episode digs into mounting stress in immigration courts overwhelmed by deportation surge caseloads, the intersection of Texas politics and enforcement targeting Latino voters, and a dual threat to cattle ranchers from creeping screwworm infestations and drought conditions. The Dividend Cafe takes an unexpected turn this week, pivoting from traditional financial analysis to share a commencement speech about resilience and long-term perspective—a timely",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-25",
       "summary": "# Podcast Summary\n\nThis episode covers two major stories with opposing market implications: a potentially incomplete Iran deal that could reopen the Strait of Hormuz and ease energy prices, alongside growing Republican concerns about their midterm prospects as the party struggles with inflation, elevated gas prices, and internal divisions. Additionally, the show discusses a papal encyclical on AI that raises questions about wealth concentration and regulation, and explores China's shift toward luxury domestic brands at the expense of European competitors.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-24",
-      "summary": "# Today's Episode Summary\n\nThis Sunday's episode unpacks three interconnected stories reshaping markets and policy: the dramatic reshaping of the CFTC's regulatory oversight amid deregulation that favors crypto and prediction markets, raising questions about market integrity; the Supreme Court entering a critical decision period that could determine major elements of the administration's agenda on immigration and executive power; and the Iran conflict's ripple effects now disrupting Asian manufacturing through naphtha shortages, creating a slow-burn supply shock with delayed inflation implications. The common thread: mounting uncertainty about regulatory rules, institutional checks, and global supply chains that markets haven't fully priced in.",
       "keyTopics": []
     }
   ]
