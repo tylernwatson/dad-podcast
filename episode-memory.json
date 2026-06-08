@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-08",
+      "summary": "# Episode Summary\n\nAs Iran and Israel exchange direct strikes for the first time since a fragile cease-fire, oil prices spike and markets face a rough open, threatening to reignite inflation pressures just as the Fed navigates sticky price growth. The escalation compounds Europe's economic slowdown and creates a political trap for the White House, while a separate story reveals Trump considering direct government equity stakes in major AI companies—a significant policy shift that could reshape the sector's investment thesis. Additionally, a Justice Department deep dive highlights how political agendas have compromised institutional credibility with judges, affecting regulatory enforcement across the board, while Texas ranchers face mounting supply pressures from screwworms and drought.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-07",
       "summary": "# Sunday Morning Briefing: June 7\n\nThis episode breaks down four critical stories shaping markets and policy: Iran's nuclear pledges that experts say offer no new diplomatic ground despite White House claims, oil price risks tied to potential demand destruction amid sticky inflation, a Pentagon counterintelligence alert revealing Israel's alleged eavesdropping on U.S.-Iran negotiations, and rising consumer debt delinquencies signaling underlying stress in American households despite strong headline employment numbers. The week ahead hinges on monitoring crude oil movements, consumer credit stress through earnings season, and whether the Israel espionage story gains congressional traction.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-26",
       "summary": "# Episode Summary\n\nThis episode covers four major stories: escalating U.S.-Iran tensions following American military strikes that have complicated peace negotiations and driven up oil prices, with significant implications for summer gas costs; a significant corporate shake-up at BP with the removal of its chairman over governance concerns; major AI funding momentum, including OpenRouter's $113 million raise and the Vatican's new encyclical criticizing tech wealth concentration; and a deeper institutional concern about eroding trust in the Justice Department among prosecutors and grand juries. The episode explores how these seemingly separate stories—geopolitical conflict, corporate instability, tech investment, and institutional credibility—are interconnected forces that could impact everything from your wallet to capital markets.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-25",
-      "summary": "# Podcast Summary\n\nThis episode covers two major stories with opposing market implications: a potentially incomplete Iran deal that could reopen the Strait of Hormuz and ease energy prices, alongside growing Republican concerns about their midterm prospects as the party struggles with inflation, elevated gas prices, and internal divisions. Additionally, the show discusses a papal encyclical on AI that raises questions about wealth concentration and regulation, and explores China's shift toward luxury domestic brands at the expense of European competitors.",
       "keyTopics": []
     }
   ]
