@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-09",
+      "summary": "# Tuesday Morning Briefing\n\nA fragile ceasefire takes hold between Israel and Iran, easing oil prices but leaving underlying diplomatic tensions unresolved—particularly concerning given military activity near the critical Strait of Hormuz. Meanwhile, the IPO market faces a massive test as OpenAI, SpaceX, and Anthropic prepare for simultaneous public offerings, raising questions about whether institutional investors have the appetite to absorb three mega-cap debuts while valuations remain stretched. Plus: David Bahnsen breaks down the tech sector's historic nine-week rally (bigger than the dot-com peak), the reality check on bitcoin versus gold, and the growing threat of screwworms to U.S.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-08",
       "summary": "# Episode Summary\n\nAs Iran and Israel exchange direct strikes for the first time since a fragile cease-fire, oil prices spike and markets face a rough open, threatening to reignite inflation pressures just as the Fed navigates sticky price growth. The escalation compounds Europe's economic slowdown and creates a political trap for the White House, while a separate story reveals Trump considering direct government equity stakes in major AI companies—a significant policy shift that could reshape the sector's investment thesis. Additionally, a Justice Department deep dive highlights how political agendas have compromised institutional credibility with judges, affecting regulatory enforcement across the board, while Texas ranchers face mounting supply pressures from screwworms and drought.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-27",
       "summary": "# Episode Summary\n\nTexas's primary runoff results are reshaping the political landscape: scandal-plagued Ken Paxton's Trump-backed victory over establishment Senator John Cornyn could unexpectedly open the state to Democrats, while signaling an ongoing purge of independent Republicans from the party. The episode also explores the trillion-dollar memory chip industry—dominated by Samsung, SK Hynix, and Micron—as the overlooked yet critical infrastructure powering AI's explosive growth, alongside emerging questions about labor equity and classroom AI regulation. Finally, a deregulation wave is sparking a land rush for new bank charters from crypto and fintech firms, raising compound systemic risks that warrant closer scrutiny.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-26",
-      "summary": "# Episode Summary\n\nThis episode covers four major stories: escalating U.S.-Iran tensions following American military strikes that have complicated peace negotiations and driven up oil prices, with significant implications for summer gas costs; a significant corporate shake-up at BP with the removal of its chairman over governance concerns; major AI funding momentum, including OpenRouter's $113 million raise and the Vatican's new encyclical criticizing tech wealth concentration; and a deeper institutional concern about eroding trust in the Justice Department among prosecutors and grand juries. The episode explores how these seemingly separate stories—geopolitical conflict, corporate instability, tech investment, and institutional credibility—are interconnected forces that could impact everything from your wallet to capital markets.",
       "keyTopics": []
     }
   ]
