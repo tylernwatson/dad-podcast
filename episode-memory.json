@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-10",
+      "summary": "# Wednesday Market Watch: Inflation Data, Middle East Tensions, and the IPO Pipeline\n\nMarkets are bracing for a potentially explosive CPI report that could force the Federal Reserve's hand on interest rates, while fresh strikes across the Middle East are threatening a fragile ceasefire and pushing oil prices higher—creating a double squeeze on inflation expectations. Meanwhile, SpaceX's anticipated IPO is heating up, raising questions about whether the institutional market has appetite for major tech and space company debuts at stretched valuations in an uncertain economic environment.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-09",
       "summary": "# Tuesday Morning Briefing\n\nA fragile ceasefire takes hold between Israel and Iran, easing oil prices but leaving underlying diplomatic tensions unresolved—particularly concerning given military activity near the critical Strait of Hormuz. Meanwhile, the IPO market faces a massive test as OpenAI, SpaceX, and Anthropic prepare for simultaneous public offerings, raising questions about whether institutional investors have the appetite to absorb three mega-cap debuts while valuations remain stretched. Plus: David Bahnsen breaks down the tech sector's historic nine-week rally (bigger than the dot-com peak), the reality check on bitcoin versus gold, and the growing threat of screwworms to U.S.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-28",
       "summary": "# Today's Top Stories\n\nThis episode covers three major developments reshaping markets and politics: a higher-than-expected PCE inflation reading tied to the Iran conflict that's forcing the Fed to reconsider rate hikes and threatening mortgage relief hopes, a Justice Department criminal inquiry into E. Jean Carroll that's part of a documented pattern of investigations targeting perceived presidential enemies—raising serious questions about institutional credibility and rule of law. The show also tracks broader political fractures, including Gen Z male voter disillusionment with Trump, governance chaos at BP over energy strategy, and insider trading charges in the prediction markets space that threaten to undermine platform legitimacy.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-27",
-      "summary": "# Episode Summary\n\nTexas's primary runoff results are reshaping the political landscape: scandal-plagued Ken Paxton's Trump-backed victory over establishment Senator John Cornyn could unexpectedly open the state to Democrats, while signaling an ongoing purge of independent Republicans from the party. The episode also explores the trillion-dollar memory chip industry—dominated by Samsung, SK Hynix, and Micron—as the overlooked yet critical infrastructure powering AI's explosive growth, alongside emerging questions about labor equity and classroom AI regulation. Finally, a deregulation wave is sparking a land rush for new bank charters from crypto and fintech firms, raising compound systemic risks that warrant closer scrutiny.",
       "keyTopics": []
     }
   ]
