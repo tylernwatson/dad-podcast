@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-11",
+      "summary": "# Thursday's Essential News Brief\n\nThis episode covers three major developing stories: the European Central Bank's surprise interest rate hike driven by war-fueled inflation and slowing growth, which could signal pressure ahead for the U.S. Federal Reserve; serious allegations that U.S. strikes hit Iranian civilian infrastructure, potentially raising war crimes questions and intensifying congressional scrutiny of the White House's Middle East strategy; and the accelerating SpaceX IPO, where Elon Musk's proven track record with Tesla investors creates unique demand, but faces a real headwind from broader concerns about AI infrastructure valuations.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-10",
       "summary": "# Wednesday Market Watch: Inflation Data, Middle East Tensions, and the IPO Pipeline\n\nMarkets are bracing for a potentially explosive CPI report that could force the Federal Reserve's hand on interest rates, while fresh strikes across the Middle East are threatening a fragile ceasefire and pushing oil prices higher—creating a double squeeze on inflation expectations. Meanwhile, SpaceX's anticipated IPO is heating up, raising questions about whether the institutional market has appetite for major tech and space company debuts at stretched valuations in an uncertain economic environment.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-29",
       "summary": "# Today's Episode Summary\n\nThis episode covers three major stories shaping markets and policy: the Trump administration's inconsistent Iran strategy is creating dangerous uncertainty around the Strait of Hormuz and driving energy prices higher, potentially becoming the defining economic issue of summer; Anthropic has surpassed OpenAI with a $900 billion valuation, signaling massive capital flows into AI despite questions about whether the valuations will hold up. The episode also examines the Justice Department's broadening investigation into private citizens who funded E. Jean Carroll's lawsuits—raising concerns about using federal scrutiny as a chilling effect on civil litigation—before closing on a more optimistic note about how some companies are using AI to boost worker",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-28",
-      "summary": "# Today's Top Stories\n\nThis episode covers three major developments reshaping markets and politics: a higher-than-expected PCE inflation reading tied to the Iran conflict that's forcing the Fed to reconsider rate hikes and threatening mortgage relief hopes, a Justice Department criminal inquiry into E. Jean Carroll that's part of a documented pattern of investigations targeting perceived presidential enemies—raising serious questions about institutional credibility and rule of law. The show also tracks broader political fractures, including Gen Z male voter disillusionment with Trump, governance chaos at BP over energy strategy, and insider trading charges in the prediction markets space that threaten to undermine platform legitimacy.",
       "keyTopics": []
     }
   ]
