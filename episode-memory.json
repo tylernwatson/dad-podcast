@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-12",
+      "summary": "# Episode Summary\n\nToday's show covers three major stories reshaping markets and geopolitics: SpaceX's historic IPO debut, expected to break all records with a trillion-dollar valuation, signals strong investor appetite for mega-cap tech offerings while raising questions about capital absorption for other pending deals. In the Middle East, a sobering look at the \"new normal\" of low-intensity conflict reveals global oil reserves are draining sharply and over 500 ships remain stranded in the Persian Gulf, creating real pressure on energy prices and inflation. Finally, a New York Times report reveals the Trump administration is planning to pull roughly one-third of U.S. fighter jets from NATO bases—a significant shift in America's",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-11",
       "summary": "# Thursday's Essential News Brief\n\nThis episode covers three major developing stories: the European Central Bank's surprise interest rate hike driven by war-fueled inflation and slowing growth, which could signal pressure ahead for the U.S. Federal Reserve; serious allegations that U.S. strikes hit Iranian civilian infrastructure, potentially raising war crimes questions and intensifying congressional scrutiny of the White House's Middle East strategy; and the accelerating SpaceX IPO, where Elon Musk's proven track record with Tesla investors creates unique demand, but faces a real headwind from broader concerns about AI infrastructure valuations.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-30",
       "summary": "# This Week's Key Topics\n\nThis episode digs into three major stories: Kevin Warsh's confirmation as Fed Chair and what it means for monetary policy independence versus actual economic performance; a federal judge's unusual move to reopen Trump's IRS lawsuit while questioning the Justice Department's conduct, signaling renewed institutional checks on executive power; and China's accelerating rise in biotech innovation—particularly in oncology drug development—that threatens long-held assumptions about U.S. pharmaceutical dominance and could force a reassessment of major pharma valuations. The episode also touches on the SEC's proposed elimination of climate disclosure rules and the ongoing political uncertainty around Trump's 2028 succession plans.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-29",
-      "summary": "# Today's Episode Summary\n\nThis episode covers three major stories shaping markets and policy: the Trump administration's inconsistent Iran strategy is creating dangerous uncertainty around the Strait of Hormuz and driving energy prices higher, potentially becoming the defining economic issue of summer; Anthropic has surpassed OpenAI with a $900 billion valuation, signaling massive capital flows into AI despite questions about whether the valuations will hold up. The episode also examines the Justice Department's broadening investigation into private citizens who funded E. Jean Carroll's lawsuits—raising concerns about using federal scrutiny as a chilling effect on civil litigation—before closing on a more optimistic note about how some companies are using AI to boost worker",
       "keyTopics": []
     }
   ]
