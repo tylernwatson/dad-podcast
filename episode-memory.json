@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-15",
+      "summary": "# Episode Summary\n\nThe U.S. and Iran have reached a framework agreement to reopen the Strait of Hormuz, sending global markets soaring—but shipping companies remain cautious, signaling that the real energy crisis recovery depends on concrete security guarantees and private sector confidence. Beyond the headline deal, the episode covers SpaceX's strong post-IPO momentum, Fox's $22 billion acquisition of Roku as a bid to control streaming distribution, and significant Washington developments including newly revealed Trump administration memos debating suspension of habeas corpus rights for undocumented immigrants.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-14",
       "summary": "# Episode Summary\n\nThis episode covers three major developments shaping global affairs: Britain's unprecedented solo seizure of a Russian shadow fleet oil tanker in the English Channel—signaling a potential shift in Western sanctions enforcement ahead of the G7 summit—and deepening fractures within the G7 itself as the alliance struggles with disagreements over Ukraine, trade, and America's reliability. The show also explores a fascinating analysis on why great powers like Russia and the U.S. repeatedly miscalculate smaller adversaries, assuming political fragility that doesn't exist and getting trapped in costly, protracted conflicts they expected to win quickly.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-02",
       "summary": "# Episode Summary\n\nThis episode tracks four major developments reshaping markets and policy: the Trump administration's new 25% tariff on Brazilian imports—adding inflationary pressure as the Fed navigates delicate conditions—and escalating Middle East tensions where Trump's dismissive stance on Iran negotiations contradicts de-escalatory signals. On Wall Street, a landmark conviction of prominent short-seller Andrew Left raises questions about the line between legitimate research and market manipulation. Finally, the Dividend Cafe flags a striking combination of historical valuation extremes, mega-cap concentration, and record household stock allocation—signaling that while markets continue climbing, the easy gains may be behind us and discipline is now essential.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-01",
-      "summary": "# Monday Morning Briefing: Iran Tensions, Major Casino Bid, and Tech Security Concerns\n\nThis episode covers three major stories shaping markets and politics: escalating U.S.-Iran military exchanges that are driving oil prices higher and straining consumer wallets—especially ahead of midterms—while the U.S. Navy quietly escorts 70+ commercial ships through the critical Strait of Hormuz. Barry Diller's company is preparing an $18 billion takeover bid for MGM Resorts, signaling confidence in the financing environment despite elevated interest rates. Finally, a report reveals the Chinese military openly attempted to acquire restricted Nvidia chips over six years, adding fuel to the debate over AI chip",
       "keyTopics": []
     }
   ]
