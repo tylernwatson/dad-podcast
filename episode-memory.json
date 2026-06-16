@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-16",
+      "summary": "# Episode Summary\n\nThis episode breaks down three major market-moving stories: the Iran deal's lasting impact on the global economy and upcoming nuclear negotiations, new Federal Reserve Chair Kevin Warsh's high-stakes debut meeting, and SpaceX's surprise $60 billion all-stock acquisition of AI coding platform Cursor. The hosts emphasize that bond yields will ultimately matter more than any of these headlines, and highlight the structural economic changes that persist even after conflict resolution.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-15",
       "summary": "# Episode Summary\n\nThe U.S. and Iran have reached a framework agreement to reopen the Strait of Hormuz, sending global markets soaring—but shipping companies remain cautious, signaling that the real energy crisis recovery depends on concrete security guarantees and private sector confidence. Beyond the headline deal, the episode covers SpaceX's strong post-IPO momentum, Fox's $22 billion acquisition of Roku as a bid to control streaming distribution, and significant Washington developments including newly revealed Trump administration memos debating suspension of habeas corpus rights for undocumented immigrants.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-03",
       "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping markets and politics: Iranian drones striking Kuwait's airport in a significant Persian Gulf escalation that's driving oil prices higher, the Trump administration's sweeping new tariff campaign targeting 59 countries on forced labor grounds, and primary election results that complicate the narrative around Trump's endorsement power while reshaping the midterm landscape. The show also explores what Fed independence really means in a deep-dive analysis of Kevin Warsh's confirmation as Fed chair, arguing the debate often oversimplifies a more nuanced historical reality.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-02",
-      "summary": "# Episode Summary\n\nThis episode tracks four major developments reshaping markets and policy: the Trump administration's new 25% tariff on Brazilian imports—adding inflationary pressure as the Fed navigates delicate conditions—and escalating Middle East tensions where Trump's dismissive stance on Iran negotiations contradicts de-escalatory signals. On Wall Street, a landmark conviction of prominent short-seller Andrew Left raises questions about the line between legitimate research and market manipulation. Finally, the Dividend Cafe flags a striking combination of historical valuation extremes, mega-cap concentration, and record household stock allocation—signaling that while markets continue climbing, the easy gains may be behind us and discipline is now essential.",
       "keyTopics": []
     }
   ]
