@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-18",
+      "summary": "# Episode Summary\n\nThis episode digs into three market-moving stories: a New York Times investigation revealing the Iran ceasefire deal actually favors Tehran with immediate sanctions relief while kicking harder verification and security guarantees into undefined future negotiations, creating skepticism even within Republican ranks; Federal Reserve Chair Kevin Warsh's hawkish debut signaling rate hikes ahead and abandoning forward guidance, which rattled bond markets and threatens the rotation trades that have been propping up vulnerable sectors; and the SpaceX IPO's retail-driven trading frenzy masking a deeper structural story about massive debt issuance from AI infrastructure companies. The broader takeaway: bond yields, not headlines, will drive markets in the months ahead",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-17",
       "summary": "# Wednesday Market Brief: Iran Deal, Fed Leadership, and Space Economy Shifts\n\nThis episode covers three major market movers: U.S. and Iranian officials are set to meet Friday in Switzerland to sign an initial ceasefire agreement, potentially easing oil market volatility after weeks of Strait of Hormuz tensions—though traders remain cautious about whether diplomatic progress will translate to actual security guarantees. The Federal Reserve kicks off its first meeting under new Chair Kevin Warsh, with markets watching his communication style and signals about the second half of the year even more closely than the expected rate hold decision. Finally, a sharp analysis of SpaceX's IPO examines how the company's unusually small public float and diverse",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-05",
       "summary": "# Friday, June 5th: Jobs, Congress, and AI's Future\n\nThe labor market remains stable but gives the Fed no reason to cut rates anytime soon—while young graduates face a concerning employment crisis that could scar their earnings for years. Congress is increasingly defying executive branch foreign policy on Ukraine and Iran, signaling a real institutional pushback, as China simultaneously tightens its economic fortress and loses leverage over North Korea to Russia. Finally, AI safety company Anthropic just proposed an international \"brake pedal\" framework for dangerous AI capabilities, a move that could reshape the industry's trajectory and investor outlook if it gains traction.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-04",
-      "summary": "# Thursday's Essential Briefing\n\nCongress delivers a rare bipartisan rebuke to the executive on Iran war powers—four Republicans cross party lines in a signal that legislative constraints are now limiting unilateral escalation, with meaningful implications for oil price stability and energy security vulnerabilities exposed by the conflict. Meanwhile, SpaceX prepares for what could be history's largest IPO while markets hit new highs, prompting sharp warnings from analysts about stretched valuations, record household stock allocation, and the historical pattern that emerges when all three converge—a moment calling for discipline rather than panic.",
       "keyTopics": []
     }
   ]
