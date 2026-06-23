@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-23",
+      "summary": "# Podcast Summary\n\nA global market selloff is hammering tech and AI stocks across South Korea, Europe, and U.S. futures, with the S&P 500's gains revealed to be dangerously concentrated in just two sectors—when those wobble, the entire market facade cracks. The Dividend Cafe highlights troubling signs including rampant speculation (SpaceX trading volume exceeding the entire S&P 500), companies rebranding around AI trends reminiscent of the dot-com bubble, and a collapsing bond yield curve that signals growth concerns the equity market is ignoring. Meanwhile, Iran oil negotiations face political turbulence and shipping complications that could extend the timeline for energy price",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-22",
       "summary": "# Podcast Summary\n\nThis episode covers four major stories shaping markets and policy: ongoing Iran nuclear talks showing cautious progress toward a 60-day deal window, though with lingering complications beneath optimistic headlines; the passing of former Fed Chair Alan Greenspan at 100 and reflection on how dramatically Federal Reserve philosophy has shifted since his era; China's escalating rare earth export controls targeting U.S. manufacturers central to domestic supply chain rebuilding efforts; and a deeper dive into current market valuations, which are trading at a meaningful premium to historical averages when adjusted for one-time gains, raising important questions about risk-reward positioning. The episode emphasizes watching bond yields, Iran negotiation developments, and potential U.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-10",
       "summary": "# Wednesday Market Watch: Inflation Data, Middle East Tensions, and the IPO Pipeline\n\nMarkets are bracing for a potentially explosive CPI report that could force the Federal Reserve's hand on interest rates, while fresh strikes across the Middle East are threatening a fragile ceasefire and pushing oil prices higher—creating a double squeeze on inflation expectations. Meanwhile, SpaceX's anticipated IPO is heating up, raising questions about whether the institutional market has appetite for major tech and space company debuts at stretched valuations in an uncertain economic environment.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-09",
-      "summary": "# Tuesday Morning Briefing\n\nA fragile ceasefire takes hold between Israel and Iran, easing oil prices but leaving underlying diplomatic tensions unresolved—particularly concerning given military activity near the critical Strait of Hormuz. Meanwhile, the IPO market faces a massive test as OpenAI, SpaceX, and Anthropic prepare for simultaneous public offerings, raising questions about whether institutional investors have the appetite to absorb three mega-cap debuts while valuations remain stretched. Plus: David Bahnsen breaks down the tech sector's historic nine-week rally (bigger than the dot-com peak), the reality check on bitcoin versus gold, and the growing threat of screwworms to U.S.",
       "keyTopics": []
     }
   ]
