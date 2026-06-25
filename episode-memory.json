@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-25",
+      "summary": "# Episode Summary\n\nThis episode examines three critical market signals: persistent inflation concerns and internal Fed disagreement over whether further rate hikes are necessary, a structural shift in global energy infrastructure as countries rush to reduce dependence on the Strait of Hormuz following Iran tensions, and warning signs of late-cycle market behavior including the SpaceX IPO collapse, AI rebranding mania, and yield curve compression that suggest concentrated gains masking broader market weakness.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-24",
       "summary": "# Episode Summary\n\nThis episode unpacks four critical stories reshaping markets and politics: the growing credibility gap between Trump's Iran deal announcements and Iran's public contradictions, which threatens to destabilize the sixty-day negotiating window; the Federal Reserve's hawkish pivot under Kevin Warsh, which is now pricing in rate hikes that could land right before the midterms with major political and economic consequences; Congress's landmark housing bill, which addresses supply-side reform but offers no near-term relief for families facing high home prices; and a clever distributed energy solution from Tesla and Sunrun that could harness residential solar and batteries to power AI data centers. The episode closes with analysis of this week's",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-12",
       "summary": "# Episode Summary\n\nToday's show covers three major stories reshaping markets and geopolitics: SpaceX's historic IPO debut, expected to break all records with a trillion-dollar valuation, signals strong investor appetite for mega-cap tech offerings while raising questions about capital absorption for other pending deals. In the Middle East, a sobering look at the \"new normal\" of low-intensity conflict reveals global oil reserves are draining sharply and over 500 ships remain stranded in the Persian Gulf, creating real pressure on energy prices and inflation. Finally, a New York Times report reveals the Trump administration is planning to pull roughly one-third of U.S. fighter jets from NATO bases—a significant shift in America's",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-11",
-      "summary": "# Thursday's Essential News Brief\n\nThis episode covers three major developing stories: the European Central Bank's surprise interest rate hike driven by war-fueled inflation and slowing growth, which could signal pressure ahead for the U.S. Federal Reserve; serious allegations that U.S. strikes hit Iranian civilian infrastructure, potentially raising war crimes questions and intensifying congressional scrutiny of the White House's Middle East strategy; and the accelerating SpaceX IPO, where Elon Musk's proven track record with Tesla investors creates unique demand, but faces a real headwind from broader concerns about AI infrastructure valuations.",
       "keyTopics": []
     }
   ]
