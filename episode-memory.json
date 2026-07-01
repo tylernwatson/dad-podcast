@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-01",
+      "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and politics: the USMCA trade deal faces a critical review deadline today with potential renegotiation or collapse, Trump's 2025 financial disclosure reveals an unprecedented $2+ billion in earnings—mostly from crypto ventures—raising significant conflict of interest questions, and Senate control is genuinely competitive heading into midterms with Texas unexpectedly in play. The show also explores shifting AI regulation, where the Trump administration's ability to restrict company access signals new political risk, while open-source alternatives gain traction as a hedge against vendor lock-in and rising costs.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-30",
       "summary": "# Tuesday Morning Briefing: Supreme Court Reshapes Regulatory Landscape, Hormuz Tensions Spike Oil Markets\n\nA landmark Supreme Court ruling has fundamentally altered the balance of power over federal agencies—while protecting the Federal Reserve's independence, it grants the president sweeping new authority over the FTC, CFPB, and other regulators, reshaping the regulatory environment for years to come. Meanwhile, Iranian drone attacks on commercial shipping have reignited Middle East tensions and pushed oil prices higher, threatening to complicate the Fed's rate-hike calculus if elevated energy costs feed back into inflation. The episode also explores whether markets are actually pricing in the widely-expected Fed rate increases, examining the potential opportunities",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-18",
       "summary": "# Episode Summary\n\nThis episode digs into three market-moving stories: a New York Times investigation revealing the Iran ceasefire deal actually favors Tehran with immediate sanctions relief while kicking harder verification and security guarantees into undefined future negotiations, creating skepticism even within Republican ranks; Federal Reserve Chair Kevin Warsh's hawkish debut signaling rate hikes ahead and abandoning forward guidance, which rattled bond markets and threatens the rotation trades that have been propping up vulnerable sectors; and the SpaceX IPO's retail-driven trading frenzy masking a deeper structural story about massive debt issuance from AI infrastructure companies. The broader takeaway: bond yields, not headlines, will drive markets in the months ahead",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-17",
-      "summary": "# Wednesday Market Brief: Iran Deal, Fed Leadership, and Space Economy Shifts\n\nThis episode covers three major market movers: U.S. and Iranian officials are set to meet Friday in Switzerland to sign an initial ceasefire agreement, potentially easing oil market volatility after weeks of Strait of Hormuz tensions—though traders remain cautious about whether diplomatic progress will translate to actual security guarantees. The Federal Reserve kicks off its first meeting under new Chair Kevin Warsh, with markets watching his communication style and signals about the second half of the year even more closely than the expected rate hold decision. Finally, a sharp analysis of SpaceX's IPO examines how the company's unusually small public float and diverse",
       "keyTopics": []
     }
   ]
