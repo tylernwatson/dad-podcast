@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-07-01</title>
+      <description># Episode Summary
+
+This episode covers four major stories shaping markets and politics: the USMCA trade deal faces a critical review deadline today with potential renegotiation or collapse, Trump&apos;s 2025 financial disclosure reveals an unprecedented $2+ billion in earnings—mostly from crypto ventures—raising significant conflict of interest questions, and Senate control is genuinely competitive heading into midterms with Texas unexpectedly in play. The show also explores shifting AI regulation, where the Trump administration&apos;s ability to restrict company access signals new political risk, while open-source alternatives gain traction as a hedge against vendor lock-in and rising costs.</description>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-07-01.mp3" length="4950912" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-07-01.mp3</guid>
+      <itunes:duration>309</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-06-30</title>
       <description># Tuesday Morning Briefing: Supreme Court Reshapes Regulatory Landscape, Hormuz Tensions Spike Oil Markets
 
