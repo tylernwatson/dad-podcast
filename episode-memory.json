@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-02",
+      "summary": "# Episode Summary\n\nToday's show breaks down three major market-moving stories: the June jobs report dropping this morning and what a strong number could mean for Fed rate-hike expectations and bond yields, the ongoing debate about AI's actual impact on employment and productivity—and why economists still can't agree on what's really happening. The episode also covers escalating geopolitical tensions in Europe, including Ukraine pushing deeper into Russian territory and NATO's growing concern about coordinated Russian sabotage campaigns targeting undersea cables and military infrastructure, plus how Republican midterm candidates are shaking up traditional campaign finance structures ahead of November.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-01",
       "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and politics: the USMCA trade deal faces a critical review deadline today with potential renegotiation or collapse, Trump's 2025 financial disclosure reveals an unprecedented $2+ billion in earnings—mostly from crypto ventures—raising significant conflict of interest questions, and Senate control is genuinely competitive heading into midterms with Texas unexpectedly in play. The show also explores shifting AI regulation, where the Trump administration's ability to restrict company access signals new political risk, while open-source alternatives gain traction as a hedge against vendor lock-in and rising costs.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-19",
       "summary": "# Episode Summary\n\nThis week's podcast breaks down three major stories shaping markets and politics: the fragile Iran ceasefire deal, which is lifting oil sanctions and opening shipping lanes through the Strait of Hormuz, but faces verification challenges and bipartisan skepticism that could destabilize energy markets; the USMCA trade renegotiation gaining momentum behind closed doors with potential major implications for North American manufacturing supply chains; and SpaceX's IPO valuation, which hinges on speculative long-term bets like Mars colonization rather than near-term cash flows. Against the backdrop of elevated interest rates and limited Fed rate cuts ahead, investors are urged to reassess whether current valuations in energy,",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-18",
-      "summary": "# Episode Summary\n\nThis episode digs into three market-moving stories: a New York Times investigation revealing the Iran ceasefire deal actually favors Tehran with immediate sanctions relief while kicking harder verification and security guarantees into undefined future negotiations, creating skepticism even within Republican ranks; Federal Reserve Chair Kevin Warsh's hawkish debut signaling rate hikes ahead and abandoning forward guidance, which rattled bond markets and threatens the rotation trades that have been propping up vulnerable sectors; and the SpaceX IPO's retail-driven trading frenzy masking a deeper structural story about massive debt issuance from AI infrastructure companies. The broader takeaway: bond yields, not headlines, will drive markets in the months ahead",
       "keyTopics": []
     }
   ]
