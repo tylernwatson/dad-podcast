@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-04",
+      "summary": "# Podcast Summary\n\nAs America marks its 250th birthday, this episode digs into the Dividend Cafe's surprising mid-year market report, which reveals that the broader market has actually broadened beyond the \"Magnificent Seven\" mega-cap stocks—with the S&P 493 up 15% year-to-date despite AI darlings stumbling. The show also tackles a major crypto story with real consequences: a memecoin tied to the president has resulted in $3.8 billion in losses for nearly a million retail investors, raising sharp questions about conflicts of interest when political figures profit from assets they help regulate.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-03",
       "summary": "# Episode Summary\n\nThis episode examines three major stories with significant economic and geopolitical implications: Russia's emerging domestic fuel shortages—a crack in the economy that could shift war calculations as the conflict drains resources—and President Trump's unprecedented $2.2 billion earnings in his first year back in office, which creates structural conflicts of interest as policy decisions now directly affect his personal wealth. The hosts also explore a historical market study showing that peak investor enthusiasm in hot sectors (like AI) has historically preceded major losses, cautioning listeners to maintain diversification heading into the long weekend.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-21",
       "summary": "# Episode Summary\n\nThis episode examines three interconnected market stories: the Iran nuclear deal, which has delivered far less geopolitical de-escalation than markets initially priced in, leaving regional threats and oil recovery timelines uncertain; China's full strategic reserves, which could undermine the expected demand surge for Persian Gulf oil and derail the inflation-relief narrative; and a critical reminder from the Dividend Cafe that bond yields—not geopolitical headlines or IPO mania—are the true driver of market movements. The overarching theme is that markets bet on a clean, linear recovery when the actual path forward remains messy and fragile.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-20",
-      "summary": "# Episode Summary\n\nThis episode covers three major topics: the chaotic rollout of the Iran nuclear deal, which is creating diplomatic tensions with Israel and Congress while facing durability questions; the slower-than-expected recovery of Persian Gulf oil infrastructure due to mines, logistics concerns, and shipping company hesitation, which could delay inflation relief longer than markets anticipated; and a deep dive into current market valuations, where the S&P 500 trades at 22-23x forward earnings (well above historical averages) on estimates inflated by one-time gains rather than sustainable business operations. The overarching message: be cautious about speculative positioning and watch for surprises in Iran negotiations and oil recovery that could impact Fed policy",
       "keyTopics": []
     }
   ]
