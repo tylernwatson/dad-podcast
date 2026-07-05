@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-05",
+      "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and policy: falling oil prices driven by progress in U.S.-Iran cease-fire talks, which ease inflation pressures and give the Fed more room to maneuver; significant policy shifts in Washington including federal agencies dropping discrimination enforcement cases and rolling back Biden-era gun regulations; the ongoing fallout from the Trump memecoin story, where nearly a million retail investors lost $3.8 billion while insiders profited; and a thought-provoking analysis from the Dividend Cafe questioning whether markets are actually pricing in expected Fed rate hikes despite what futures suggest. The episode emphasizes that falling oil is genuinely positive for the soft-landing scenario,",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-04",
       "summary": "# Podcast Summary\n\nAs America marks its 250th birthday, this episode digs into the Dividend Cafe's surprising mid-year market report, which reveals that the broader market has actually broadened beyond the \"Magnificent Seven\" mega-cap stocks—with the S&P 493 up 15% year-to-date despite AI darlings stumbling. The show also tackles a major crypto story with real consequences: a memecoin tied to the president has resulted in $3.8 billion in losses for nearly a million retail investors, raising sharp questions about conflicts of interest when political figures profit from assets they help regulate.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-22",
       "summary": "# Podcast Summary\n\nThis episode covers four major stories shaping markets and policy: ongoing Iran nuclear talks showing cautious progress toward a 60-day deal window, though with lingering complications beneath optimistic headlines; the passing of former Fed Chair Alan Greenspan at 100 and reflection on how dramatically Federal Reserve philosophy has shifted since his era; China's escalating rare earth export controls targeting U.S. manufacturers central to domestic supply chain rebuilding efforts; and a deeper dive into current market valuations, which are trading at a meaningful premium to historical averages when adjusted for one-time gains, raising important questions about risk-reward positioning. The episode emphasizes watching bond yields, Iran negotiation developments, and potential U.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-21",
-      "summary": "# Episode Summary\n\nThis episode examines three interconnected market stories: the Iran nuclear deal, which has delivered far less geopolitical de-escalation than markets initially priced in, leaving regional threats and oil recovery timelines uncertain; China's full strategic reserves, which could undermine the expected demand surge for Persian Gulf oil and derail the inflation-relief narrative; and a critical reminder from the Dividend Cafe that bond yields—not geopolitical headlines or IPO mania—are the true driver of market movements. The overarching theme is that markets bet on a clean, linear recovery when the actual path forward remains messy and fragile.",
       "keyTopics": []
     }
   ]
