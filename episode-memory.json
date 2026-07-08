@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-08",
+      "summary": "# Episode Summary\n\nThis episode digs into major geopolitical and economic shifts reshaping markets mid-year: Trump's inflammatory NATO summit moves—including a trade threat against Spain—are creating alliance fracture lines, while a dramatic reversal in U.S.-Iran tensions has sent oil prices spiking and prompted a sobering IMF global growth downgrade to 3 percent, putting the Fed in a difficult position between inflation concerns and economic slowdown. Beyond the headlines, the Dividend Cafe's mid-year report reveals a quiet but crucial market story: the Magnificent Seven's 2 percent decline has been overshadowed by a 15 percent surge in the broader S&P 493, signaling",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-07",
       "summary": "# Episode Summary\n\nThis episode explores three major developments reshaping markets and geopolitics: NATO's restructuring as Trump heads to Ankara to offer Turkey restored F-35 access—signaling a shift toward European strategic autonomy while raising genuine security concerns; a softening U.S. economy marked by a surprisingly weak June jobs report (57,000), downward revisions, and a widening trade deficit that the market hasn't fully digested; and encouraging underlying market breadth, with 68% of S&P 500 stocks above their 200-day moving averages, suggesting rotational strength rather than a broad sell-off. The discussion also touches on splintering narratives around Fed policy and inflation",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-25",
       "summary": "# Episode Summary\n\nThis episode examines three critical market signals: persistent inflation concerns and internal Fed disagreement over whether further rate hikes are necessary, a structural shift in global energy infrastructure as countries rush to reduce dependence on the Strait of Hormuz following Iran tensions, and warning signs of late-cycle market behavior including the SpaceX IPO collapse, AI rebranding mania, and yield curve compression that suggest concentrated gains masking broader market weakness.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-24",
-      "summary": "# Episode Summary\n\nThis episode unpacks four critical stories reshaping markets and politics: the growing credibility gap between Trump's Iran deal announcements and Iran's public contradictions, which threatens to destabilize the sixty-day negotiating window; the Federal Reserve's hawkish pivot under Kevin Warsh, which is now pricing in rate hikes that could land right before the midterms with major political and economic consequences; Congress's landmark housing bill, which addresses supply-side reform but offers no near-term relief for families facing high home prices; and a clever distributed energy solution from Tesla and Sunrun that could harness residential solar and batteries to power AI data centers. The episode closes with analysis of this week's",
       "keyTopics": []
     }
   ]
