@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-14",
+      "summary": "# Today's Episode Summary\n\nBank earnings are hitting record highs, but major financial institutions are warning of serious geopolitical and economic risks ahead—particularly around inflation and credit quality. Meanwhile, oil has surged past $85 a barrel amid escalating tensions in the Strait of Hormuz, putting pressure on the new Fed chair to balance inflation concerns with economic growth as today's critical CPI report lands.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-13",
       "summary": "# Today's Top Stories\n\nThis week brings major developments across geopolitics, markets, and policy. A significant passing in the Senate leaves a foreign policy vacuum at a critical moment for Ukraine, Iran, and Middle East tensions, while troubling new details emerge about Israeli intelligence operations targeting Iranian leadership. Meanwhile, shipping traffic through the Strait of Hormuz has hit its lowest point in a month following escalating military tensions—a development that could reshape energy prices and constrain the Federal Reserve's ability to support economic growth. As earnings season kicks off on Wall Street this week, investors will be watching bank guidance closely to determine whether the broader market's recent optimism is backed by genuine economic strength.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-01",
       "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and politics: the USMCA trade deal faces a critical review deadline today with potential renegotiation or collapse, Trump's 2025 financial disclosure reveals an unprecedented $2+ billion in earnings—mostly from crypto ventures—raising significant conflict of interest questions, and Senate control is genuinely competitive heading into midterms with Texas unexpectedly in play. The show also explores shifting AI regulation, where the Trump administration's ability to restrict company access signals new political risk, while open-source alternatives gain traction as a hedge against vendor lock-in and rising costs.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-30",
-      "summary": "# Tuesday Morning Briefing: Supreme Court Reshapes Regulatory Landscape, Hormuz Tensions Spike Oil Markets\n\nA landmark Supreme Court ruling has fundamentally altered the balance of power over federal agencies—while protecting the Federal Reserve's independence, it grants the president sweeping new authority over the FTC, CFPB, and other regulators, reshaping the regulatory environment for years to come. Meanwhile, Iranian drone attacks on commercial shipping have reignited Middle East tensions and pushed oil prices higher, threatening to complicate the Fed's rate-hike calculus if elevated energy costs feed back into inflation. The episode also explores whether markets are actually pricing in the widely-expected Fed rate increases, examining the potential opportunities",
       "keyTopics": []
     }
   ]
