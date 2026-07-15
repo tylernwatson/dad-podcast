@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-15",
+      "summary": "# Episode Summary\n\nThis Wednesday morning show unpacks three major stories shaping markets and the economy: the U.S. reinstatement of its blockade on Iranian ports in the Strait of Hormuz, which is pushing oil prices higher and creating geopolitical complexity with Israel preferring sustained military pressure over diplomacy; mixed earnings signals emerging from the tech sector, with IBM's disappointing preview raising questions about whether enterprise AI spending is delivering promised returns; and a deeper look at how major U.S. automakers are retreating from electric vehicles even as global EV adoption accelerates—a strategic gamble with potentially long-term consequences. The episode also explores how investors often make the mistake of chasing consumer trends and youth",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-14",
       "summary": "# Today's Episode Summary\n\nBank earnings are hitting record highs, but major financial institutions are warning of serious geopolitical and economic risks ahead—particularly around inflation and credit quality. Meanwhile, oil has surged past $85 a barrel amid escalating tensions in the Strait of Hormuz, putting pressure on the new Fed chair to balance inflation concerns with economic growth as today's critical CPI report lands.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-02",
       "summary": "# Episode Summary\n\nToday's show breaks down three major market-moving stories: the June jobs report dropping this morning and what a strong number could mean for Fed rate-hike expectations and bond yields, the ongoing debate about AI's actual impact on employment and productivity—and why economists still can't agree on what's really happening. The episode also covers escalating geopolitical tensions in Europe, including Ukraine pushing deeper into Russian territory and NATO's growing concern about coordinated Russian sabotage campaigns targeting undersea cables and military infrastructure, plus how Republican midterm candidates are shaking up traditional campaign finance structures ahead of November.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-01",
-      "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and politics: the USMCA trade deal faces a critical review deadline today with potential renegotiation or collapse, Trump's 2025 financial disclosure reveals an unprecedented $2+ billion in earnings—mostly from crypto ventures—raising significant conflict of interest questions, and Senate control is genuinely competitive heading into midterms with Texas unexpectedly in play. The show also explores shifting AI regulation, where the Trump administration's ability to restrict company access signals new political risk, while open-source alternatives gain traction as a hedge against vendor lock-in and rising costs.",
       "keyTopics": []
     }
   ]
