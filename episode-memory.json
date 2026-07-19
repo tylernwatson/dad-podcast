@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-19",
+      "summary": "# Episode Summary\n\nThis episode covers three major stories: Iran's escalating attacks on U.S. troops in Jordan—marking a dangerous geographic expansion of Middle East tensions with direct implications for oil markets—alongside a creative but unlikely diplomatic proposal to transform Strait of Hormuz governance using a European Union-style model. On the markets side, the hosts examine competing theories about the DeepSeek AI selloff, weighing whether cheaper AI reduces infrastructure demand or actually expands it through increased adoption. The week ahead will be defined by how the U.S. responds militarily to Iran and what hyperscalers reveal about their AI spending plans during earnings season.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-18",
       "summary": "# Podcast Summary\n\nThis week's episode covers three major developments: a significant tech selloff triggered by DeepSeek, a Chinese AI model that challenges the assumed dominance of American tech giants and raises questions about whether the AI infrastructure boom justifies its enormous costs. The Dividend Cafe's latest analysis warns that most investors are unknowingly concentrated in the exact AI and semiconductor names now under pressure—a situation reminiscent of 1999 tech bubble dynamics. The episode also examines escalating covert operations between Iran and Israel, including Iranian recruitment efforts targeting Israeli citizens, against the backdrop of rising Middle East tensions affecting oil prices and broader geopolitical stability.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-06",
       "summary": "# Dad's Daily Digest — Monday's Key Stories\n\nThis episode dives into a market-shaking moment: Chinese AI startup DeepSeek's surprisingly efficient model is triggering a massive sell-off in chip stocks, forcing investors to rethink the entire AI infrastructure spending thesis that's driven markets for two years. The Dividend Cafe's mid-year report provides crucial context, revealing that while mega-cap tech has stalled, the broader market (493 other S&P 500 stocks) has quietly surged 15%, signaling a significant rotation away from the \"Magnificent Seven.\" Rounding out the show: oil is flowing freely again through the Persian Gulf, Russia launches ballistic strikes on",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-05",
-      "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and policy: falling oil prices driven by progress in U.S.-Iran cease-fire talks, which ease inflation pressures and give the Fed more room to maneuver; significant policy shifts in Washington including federal agencies dropping discrimination enforcement cases and rolling back Biden-era gun regulations; the ongoing fallout from the Trump memecoin story, where nearly a million retail investors lost $3.8 billion while insiders profited; and a thought-provoking analysis from the Dividend Cafe questioning whether markets are actually pricing in expected Fed rate hikes despite what futures suggest. The episode emphasizes that falling oil is genuinely positive for the soft-landing scenario,",
       "keyTopics": []
     }
   ]
