@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-20",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments shaking markets and geopolitics: the confirmation of two American soldiers killed in a Iranian strike on a U.S. base in Jordan—marking the first combat deaths in the conflict and raising the stakes for potential wider escalation—alongside surging oil prices back to $4 per gallon as tensions rattle energy markets. The conversation also zeroes in on a critical week of earnings reports, particularly Alphabet's results, which will test whether the massive AI infrastructure spending by U.S. tech giants is actually justified as cheaper Chinese AI models challenge the investment thesis.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-19",
       "summary": "# Episode Summary\n\nThis episode covers three major stories: Iran's escalating attacks on U.S. troops in Jordan—marking a dangerous geographic expansion of Middle East tensions with direct implications for oil markets—alongside a creative but unlikely diplomatic proposal to transform Strait of Hormuz governance using a European Union-style model. On the markets side, the hosts examine competing theories about the DeepSeek AI selloff, weighing whether cheaper AI reduces infrastructure demand or actually expands it through increased adoption. The week ahead will be defined by how the U.S. responds militarily to Iran and what hyperscalers reveal about their AI spending plans during earnings season.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-07",
       "summary": "# Episode Summary\n\nThis episode explores three major developments reshaping markets and geopolitics: NATO's restructuring as Trump heads to Ankara to offer Turkey restored F-35 access—signaling a shift toward European strategic autonomy while raising genuine security concerns; a softening U.S. economy marked by a surprisingly weak June jobs report (57,000), downward revisions, and a widening trade deficit that the market hasn't fully digested; and encouraging underlying market breadth, with 68% of S&P 500 stocks above their 200-day moving averages, suggesting rotational strength rather than a broad sell-off. The discussion also touches on splintering narratives around Fed policy and inflation",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-06",
-      "summary": "# Dad's Daily Digest — Monday's Key Stories\n\nThis episode dives into a market-shaking moment: Chinese AI startup DeepSeek's surprisingly efficient model is triggering a massive sell-off in chip stocks, forcing investors to rethink the entire AI infrastructure spending thesis that's driven markets for two years. The Dividend Cafe's mid-year report provides crucial context, revealing that while mega-cap tech has stalled, the broader market (493 other S&P 500 stocks) has quietly surged 15%, signaling a significant rotation away from the \"Magnificent Seven.\" Rounding out the show: oil is flowing freely again through the Persian Gulf, Russia launches ballistic strikes on",
       "keyTopics": []
     }
   ]
