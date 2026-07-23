@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-23",
+      "summary": "# Episode Summary\n\nOil prices hit $100 a barrel for the first time since May, driven by escalating Middle East tensions including the Jordan situation and Red Sea disruptions—a geopolitical risk premium with real consequences for gas and supply chains. The episode explores how this energy uncertainty connects to the Saudi Arabia nuclear deal (which frees up more oil for export) and why the U.S. appears locked into low-grade military escalation with no clear resolution in sight. On the tech front, Google is doubling down on AI spending amid an EU antitrust fine, while Apple quietly extends its ecosystem into automotive through a Ford partnership—setting up a potential shift away from concentrated AI/semiconductor bets toward defensive financial and consumer",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-22",
       "summary": "# Episode Summary\n\nThis episode covers three interconnected market stories: a historic U.S.-Saudi nuclear deal that allows uranium enrichment on Saudi soil—raising concerns about regional proliferation—alongside escalating threats to global oil supply routes through both the Strait of Hormuz and Red Sea, pushing energy prices higher. The show also examines Trump's unpredictable two-speed trade strategy, where tariff threats create market whiplash, before diving into a substantive analysis of hidden concentration risk in supposedly diversified portfolios, where 40% of the S&P 500 is now dominated by AI and semiconductor stocks that most investors don't realize they're heavily exposed to.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-10",
       "summary": "# Episode Summary\n\nThis episode tracks a rapidly shifting geopolitical crisis as U.S.-Iran tensions escalate from tentative ceasefire to renewed strikes and back to the negotiating table, with uncertainty about Iranian leadership threatening to derail Qatari mediation efforts and keep oil prices volatile. The discussion also covers Goldman Sachs restricting employee use of prediction markets due to conflict-of-interest concerns, and a cautionary tale about how major global events like the World Cup don't always deliver the economic benefits promised to local workers.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-09",
-      "summary": "# Episode Summary\n\nGeopolitical tensions are back in focus as shipping traffic through the critical Strait of Hormuz plummeted by half, reversing earlier optimism about stabilization and sending oil prices sharply higher—a major threat to the Fed's soft-landing scenario. Domestically, Maine's Senate race is in chaos after the Democratic frontrunner suspended his campaign, forcing the party to scramble for a replacement with less than three weeks to a convention deadline. The episode dives into the Dividend Cafe's market analysis, which suggests the Fed's rate-hike argument lacks intellectual consistency, while deeper market breadth remains solid despite recent volatility in mega-cap stocks.",
       "keyTopics": []
     }
   ]
