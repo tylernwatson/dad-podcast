@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-07-25</title>
+      <description># Episode Summary
+
+This episode unpacks a dual economic squeeze hitting global markets: oil prices spiking to $100 a barrel while new tariffs converge simultaneously, creating an inflation problem the Federal Reserve has few good answers for—all while consumers are already stretched thin. The deeper dive explores whether AI will ultimately be inflationary or deflationary, arguing the honest answer is more nuanced than confident headlines suggest, with infrastructure spending driving near-term inflation before potential long-term productivity gains materialize. Practical alerts include escalating tensions in the Middle East affecting shipping costs and a major salmonella-linked egg recall affecting Texas residents.</description>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-07-25.mp3" length="4916928" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-07-25.mp3</guid>
+      <itunes:duration>307</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-07-24</title>
       <description># This Week&apos;s Double Squeeze: Tariffs and Energy Collide
 
