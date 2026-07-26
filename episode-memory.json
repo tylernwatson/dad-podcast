@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-26",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments shaping markets and geopolitics: a surprising pause in U.S.-Iran hostilities driven by depleted American missile stockpiles in the Middle East, creating uncertainty about future escalation and oil prices; a significant market selloff in AI and semiconductor stocks (Nvidia down 16%) following DeepSeek's cheaper AI model, raising questions about concentration risk in tech portfolios and the near-term viability of major capital expenditures; and NATO's first coordinated response to suspected Russian sabotage of critical undersea cables in the Baltic Sea, highlighting emerging infrastructure security risks. The episode closes with an uplifting business story about a boat company owner pledging future",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-25",
       "summary": "# Episode Summary\n\nThis episode unpacks a dual economic squeeze hitting global markets: oil prices spiking to $100 a barrel while new tariffs converge simultaneously, creating an inflation problem the Federal Reserve has few good answers for—all while consumers are already stretched thin. The deeper dive explores whether AI will ultimately be inflationary or deflationary, arguing the honest answer is more nuanced than confident headlines suggest, with infrastructure spending driving near-term inflation before potential long-term productivity gains materialize. Practical alerts include escalating tensions in the Middle East affecting shipping costs and a major salmonella-linked egg recall affecting Texas residents.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-13",
       "summary": "# Today's Top Stories\n\nThis week brings major developments across geopolitics, markets, and policy. A significant passing in the Senate leaves a foreign policy vacuum at a critical moment for Ukraine, Iran, and Middle East tensions, while troubling new details emerge about Israeli intelligence operations targeting Iranian leadership. Meanwhile, shipping traffic through the Strait of Hormuz has hit its lowest point in a month following escalating military tensions—a development that could reshape energy prices and constrain the Federal Reserve's ability to support economic growth. As earnings season kicks off on Wall Street this week, investors will be watching bank guidance closely to determine whether the broader market's recent optimism is backed by genuine economic strength.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-12",
-      "summary": "# Episode Summary\n\nSenator Lindsey Graham of South Carolina has died at 71, creating significant political uncertainty as a longtime Republican foreign policy hawk and Trump ally leaves a major vacuum in the Senate just ahead of the November election. Meanwhile, Iran's hard-line conservatives are actively working to escalate conflict rather than pursue peace negotiations, a development that threatens to keep oil prices volatile and complicate the Federal Reserve's economic outlook. On a lighter note, major retailers like Costco and Target are finding creative new paths into dense urban markets by anchoring affordable housing developments—a strategy that could represent a meaningful shift in how big-box retail expands.",
       "keyTopics": []
     }
   ]
