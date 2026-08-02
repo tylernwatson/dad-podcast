@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-02",
+      "summary": "# Episode Summary\n\nThis episode examines Trump's historically low approval ratings and their ripple effects on political leverage and institutional independence, investigates how major law firms like Paul Weiss have capitulated to White House pressure rather than resist, and explores troubling economic headwinds facing young adults—from weak job markets forcing graduates back home to delayed household formation affecting consumer spending. The discussion also touches on AI's expanding role in consumer surveillance and the reliability concerns that will determine which companies build lasting trust in the space.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-01",
       "summary": "# Dad's Daily Digest Summary\n\nThis episode tackles three major stories with real economic consequences: the deteriorating U.S. position in the Iran conflict, where allies now openly fear strategic defeat and the Strait of Hormuz closure threatens to create structural energy problems; the Federal Reserve's rate hold and the hidden complexities behind it, including stagflation risks and how public guidance may mask internal decision-making; and practical wealth concerns ranging from AI safety implications for corporate reliability to the often-overlooked title issues that can derail inherited real estate. Throughout, the hosts connect these seemingly separate stories—geopolitical instability, monetary policy uncertainty, and infrastructure battles—as interconnected pressures shaping the economic landscape.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-20",
       "summary": "# Episode Summary\n\nThis episode covers three major developments shaking markets and geopolitics: the confirmation of two American soldiers killed in a Iranian strike on a U.S. base in Jordan—marking the first combat deaths in the conflict and raising the stakes for potential wider escalation—alongside surging oil prices back to $4 per gallon as tensions rattle energy markets. The conversation also zeroes in on a critical week of earnings reports, particularly Alphabet's results, which will test whether the massive AI infrastructure spending by U.S. tech giants is actually justified as cheaper Chinese AI models challenge the investment thesis.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-19",
-      "summary": "# Episode Summary\n\nThis episode covers three major stories: Iran's escalating attacks on U.S. troops in Jordan—marking a dangerous geographic expansion of Middle East tensions with direct implications for oil markets—alongside a creative but unlikely diplomatic proposal to transform Strait of Hormuz governance using a European Union-style model. On the markets side, the hosts examine competing theories about the DeepSeek AI selloff, weighing whether cheaper AI reduces infrastructure demand or actually expands it through increased adoption. The week ahead will be defined by how the U.S. responds militarily to Iran and what hyperscalers reveal about their AI spending plans during earnings season.",
       "keyTopics": []
     }
   ]
