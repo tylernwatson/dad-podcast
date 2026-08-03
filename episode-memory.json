@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-03",
+      "summary": "# Episode Summary\n\nOil markets surged on signals of a potential Iran ceasefire, providing relief from months of war-premium pricing that had fueled inflation concerns—though the durability of any diplomatic breakthrough remains uncertain. The episode also explores how corporate AI spending is entering a new era of accountability, with \"tokenomics\" emerging as a framework to measure actual returns on massive tech investments, while the U.S. Treasury's quiet intervention to stabilize the Japanese yen signals underlying fragility in global currency markets despite administration rhetoric favoring economic nationalism.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-02",
       "summary": "# Episode Summary\n\nThis episode examines Trump's historically low approval ratings and their ripple effects on political leverage and institutional independence, investigates how major law firms like Paul Weiss have capitulated to White House pressure rather than resist, and explores troubling economic headwinds facing young adults—from weak job markets forcing graduates back home to delayed household formation affecting consumer spending. The discussion also touches on AI's expanding role in consumer surveillance and the reliability concerns that will determine which companies build lasting trust in the space.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-21",
       "summary": "# Episode Summary\n\nThe podcast covers three major stories shaping markets and policy: Trump's unprecedented 50% tariffs on Canadian goods using untested legal authority, threatening critical supply chains and energy prices already elevated by Middle East tensions; the escalating AI arms race between Washington and Beijing, with both governments considering restrictions that could reshape the global tech ecosystem and impact hyperscaler earnings; and Britain's new Prime Minister Andy Burnham making bold early moves, including an unexpected choice for Chancellor, as he navigates trade negotiations and economic pressures. The episode also discusses the market rotation away from AI-infrastructure names toward financials and consumer staples, along with cautionary lessons from recent high-hype IPO valuations.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-20",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments shaking markets and geopolitics: the confirmation of two American soldiers killed in a Iranian strike on a U.S. base in Jordan—marking the first combat deaths in the conflict and raising the stakes for potential wider escalation—alongside surging oil prices back to $4 per gallon as tensions rattle energy markets. The conversation also zeroes in on a critical week of earnings reports, particularly Alphabet's results, which will test whether the massive AI infrastructure spending by U.S. tech giants is actually justified as cheaper Chinese AI models challenge the investment thesis.",
       "keyTopics": []
     }
   ]
