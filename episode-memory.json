@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-05",
+      "summary": "# Episode Summary\n\nThis episode breaks down three major stories reshaping markets and politics: a controversial AI safety framework that exempts Chinese models while burdening American companies like OpenAI and Anthropic, creating a competitive disadvantage; diverging consumer spending patterns showing premium experiences (Disney's strong parks revenue) holding steady while value-oriented spending (McDonald's weakness) cracks; and sharpening midterm dynamics as both parties navigate base-versus-electability tensions in competitive races. The hosts also highlight a must-read analysis on Fed decision-making that reveals the gap between what the central bank publicly communicates and the actual reasoning driving its policy choices.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-04",
       "summary": "# Tuesday Market Briefing: Earnings Drive Record Highs Amid Underlying Consumer Weakness\n\nStock markets are hitting record highs on the back of strong corporate earnings, temporarily quieting concerns about geopolitical tensions in Iran, inflation, and the sustainability of AI spending. However, warning signs are emerging from the consumer side—McDonald's reported slowing U.S. sales and management changes signaling underlying pressure on low-income shoppers, suggesting the strong headline numbers may mask a more fragile economic picture. Meanwhile, the White House faces policy uncertainty around AI regulation and open-source models, creating investment risk, while negotiations over Iran's potential control of the Strait of Hormuz could reshape long-term energy market",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-23",
       "summary": "# Episode Summary\n\nOil prices hit $100 a barrel for the first time since May, driven by escalating Middle East tensions including the Jordan situation and Red Sea disruptions—a geopolitical risk premium with real consequences for gas and supply chains. The episode explores how this energy uncertainty connects to the Saudi Arabia nuclear deal (which frees up more oil for export) and why the U.S. appears locked into low-grade military escalation with no clear resolution in sight. On the tech front, Google is doubling down on AI spending amid an EU antitrust fine, while Apple quietly extends its ecosystem into automotive through a Ford partnership—setting up a potential shift away from concentrated AI/semiconductor bets toward defensive financial and consumer",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-22",
-      "summary": "# Episode Summary\n\nThis episode covers three interconnected market stories: a historic U.S.-Saudi nuclear deal that allows uranium enrichment on Saudi soil—raising concerns about regional proliferation—alongside escalating threats to global oil supply routes through both the Strait of Hormuz and Red Sea, pushing energy prices higher. The show also examines Trump's unpredictable two-speed trade strategy, where tariff threats create market whiplash, before diving into a substantive analysis of hidden concentration risk in supposedly diversified portfolios, where 40% of the S&P 500 is now dominated by AI and semiconductor stocks that most investors don't realize they're heavily exposed to.",
       "keyTopics": []
     }
   ]
