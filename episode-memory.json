@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-06",
+      "summary": "# Episode Summary\n\nThis episode examines three major market stories: Google's internal AI leadership restructuring and what it signals about whether tech giants can convert research dominance into business results, Europe's mounting pressures from geopolitical conflict, energy costs, and climate crises that keep risk premiums elevated, and a deeper look at July's market resilience despite significant headwinds. The hosts also unpack analysis from the Dividend Cafe on leveraged AI bets, AI capital spending efficiency, and why underlying market risks remain real even as headline indices prove surprisingly stable.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-05",
       "summary": "# Episode Summary\n\nThis episode breaks down three major stories reshaping markets and politics: a controversial AI safety framework that exempts Chinese models while burdening American companies like OpenAI and Anthropic, creating a competitive disadvantage; diverging consumer spending patterns showing premium experiences (Disney's strong parks revenue) holding steady while value-oriented spending (McDonald's weakness) cracks; and sharpening midterm dynamics as both parties navigate base-versus-electability tensions in competitive races. The hosts also highlight a must-read analysis on Fed decision-making that reveals the gap between what the central bank publicly communicates and the actual reasoning driving its policy choices.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-24",
       "summary": "# This Week's Double Squeeze: Tariffs and Energy Collide\n\nThis episode digs into two massive economic pressures hitting simultaneously: a new round of tariffs covering over 80 countries (hastily constructed after the Supreme Court struck down the original framework) and spiking oil prices driven by Iran conflict, both landing on a consumer economy already stretched thin. The hosts explore how retailers will likely pass tariff costs through to prices, why the Fed is trapped between fighting inflation without crushing growth, and why this is exactly the moment when staying disciplined with broad diversification beats reactive portfolio moves.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-23",
-      "summary": "# Episode Summary\n\nOil prices hit $100 a barrel for the first time since May, driven by escalating Middle East tensions including the Jordan situation and Red Sea disruptions—a geopolitical risk premium with real consequences for gas and supply chains. The episode explores how this energy uncertainty connects to the Saudi Arabia nuclear deal (which frees up more oil for export) and why the U.S. appears locked into low-grade military escalation with no clear resolution in sight. On the tech front, Google is doubling down on AI spending amid an EU antitrust fine, while Apple quietly extends its ecosystem into automotive through a Ford partnership—setting up a potential shift away from concentrated AI/semiconductor bets toward defensive financial and consumer",
       "keyTopics": []
     }
   ]
