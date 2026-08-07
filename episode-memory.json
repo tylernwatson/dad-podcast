@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-07",
+      "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and policy this week: a pivotal July jobs report that could force the Federal Reserve's hand on interest rate hikes in September, Trump's renewed executive orders targeting birthright citizenship through a narrower legal approach, deteriorating U.S.-Canada trade relations amid accusations of \"nasty\" negotiations, and China's surprisingly resilient export machine despite severe domestic economic weakness. Together, these developments create a complex economic picture where strong labor markets may squeeze already-vulnerable consumers, trade tensions threaten integrated supply chains, and deflationary pressures from Chinese exports complicate the Fed's inflation outlook.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-06",
       "summary": "# Episode Summary\n\nThis episode examines three major market stories: Google's internal AI leadership restructuring and what it signals about whether tech giants can convert research dominance into business results, Europe's mounting pressures from geopolitical conflict, energy costs, and climate crises that keep risk premiums elevated, and a deeper look at July's market resilience despite significant headwinds. The hosts also unpack analysis from the Dividend Cafe on leveraged AI bets, AI capital spending efficiency, and why underlying market risks remain real even as headline indices prove surprisingly stable.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-25",
       "summary": "# Episode Summary\n\nThis episode unpacks a dual economic squeeze hitting global markets: oil prices spiking to $100 a barrel while new tariffs converge simultaneously, creating an inflation problem the Federal Reserve has few good answers for—all while consumers are already stretched thin. The deeper dive explores whether AI will ultimately be inflationary or deflationary, arguing the honest answer is more nuanced than confident headlines suggest, with infrastructure spending driving near-term inflation before potential long-term productivity gains materialize. Practical alerts include escalating tensions in the Middle East affecting shipping costs and a major salmonella-linked egg recall affecting Texas residents.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-24",
-      "summary": "# This Week's Double Squeeze: Tariffs and Energy Collide\n\nThis episode digs into two massive economic pressures hitting simultaneously: a new round of tariffs covering over 80 countries (hastily constructed after the Supreme Court struck down the original framework) and spiking oil prices driven by Iran conflict, both landing on a consumer economy already stretched thin. The hosts explore how retailers will likely pass tariff costs through to prices, why the Fed is trapped between fighting inflation without crushing growth, and why this is exactly the moment when staying disciplined with broad diversification beats reactive portfolio moves.",
       "keyTopics": []
     }
   ]
