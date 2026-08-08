@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-08",
+      "summary": "# Episode Summary\n\nThis episode covers three major political and economic stories shaping the weeks ahead: a government shutdown averted through rare bipartisan cooperation ahead of the midterms, heating midterm races in Michigan and Ohio where Medicaid and economic messaging are becoming the central battleground, and escalating U.S.-Canada trade tensions with 50% tariffs looming unless new Prime Minister Mark Carney can negotiate a comprehensive deal. The show also highlights a must-read Dividend Cafe essay on foundational economic principles—arguing that private property rights and sound governance frameworks matter more than ever in today's populist political environment.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-07",
       "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and policy this week: a pivotal July jobs report that could force the Federal Reserve's hand on interest rate hikes in September, Trump's renewed executive orders targeting birthright citizenship through a narrower legal approach, deteriorating U.S.-Canada trade relations amid accusations of \"nasty\" negotiations, and China's surprisingly resilient export machine despite severe domestic economic weakness. Together, these developments create a complex economic picture where strong labor markets may squeeze already-vulnerable consumers, trade tensions threaten integrated supply chains, and deflationary pressures from Chinese exports complicate the Fed's inflation outlook.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-26",
       "summary": "# Episode Summary\n\nThis episode covers three major developments shaping markets and geopolitics: a surprising pause in U.S.-Iran hostilities driven by depleted American missile stockpiles in the Middle East, creating uncertainty about future escalation and oil prices; a significant market selloff in AI and semiconductor stocks (Nvidia down 16%) following DeepSeek's cheaper AI model, raising questions about concentration risk in tech portfolios and the near-term viability of major capital expenditures; and NATO's first coordinated response to suspected Russian sabotage of critical undersea cables in the Baltic Sea, highlighting emerging infrastructure security risks. The episode closes with an uplifting business story about a boat company owner pledging future",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-25",
-      "summary": "# Episode Summary\n\nThis episode unpacks a dual economic squeeze hitting global markets: oil prices spiking to $100 a barrel while new tariffs converge simultaneously, creating an inflation problem the Federal Reserve has few good answers for—all while consumers are already stretched thin. The deeper dive explores whether AI will ultimately be inflationary or deflationary, arguing the honest answer is more nuanced than confident headlines suggest, with infrastructure spending driving near-term inflation before potential long-term productivity gains materialize. Practical alerts include escalating tensions in the Middle East affecting shipping costs and a major salmonella-linked egg recall affecting Texas residents.",
       "keyTopics": []
     }
   ]
