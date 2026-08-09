@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-09",
+      "summary": "# Sunday Digest: AI Markets in Turmoil, Middle East Tensions, and Capitol Hill Defeats\n\nChinese AI startup DeepSeek's breakthrough in building capable models at a fraction of U.S. costs triggered a massive selloff in semiconductor stocks—with Nvidia dropping 16%—forcing investors to reckon with whether the trillion-dollar AI infrastructure bet is overvalued. Meanwhile, Prime Minister Netanyahu publicly rejected Trump's Gaza peace plan while the U.S. simultaneously wages financial warfare against Hezbollah, creating diplomatic friction and deepening regional instability. On the home front, Senate Republicans blocked Trump's voting restrictions bill, revealing cracks in his political leverage within his own party as lawmakers distance themselves from",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-08",
       "summary": "# Episode Summary\n\nThis episode covers three major political and economic stories shaping the weeks ahead: a government shutdown averted through rare bipartisan cooperation ahead of the midterms, heating midterm races in Michigan and Ohio where Medicaid and economic messaging are becoming the central battleground, and escalating U.S.-Canada trade tensions with 50% tariffs looming unless new Prime Minister Mark Carney can negotiate a comprehensive deal. The show also highlights a must-read Dividend Cafe essay on foundational economic principles—arguing that private property rights and sound governance frameworks matter more than ever in today's populist political environment.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-27",
       "summary": "# Episode Summary\n\nThis episode dives into three major market-moving stories: the DeepSeek AI shock that sent Nvidia and semiconductor stocks plummeting, raising questions about the efficiency of AI spending and the valuation of tech infrastructure; the Federal Reserve's critical policy decision this week under new Chair Kevin Warsh, who must navigate inflation concerns and political pressure without tipping the economy into recession; and escalating geopolitical tensions in the Middle East, including a U.S. pause on Iran strikes ahead of a Trump-Netanyahu meeting that could significantly impact oil prices. The discussion also touches on China's property sector weakness and what it means for global growth and commodity demand.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-26",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments shaping markets and geopolitics: a surprising pause in U.S.-Iran hostilities driven by depleted American missile stockpiles in the Middle East, creating uncertainty about future escalation and oil prices; a significant market selloff in AI and semiconductor stocks (Nvidia down 16%) following DeepSeek's cheaper AI model, raising questions about concentration risk in tech portfolios and the near-term viability of major capital expenditures; and NATO's first coordinated response to suspected Russian sabotage of critical undersea cables in the Baltic Sea, highlighting emerging infrastructure security risks. The episode closes with an uplifting business story about a boat company owner pledging future",
       "keyTopics": []
     }
   ]
