@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-10",
+      "summary": "# Episode Summary\n\nThis episode covers three major stories with significant market implications: Iran's hardening stance on closing the Strait of Hormuz unless the U.S. meets its demands, which threatens to keep oil prices elevated and complicate Federal Reserve policy; Meta's strategic pivot toward open-source AI models as a competitive bet against closed ecosystems, signaling a shift in how big tech plans to dominate artificial intelligence; and a growing crisis in private equity with over 33,000 unsold portfolio companies sitting in limbo due to compressed exit multiples, creating pressure on pension funds and endowments. Additional coverage includes Boeing's sale of autonomous flight subsidiaries to Archer Aviation as part of its broader restructuring.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-09",
       "summary": "# Sunday Digest: AI Markets in Turmoil, Middle East Tensions, and Capitol Hill Defeats\n\nChinese AI startup DeepSeek's breakthrough in building capable models at a fraction of U.S. costs triggered a massive selloff in semiconductor stocks—with Nvidia dropping 16%—forcing investors to reckon with whether the trillion-dollar AI infrastructure bet is overvalued. Meanwhile, Prime Minister Netanyahu publicly rejected Trump's Gaza peace plan while the U.S. simultaneously wages financial warfare against Hezbollah, creating diplomatic friction and deepening regional instability. On the home front, Senate Republicans blocked Trump's voting restrictions bill, revealing cracks in his political leverage within his own party as lawmakers distance themselves from",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-28",
       "summary": "# Episode Summary\n\nThis episode tackles three major stories reshaping markets and geopolitics: a global semiconductor selloff triggered by DeepSeek that's exposing dangerous concentration risk in AI trades and revealing uncomfortable questions about circular financing propping up the sector, an increasingly uncertain Iran conflict entering its sixth month with both sides reluctant to negotiate, and warning signals flashing in credit markets where junk bond spreads have blown out dramatically despite calm equity markets—a historical disconnect worth watching closely as the Fed makes its next move.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-27",
-      "summary": "# Episode Summary\n\nThis episode dives into three major market-moving stories: the DeepSeek AI shock that sent Nvidia and semiconductor stocks plummeting, raising questions about the efficiency of AI spending and the valuation of tech infrastructure; the Federal Reserve's critical policy decision this week under new Chair Kevin Warsh, who must navigate inflation concerns and political pressure without tipping the economy into recession; and escalating geopolitical tensions in the Middle East, including a U.S. pause on Iran strikes ahead of a Trump-Netanyahu meeting that could significantly impact oil prices. The discussion also touches on China's property sector weakness and what it means for global growth and commodity demand.",
       "keyTopics": []
     }
   ]
