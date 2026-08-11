@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-11",
+      "summary": "# Episode Summary\n\nOil prices surge toward $90 a barrel amid escalating U.S.-Iran tensions over the Strait of Hormuz, threatening to keep inflation sticky heading into fall—while the energy sector rallies sharply on the news. Wall Street is pouring billions into AI infrastructure and lending, but a critical gap has emerged: the tech companies *selling* AI solutions are seeing margin improvements, while the businesses *buying* and deploying them haven't yet, raising questions about whether the trillion-dollar buildout is priced for a future that may not arrive. Meanwhile, private equity portfolios are sitting on a growing backlog of over 33,000 unsold companies globally, creating mounting pressure on institutional investors",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-10",
       "summary": "# Episode Summary\n\nThis episode covers three major stories with significant market implications: Iran's hardening stance on closing the Strait of Hormuz unless the U.S. meets its demands, which threatens to keep oil prices elevated and complicate Federal Reserve policy; Meta's strategic pivot toward open-source AI models as a competitive bet against closed ecosystems, signaling a shift in how big tech plans to dominate artificial intelligence; and a growing crisis in private equity with over 33,000 unsold portfolio companies sitting in limbo due to compressed exit multiples, creating pressure on pension funds and endowments. Additional coverage includes Boeing's sale of autonomous flight subsidiaries to Archer Aviation as part of its broader restructuring.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-29",
       "summary": "# Episode Summary\n\nThis episode dives into three major market forces converging this week: Federal Reserve Chair Kevin Warsh's critical meeting and what his signals mean for inflation, geopolitical disruptions in the Strait of Hormuz pushing oil prices higher, and cracks emerging in the AI investment boom as the market shifts from blind spending enthusiasm to demanding real returns. With tech earnings from Meta, Microsoft, and Amazon on deck and the Nasdaq flirting with correction territory, investors are bracing for a volatile stretch shaped by Fed messaging, shipping disruptions, and whether AI infrastructure spending can actually justify its trillion-dollar costs.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-28",
-      "summary": "# Episode Summary\n\nThis episode tackles three major stories reshaping markets and geopolitics: a global semiconductor selloff triggered by DeepSeek that's exposing dangerous concentration risk in AI trades and revealing uncomfortable questions about circular financing propping up the sector, an increasingly uncertain Iran conflict entering its sixth month with both sides reluctant to negotiate, and warning signals flashing in credit markets where junk bond spreads have blown out dramatically despite calm equity markets—a historical disconnect worth watching closely as the Fed makes its next move.",
       "keyTopics": []
     }
   ]
