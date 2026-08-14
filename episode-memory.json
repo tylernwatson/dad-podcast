@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-14",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping markets and policy: Robinhood's $200 million second venture capital fund, which democratizes retail access to private markets while raising important questions about valuations and liquidity; a significant new Trump administration cybersecurity policy authorizing private companies to conduct offensive hacking operations against criminals, a shift with major accountability and escalation implications; and an update on the AI narrative following DeepSeek's cost-efficient model development, which triggered a 16% Nvidia sell-off that experts argue may have been an overreaction despite legitimate concerns about margin compression. The hosts also flag an emerging DOJ enforcement shift toward prosecuting small-scale fraud while dropping corporate cases—",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-13",
       "summary": "# Podcast Summary\n\nThis episode digs into three major storylines: the intensifying AI and robotics competition between the U.S. and China, where American startups face structural disadvantages against China's manufacturing scale and state backing; a surprising $12.5 billion sale of the Lakers that signals how sophisticated investors are deploying capital into alternative assets like sports franchises to escape crowded public markets; and key developments in Washington including a questionable $464 million no-bid contract for unused deportation jets and a significant but underreported lapse in Prohibition-era firearms regulation. The market backdrop shows calm on the surface with broad breadth, but underlying tensions persist—namely, whether companies *buying* AI will",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-01",
       "summary": "# Dad's Daily Digest Summary\n\nThis episode tackles three major stories with real economic consequences: the deteriorating U.S. position in the Iran conflict, where allies now openly fear strategic defeat and the Strait of Hormuz closure threatens to create structural energy problems; the Federal Reserve's rate hold and the hidden complexities behind it, including stagflation risks and how public guidance may mask internal decision-making; and practical wealth concerns ranging from AI safety implications for corporate reliability to the often-overlooked title issues that can derail inherited real estate. Throughout, the hosts connect these seemingly separate stories—geopolitical instability, monetary policy uncertainty, and infrastructure battles—as interconnected pressures shaping the economic landscape.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-31",
-      "summary": "# Dad's Daily Digest: Friday, July 31\n\nThis episode tackles three converging economic pressures: internal dissent at the Federal Reserve over interest rates signals potential stagflation concerns, major oil companies are posting record profits amid Iran conflict and elevated crude prices, and the AI investment trade is showing strain through hedge fund collapses and concerning debt levels at infrastructure builders like Oracle. Together, these stories reveal a market grappling with inflation uncertainty, geopolitical risk, and whether the AI capex boom can deliver returns fast enough to justify its massive capital commitments.",
       "keyTopics": []
     }
   ]
