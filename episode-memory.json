@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-16",
+      "summary": "# Episode Summary\n\nThis episode examines three critical stories shaping markets and geopolitics: the U.S. military's struggle to develop a coherent AI strategy amid internal bureaucratic conflicts while China accelerates its defense AI capabilities, a cautionary tale about how a false Iranian nuclear claim spread rapidly across social media and into policy discussions before verification, and the emergence of a progressive insurgent movement within the Democratic Party ahead of the midterms—mirroring the Tea Party's disruptive primary strategy but in an entirely different political climate. Together, these stories highlight ongoing vulnerabilities in American strategic coordination, information integrity, and political stability that carry real implications for investors across defense, energy, and macro policy.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-15",
       "summary": "# Episode Summary\n\nThis episode covers the return of real wage squeeze as inflation outpaces paycheck growth, with implications for consumer spending and Fed policy heading into midterms. The show also explores the high-stakes competition among tech giants to dominate wearables and health data integration, the shift toward consortium ownership models in expensive sports franchises, and mounting geopolitical tensions as the U.S. military stretches between Iran and Asia while allies question American defense commitments. A personal newsletter essay about values and legacy rounds out the discussion, demonstrating how investment philosophy connects to life principles.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-03",
       "summary": "# Episode Summary\n\nOil markets surged on signals of a potential Iran ceasefire, providing relief from months of war-premium pricing that had fueled inflation concerns—though the durability of any diplomatic breakthrough remains uncertain. The episode also explores how corporate AI spending is entering a new era of accountability, with \"tokenomics\" emerging as a framework to measure actual returns on massive tech investments, while the U.S. Treasury's quiet intervention to stabilize the Japanese yen signals underlying fragility in global currency markets despite administration rhetoric favoring economic nationalism.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-02",
-      "summary": "# Episode Summary\n\nThis episode examines Trump's historically low approval ratings and their ripple effects on political leverage and institutional independence, investigates how major law firms like Paul Weiss have capitulated to White House pressure rather than resist, and explores troubling economic headwinds facing young adults—from weak job markets forcing graduates back home to delayed household formation affecting consumer spending. The discussion also touches on AI's expanding role in consumer surveillance and the reliability concerns that will determine which companies build lasting trust in the space.",
       "keyTopics": []
     }
   ]
