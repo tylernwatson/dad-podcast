@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-17",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping geopolitics and markets: the collapsed U.S.-Iran nuclear negotiations as hardliners take control in Tehran, raising oil price and inflation risks; China's strategy to embed government narratives into global AI systems through data curation, while simultaneously recruiting Western-trained scientists amid U.S. visa restrictions; and emerging policy debates over how state and local governments will tax and regulate the AI data center buildout. Together, these stories reveal intensifying U.S.-China competition on multiple fronts and renewed escalation risks in the Middle East that could ripple through energy markets.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-16",
       "summary": "# Episode Summary\n\nThis episode examines three critical stories shaping markets and geopolitics: the U.S. military's struggle to develop a coherent AI strategy amid internal bureaucratic conflicts while China accelerates its defense AI capabilities, a cautionary tale about how a false Iranian nuclear claim spread rapidly across social media and into policy discussions before verification, and the emergence of a progressive insurgent movement within the Democratic Party ahead of the midterms—mirroring the Tea Party's disruptive primary strategy but in an entirely different political climate. Together, these stories highlight ongoing vulnerabilities in American strategic coordination, information integrity, and political stability that carry real implications for investors across defense, energy, and macro policy.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-04",
       "summary": "# Tuesday Market Briefing: Earnings Drive Record Highs Amid Underlying Consumer Weakness\n\nStock markets are hitting record highs on the back of strong corporate earnings, temporarily quieting concerns about geopolitical tensions in Iran, inflation, and the sustainability of AI spending. However, warning signs are emerging from the consumer side—McDonald's reported slowing U.S. sales and management changes signaling underlying pressure on low-income shoppers, suggesting the strong headline numbers may mask a more fragile economic picture. Meanwhile, the White House faces policy uncertainty around AI regulation and open-source models, creating investment risk, while negotiations over Iran's potential control of the Strait of Hormuz could reshape long-term energy market",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-03",
-      "summary": "# Episode Summary\n\nOil markets surged on signals of a potential Iran ceasefire, providing relief from months of war-premium pricing that had fueled inflation concerns—though the durability of any diplomatic breakthrough remains uncertain. The episode also explores how corporate AI spending is entering a new era of accountability, with \"tokenomics\" emerging as a framework to measure actual returns on massive tech investments, while the U.S. Treasury's quiet intervention to stabilize the Japanese yen signals underlying fragility in global currency markets despite administration rhetoric favoring economic nationalism.",
       "keyTopics": []
     }
   ]
