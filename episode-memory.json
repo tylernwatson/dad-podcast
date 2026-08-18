@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-18",
+      "summary": "# Episode Summary\n\nThis episode tackles three major market-moving stories: soaring Treasury yields driven by Iran's nuclear impasse and rising oil prices, which are signaling persistent inflation concerns and reshaping sector leadership toward Energy and Financials; Canada's midnight trade deadline with the U.S., which presents a binary risk to the Canadian dollar and North American trade flows; and the DOJ's investigation into venture capital firm Andreessen Horowitz, which could fundamentally restructure how Silicon Valley operates. The show also explores shifting political dynamics ahead of the midterms, where Democrats' unexpected competitiveness in traditionally red states like Texas and North Carolina is reshaping Senate control odds to essentially 50-50.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-17",
       "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping geopolitics and markets: the collapsed U.S.-Iran nuclear negotiations as hardliners take control in Tehran, raising oil price and inflation risks; China's strategy to embed government narratives into global AI systems through data curation, while simultaneously recruiting Western-trained scientists amid U.S. visa restrictions; and emerging policy debates over how state and local governments will tax and regulate the AI data center buildout. Together, these stories reveal intensifying U.S.-China competition on multiple fronts and renewed escalation risks in the Middle East that could ripple through energy markets.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-05",
       "summary": "# Episode Summary\n\nThis episode breaks down three major stories reshaping markets and politics: a controversial AI safety framework that exempts Chinese models while burdening American companies like OpenAI and Anthropic, creating a competitive disadvantage; diverging consumer spending patterns showing premium experiences (Disney's strong parks revenue) holding steady while value-oriented spending (McDonald's weakness) cracks; and sharpening midterm dynamics as both parties navigate base-versus-electability tensions in competitive races. The hosts also highlight a must-read analysis on Fed decision-making that reveals the gap between what the central bank publicly communicates and the actual reasoning driving its policy choices.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-04",
-      "summary": "# Tuesday Market Briefing: Earnings Drive Record Highs Amid Underlying Consumer Weakness\n\nStock markets are hitting record highs on the back of strong corporate earnings, temporarily quieting concerns about geopolitical tensions in Iran, inflation, and the sustainability of AI spending. However, warning signs are emerging from the consumer side—McDonald's reported slowing U.S. sales and management changes signaling underlying pressure on low-income shoppers, suggesting the strong headline numbers may mask a more fragile economic picture. Meanwhile, the White House faces policy uncertainty around AI regulation and open-source models, creating investment risk, while negotiations over Iran's potential control of the Strait of Hormuz could reshape long-term energy market",
       "keyTopics": []
     }
   ]
