@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-19",
+      "summary": "# Episode Summary\n\nThis episode covers three major stories: a widening global bond market selloff driven by fiscal concerns and persistent inflation, with rising Treasury yields creating ripple effects across mortgages and borrowing costs; a stunning Democratic primary upset in Florida where progressive candidate Angie Nixon defeated a better-funded moderate opponent using grassroots organizing, highlighting internal party tensions heading into November; and a personal essay from the Dividend Cafe newsletter that steps away from markets entirely to offer life wisdom for a college-bound daughter—a genuine moment about values that resonates beyond typical investing content.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-18",
       "summary": "# Episode Summary\n\nThis episode tackles three major market-moving stories: soaring Treasury yields driven by Iran's nuclear impasse and rising oil prices, which are signaling persistent inflation concerns and reshaping sector leadership toward Energy and Financials; Canada's midnight trade deadline with the U.S., which presents a binary risk to the Canadian dollar and North American trade flows; and the DOJ's investigation into venture capital firm Andreessen Horowitz, which could fundamentally restructure how Silicon Valley operates. The show also explores shifting political dynamics ahead of the midterms, where Democrats' unexpected competitiveness in traditionally red states like Texas and North Carolina is reshaping Senate control odds to essentially 50-50.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-06",
       "summary": "# Episode Summary\n\nThis episode examines three major market stories: Google's internal AI leadership restructuring and what it signals about whether tech giants can convert research dominance into business results, Europe's mounting pressures from geopolitical conflict, energy costs, and climate crises that keep risk premiums elevated, and a deeper look at July's market resilience despite significant headwinds. The hosts also unpack analysis from the Dividend Cafe on leveraged AI bets, AI capital spending efficiency, and why underlying market risks remain real even as headline indices prove surprisingly stable.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-05",
-      "summary": "# Episode Summary\n\nThis episode breaks down three major stories reshaping markets and politics: a controversial AI safety framework that exempts Chinese models while burdening American companies like OpenAI and Anthropic, creating a competitive disadvantage; diverging consumer spending patterns showing premium experiences (Disney's strong parks revenue) holding steady while value-oriented spending (McDonald's weakness) cracks; and sharpening midterm dynamics as both parties navigate base-versus-electability tensions in competitive races. The hosts also highlight a must-read analysis on Fed decision-making that reveals the gap between what the central bank publicly communicates and the actual reasoning driving its policy choices.",
       "keyTopics": []
     }
   ]
