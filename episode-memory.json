@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-21",
+      "summary": "# Podcast Summary\n\nThis episode breaks down a turbulent week across markets and policy, examining three major stories: bond market volatility and Treasury Secretary Bessent's credibility amid deficit concerns, escalating Iran tensions and the overlooked risk of \"dark tankers\" navigating the Strait of Hormuz without transponders to avoid attacks, and a new White House space transportation policy aimed at streamlining launch approvals to accelerate the commercial space industry. The hosts also flag Harvard's ongoing financial squeeze from the Trump administration—delivered through bureaucratic friction rather than direct cuts—as a cautionary tale with potential ripple effects across the research-dependent biotech, defense, and AI sectors.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-20",
       "summary": "# Today's Top Stories\n\nThe U.S. debt milestone of $40 trillion has arrived amid concerns about fiscal discipline, Treasury intervention in bond markets, and implications for Fed independence and interest rates. Geopolitical tensions are escalating with Trump's new threats toward Iran, pushing oil prices higher and creating a feedback loop that's driving inflation expectations and yield increases across markets. On a brighter note, Moderna's announcement of successful melanoma vaccine results sparked one of the market's most stunning single-day rallies, signaling that the mRNA platform extends far beyond COVID and putting biotech back in play as a serious sector investment.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-08",
       "summary": "# Episode Summary\n\nThis episode covers three major political and economic stories shaping the weeks ahead: a government shutdown averted through rare bipartisan cooperation ahead of the midterms, heating midterm races in Michigan and Ohio where Medicaid and economic messaging are becoming the central battleground, and escalating U.S.-Canada trade tensions with 50% tariffs looming unless new Prime Minister Mark Carney can negotiate a comprehensive deal. The show also highlights a must-read Dividend Cafe essay on foundational economic principles—arguing that private property rights and sound governance frameworks matter more than ever in today's populist political environment.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-07",
-      "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and policy this week: a pivotal July jobs report that could force the Federal Reserve's hand on interest rate hikes in September, Trump's renewed executive orders targeting birthright citizenship through a narrower legal approach, deteriorating U.S.-Canada trade relations amid accusations of \"nasty\" negotiations, and China's surprisingly resilient export machine despite severe domestic economic weakness. Together, these developments create a complex economic picture where strong labor markets may squeeze already-vulnerable consumers, trade tensions threaten integrated supply chains, and deflationary pressures from Chinese exports complicate the Fed's inflation outlook.",
       "keyTopics": []
     }
   ]
