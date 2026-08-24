@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-24",
+      "summary": "# Episode Summary\n\nAn AI-powered Russian drone strike in Ukraine has exposed a critical vulnerability in semiconductor export controls, as Nvidia chips flow into weapons systems through secondary markets—raising urgent questions about autonomous warfare and regulatory risk for the entire tech sector. Meanwhile, Canada's escalating trade retaliation signals a potential new playbook for U.S. trading partners, while Treasury prepares Iran sanctions that markets are already pricing in as oil prices fall. Together, these stories reveal how geopolitical friction is reshaping everything from supply chains to AI infrastructure investment assumptions.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-23",
       "summary": "# Episode Summary\n\nThis episode breaks down three major stories reshaping markets and politics: escalating Canada tariffs are hitting specific goods—from dog muzzles to metal statuettes—creating real supply chain costs for American businesses, while both sides wage a parallel PR battle. The midterm environment is crystallizing into a 2006-style wave setup favoring Democrats, complicated by a surprising private meeting between House Minority Leader Hakeem Jeffries and Jared Kushner suggesting both parties are already thinking about post-election cooperation. Finally, data center opposition is rapidly becoming a bipartisan campaign issue, threatening the permitting timelines and cost assumptions that have fueled trillion-dollar AI infrastructure investment plans.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-11",
       "summary": "# Episode Summary\n\nOil prices surge toward $90 a barrel amid escalating U.S.-Iran tensions over the Strait of Hormuz, threatening to keep inflation sticky heading into fall—while the energy sector rallies sharply on the news. Wall Street is pouring billions into AI infrastructure and lending, but a critical gap has emerged: the tech companies *selling* AI solutions are seeing margin improvements, while the businesses *buying* and deploying them haven't yet, raising questions about whether the trillion-dollar buildout is priced for a future that may not arrive. Meanwhile, private equity portfolios are sitting on a growing backlog of over 33,000 unsold companies globally, creating mounting pressure on institutional investors",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-10",
-      "summary": "# Episode Summary\n\nThis episode covers three major stories with significant market implications: Iran's hardening stance on closing the Strait of Hormuz unless the U.S. meets its demands, which threatens to keep oil prices elevated and complicate Federal Reserve policy; Meta's strategic pivot toward open-source AI models as a competitive bet against closed ecosystems, signaling a shift in how big tech plans to dominate artificial intelligence; and a growing crisis in private equity with over 33,000 unsold portfolio companies sitting in limbo due to compressed exit multiples, creating pressure on pension funds and endowments. Additional coverage includes Boeing's sale of autonomous flight subsidiaries to Archer Aviation as part of its broader restructuring.",
       "keyTopics": []
     }
   ]
