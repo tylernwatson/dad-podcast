@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-25",
+      "summary": "# Episode Summary\n\nTreasury Secretary Scott Bessent is making an unprecedented move to suppress long-term bond yields by having the Treasury Department buy back $2 billion in 30-year bonds—a strategy drawing sharp criticism from prominent figures like Stanley Druckenmiller—raising questions about whether this is market intervention or political maneuvering ahead of midterms. Meanwhile, a landmark New York Times study reveals that at least one in four NFL players develops chronic traumatic encephalopathy (CTE), prompting questions about why workplace safety regulators haven't intervened and what this means for the league's long-term liability and cultural standing. The show also covers emerging solutions to data center opposition through power management software and early",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-24",
       "summary": "# Episode Summary\n\nAn AI-powered Russian drone strike in Ukraine has exposed a critical vulnerability in semiconductor export controls, as Nvidia chips flow into weapons systems through secondary markets—raising urgent questions about autonomous warfare and regulatory risk for the entire tech sector. Meanwhile, Canada's escalating trade retaliation signals a potential new playbook for U.S. trading partners, while Treasury prepares Iran sanctions that markets are already pricing in as oil prices fall. Together, these stories reveal how geopolitical friction is reshaping everything from supply chains to AI infrastructure investment assumptions.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-12",
       "summary": "# Today's Episode Summary\n\nThis episode covers three major stories with immediate market implications: the July CPI inflation report dropping today, which will signal whether the Fed can hold rates steady in September or faces pressure to hike; a Wisconsin Democratic primary win by a moderate candidate, reflecting voter preference for electability over ideology heading into competitive midterm races; and escalating Canada tariff threats that are prompting manufacturers to seriously consider relocating operations to the U.S. The hosts also highlight a thoughtful essay on foundational economic principles — private property rights, sound money, and rule of law — arguing that investors face framework risks when institutions supporting market economies begin to shift.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-11",
-      "summary": "# Episode Summary\n\nOil prices surge toward $90 a barrel amid escalating U.S.-Iran tensions over the Strait of Hormuz, threatening to keep inflation sticky heading into fall—while the energy sector rallies sharply on the news. Wall Street is pouring billions into AI infrastructure and lending, but a critical gap has emerged: the tech companies *selling* AI solutions are seeing margin improvements, while the businesses *buying* and deploying them haven't yet, raising questions about whether the trillion-dollar buildout is priced for a future that may not arrive. Meanwhile, private equity portfolios are sitting on a growing backlog of over 33,000 unsold companies globally, creating mounting pressure on institutional investors",
       "keyTopics": []
     }
   ]
