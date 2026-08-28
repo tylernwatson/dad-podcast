@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-28",
+      "summary": "# Episode Summary\n\nThis episode covers three major market-moving stories: Fed Chair Warsh signals a hawkish stance on inflation with his \"we have work to do\" comment, while a cleaner-than-expected jobs benchmark revision suggests the labor market can sustain higher rates; China's AI ecosystem is repositioning itself as a safer, open-source alternative to American closed models—a geopolitical play that could reshape which countries adopt which AI infrastructure; and the U.S. is quietly reshaping global energy markets by encouraging Chevron to expand Venezuelan oil production while simultaneously maintaining pressure on Iran. Together, these developments signal major shifts in monetary policy, tech competition, and resource geopolitics heading into year-end.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-27",
       "summary": "# Episode Summary\n\nThis episode dives deep into Treasury Secretary Bessent's controversial bond-buying intervention—dubbed \"Operation Treasury Twist\"—exploring why manipulating long-end yields risks the Treasury's credibility with markets, and examines the real consumer impact of inflation as shoppers across all income brackets increasingly trade down to dollar stores. The discussion also covers the escalating U.S.-Canada trade dispute, including creative negotiations over French language laws and defense contracts, plus the CIA director's secretive Moscow talks aimed at pushing Russia toward a Ukraine ceasefire.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-15",
       "summary": "# Episode Summary\n\nThis episode covers the return of real wage squeeze as inflation outpaces paycheck growth, with implications for consumer spending and Fed policy heading into midterms. The show also explores the high-stakes competition among tech giants to dominate wearables and health data integration, the shift toward consortium ownership models in expensive sports franchises, and mounting geopolitical tensions as the U.S. military stretches between Iran and Asia while allies question American defense commitments. A personal newsletter essay about values and legacy rounds out the discussion, demonstrating how investment philosophy connects to life principles.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-14",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping markets and policy: Robinhood's $200 million second venture capital fund, which democratizes retail access to private markets while raising important questions about valuations and liquidity; a significant new Trump administration cybersecurity policy authorizing private companies to conduct offensive hacking operations against criminals, a shift with major accountability and escalation implications; and an update on the AI narrative following DeepSeek's cost-efficient model development, which triggered a 16% Nvidia sell-off that experts argue may have been an overreaction despite legitimate concerns about margin compression. The hosts also flag an emerging DOJ enforcement shift toward prosecuting small-scale fraud while dropping corporate cases—",
       "keyTopics": []
     }
   ]
