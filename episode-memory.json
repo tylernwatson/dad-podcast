@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-31",
+      "summary": "# Episode Summary\n\nOil prices spike amid renewed U.S.-Iran conflict, threatening to complicate the Fed's inflation fight and dominating discussions at this week's G20 finance ministers meeting. Meanwhile, a China-led Shanghai Cooperation Organization summit in Kyrgyzstan—featuring Russia, India, and Iran—signals a broader geopolitical realignment, while U.S. startups are moving AI infrastructure development offshore to bypass domestic regulatory constraints. The week ahead will test whether policymakers understand the economic tradeoffs driving these structural shifts in global power and markets.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-30",
       "summary": "# Episode Summary\n\nThis Sunday episode tackles three major storylines shaping the week ahead: Federal Reserve Chair Kevin Warsh faces an impossible choice on interest rates with inflation still elevated and the White House expecting cuts rather than hikes, while Treasury simultaneously tries to manage long-term yields through bond buybacks. The U.S. is tightening Iran sanctions by targeting UAE-based Egyptian bank branches used to move money through the financial system, keeping pressure on oil supplies as Venezuelan barrels come online. Finally, two voting-related court rulings could reshape November's midterms—a federal judge blocked strict new mail-in ballot requirements, while the Justice Department is strategically filing cases in conservative-leaning North Texas federal courts,",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-18",
       "summary": "# Episode Summary\n\nThis episode tackles three major market-moving stories: soaring Treasury yields driven by Iran's nuclear impasse and rising oil prices, which are signaling persistent inflation concerns and reshaping sector leadership toward Energy and Financials; Canada's midnight trade deadline with the U.S., which presents a binary risk to the Canadian dollar and North American trade flows; and the DOJ's investigation into venture capital firm Andreessen Horowitz, which could fundamentally restructure how Silicon Valley operates. The show also explores shifting political dynamics ahead of the midterms, where Democrats' unexpected competitiveness in traditionally red states like Texas and North Carolina is reshaping Senate control odds to essentially 50-50.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-17",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping geopolitics and markets: the collapsed U.S.-Iran nuclear negotiations as hardliners take control in Tehran, raising oil price and inflation risks; China's strategy to embed government narratives into global AI systems through data curation, while simultaneously recruiting Western-trained scientists amid U.S. visa restrictions; and emerging policy debates over how state and local governments will tax and regulate the AI data center buildout. Together, these stories reveal intensifying U.S.-China competition on multiple fronts and renewed escalation risks in the Middle East that could ripple through energy markets.",
       "keyTopics": []
     }
   ]
