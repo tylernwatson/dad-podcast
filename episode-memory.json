@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-01",
+      "summary": "# Episode Summary\n\nThis episode covers three major market and geopolitical developments: a dramatic selloff in AI infrastructure stocks triggered by Chinese startup DeepSeek's efficient AI model, which challenged the narrative that expensive U.S. chip dominance is essential; global bond yields hitting multi-decade highs and threatening to squeeze borrowers worldwide through higher mortgage and loan rates; and a fracturing G20 summit where the U.S. is increasingly isolated on trade policy while China builds alternative power structures through the SCO. The hosts also discuss how these dynamics interconnect—from energy geopolitics driving inflation to potential shifts in the Senate midterm race—while highlighting key signals to watch including Nvidia's trading, Iran sanctions negotiations,",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-31",
       "summary": "# Episode Summary\n\nOil prices spike amid renewed U.S.-Iran conflict, threatening to complicate the Fed's inflation fight and dominating discussions at this week's G20 finance ministers meeting. Meanwhile, a China-led Shanghai Cooperation Organization summit in Kyrgyzstan—featuring Russia, India, and Iran—signals a broader geopolitical realignment, while U.S. startups are moving AI infrastructure development offshore to bypass domestic regulatory constraints. The week ahead will test whether policymakers understand the economic tradeoffs driving these structural shifts in global power and markets.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-19",
       "summary": "# Episode Summary\n\nThis episode covers three major stories: a widening global bond market selloff driven by fiscal concerns and persistent inflation, with rising Treasury yields creating ripple effects across mortgages and borrowing costs; a stunning Democratic primary upset in Florida where progressive candidate Angie Nixon defeated a better-funded moderate opponent using grassroots organizing, highlighting internal party tensions heading into November; and a personal essay from the Dividend Cafe newsletter that steps away from markets entirely to offer life wisdom for a college-bound daughter—a genuine moment about values that resonates beyond typical investing content.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-18",
-      "summary": "# Episode Summary\n\nThis episode tackles three major market-moving stories: soaring Treasury yields driven by Iran's nuclear impasse and rising oil prices, which are signaling persistent inflation concerns and reshaping sector leadership toward Energy and Financials; Canada's midnight trade deadline with the U.S., which presents a binary risk to the Canadian dollar and North American trade flows; and the DOJ's investigation into venture capital firm Andreessen Horowitz, which could fundamentally restructure how Silicon Valley operates. The show also explores shifting political dynamics ahead of the midterms, where Democrats' unexpected competitiveness in traditionally red states like Texas and North Carolina is reshaping Senate control odds to essentially 50-50.",
       "keyTopics": []
     }
   ]
