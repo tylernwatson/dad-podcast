@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-02",
+      "summary": "# Episode Summary\n\nThis episode covers four major market-moving stories: escalating U.S.-Iran conflict threatening oil supplies and inflation through the critical Strait of Hormuz chokepoint, Chevron's $7 billion investment in Venezuelan oil production as a strategic geopolitical move to offset Iranian sanctions, a projected 11% spike in employer health insurance costs for 2027 that will squeeze both corporate margins and worker paychecks, and NATO's first coordinated response to suspected Russian undersea cable sabotage in the Baltic Sea—a threat to the physical infrastructure underpinning the global internet and AI compute. The discussion weaves together how these geopolitical and economic pressures are reshaping energy",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-01",
       "summary": "# Episode Summary\n\nThis episode covers three major market and geopolitical developments: a dramatic selloff in AI infrastructure stocks triggered by Chinese startup DeepSeek's efficient AI model, which challenged the narrative that expensive U.S. chip dominance is essential; global bond yields hitting multi-decade highs and threatening to squeeze borrowers worldwide through higher mortgage and loan rates; and a fracturing G20 summit where the U.S. is increasingly isolated on trade policy while China builds alternative power structures through the SCO. The hosts also discuss how these dynamics interconnect—from energy geopolitics driving inflation to potential shifts in the Senate midterm race—while highlighting key signals to watch including Nvidia's trading, Iran sanctions negotiations,",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-20",
       "summary": "# Today's Top Stories\n\nThe U.S. debt milestone of $40 trillion has arrived amid concerns about fiscal discipline, Treasury intervention in bond markets, and implications for Fed independence and interest rates. Geopolitical tensions are escalating with Trump's new threats toward Iran, pushing oil prices higher and creating a feedback loop that's driving inflation expectations and yield increases across markets. On a brighter note, Moderna's announcement of successful melanoma vaccine results sparked one of the market's most stunning single-day rallies, signaling that the mRNA platform extends far beyond COVID and putting biotech back in play as a serious sector investment.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-19",
-      "summary": "# Episode Summary\n\nThis episode covers three major stories: a widening global bond market selloff driven by fiscal concerns and persistent inflation, with rising Treasury yields creating ripple effects across mortgages and borrowing costs; a stunning Democratic primary upset in Florida where progressive candidate Angie Nixon defeated a better-funded moderate opponent using grassroots organizing, highlighting internal party tensions heading into November; and a personal essay from the Dividend Cafe newsletter that steps away from markets entirely to offer life wisdom for a college-bound daughter—a genuine moment about values that resonates beyond typical investing content.",
       "keyTopics": []
     }
   ]
