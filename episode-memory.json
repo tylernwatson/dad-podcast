@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-03",
+      "summary": "# Dad's Daily Digest — Thursday, September 3rd\n\nThis episode covers four major stories shaping markets and policy: the Fed signals that rate hikes remain on the table as inflation proves sticky, Nvidia's $13 billion acquisition of AI platform Hugging Face positions the chip giant as infrastructure owner for the entire AI ecosystem, the U.S. trade deficit surges due to massive data center imports fueling the AI build-out, and a U.S. military strike in Iran that hit a civilian wedding gathering complicates geopolitical tensions and threatens to escalate oil prices. Throughout, the hosts emphasize the interconnected nature of these stories—from how trade deficits feed inflation concerns to how Iran",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-02",
       "summary": "# Episode Summary\n\nThis episode covers four major market-moving stories: escalating U.S.-Iran conflict threatening oil supplies and inflation through the critical Strait of Hormuz chokepoint, Chevron's $7 billion investment in Venezuelan oil production as a strategic geopolitical move to offset Iranian sanctions, a projected 11% spike in employer health insurance costs for 2027 that will squeeze both corporate margins and worker paychecks, and NATO's first coordinated response to suspected Russian undersea cable sabotage in the Baltic Sea—a threat to the physical infrastructure underpinning the global internet and AI compute. The discussion weaves together how these geopolitical and economic pressures are reshaping energy",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-21",
       "summary": "# Podcast Summary\n\nThis episode breaks down a turbulent week across markets and policy, examining three major stories: bond market volatility and Treasury Secretary Bessent's credibility amid deficit concerns, escalating Iran tensions and the overlooked risk of \"dark tankers\" navigating the Strait of Hormuz without transponders to avoid attacks, and a new White House space transportation policy aimed at streamlining launch approvals to accelerate the commercial space industry. The hosts also flag Harvard's ongoing financial squeeze from the Trump administration—delivered through bureaucratic friction rather than direct cuts—as a cautionary tale with potential ripple effects across the research-dependent biotech, defense, and AI sectors.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-20",
-      "summary": "# Today's Top Stories\n\nThe U.S. debt milestone of $40 trillion has arrived amid concerns about fiscal discipline, Treasury intervention in bond markets, and implications for Fed independence and interest rates. Geopolitical tensions are escalating with Trump's new threats toward Iran, pushing oil prices higher and creating a feedback loop that's driving inflation expectations and yield increases across markets. On a brighter note, Moderna's announcement of successful melanoma vaccine results sparked one of the market's most stunning single-day rallies, signaling that the mRNA platform extends far beyond COVID and putting biotech back in play as a serious sector investment.",
       "keyTopics": []
     }
   ]
