@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-04",
+      "summary": "# Episode Summary\n\nThis episode connects four major economic and geopolitical pressures reshaping markets and household finances: record-high diesel prices driven by Iran conflict escalation, rising bond yields and mortgage rates signaling the Fed may keep rates higher for longer, and emerging risks from Tesla's regulatory scrutiny and Russia's expanding sabotage campaign against European infrastructure. Together, these stories paint a picture of rising costs and instability that are flowing through to consumers' wallets across energy, housing, credit, and technology sectors.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-03",
       "summary": "# Dad's Daily Digest — Thursday, September 3rd\n\nThis episode covers four major stories shaping markets and policy: the Fed signals that rate hikes remain on the table as inflation proves sticky, Nvidia's $13 billion acquisition of AI platform Hugging Face positions the chip giant as infrastructure owner for the entire AI ecosystem, the U.S. trade deficit surges due to massive data center imports fueling the AI build-out, and a U.S. military strike in Iran that hit a civilian wedding gathering complicates geopolitical tensions and threatens to escalate oil prices. Throughout, the hosts emphasize the interconnected nature of these stories—from how trade deficits feed inflation concerns to how Iran",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-22",
       "summary": "# Episode Summary\n\nThis episode breaks down three major economic stories: the collapse of U.S.-Canada trade negotiations, resulting in immediate tariffs that will ripple through North American supply chains and consumer prices; the structural shift from an era of ultralow borrowing costs to permanently higher interest rates, which fundamentally reshapes how businesses and consumers make financial decisions; and the launch of David Bahnsen's new book on dividend growth investing, positioning quality dividend-paying stocks as the right strategy for a higher-rate environment. The show also explores how Gen Z is prioritizing stock market investing over homeownership as their primary wealth-building strategy—a generational shift worth monitoring.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-21",
-      "summary": "# Podcast Summary\n\nThis episode breaks down a turbulent week across markets and policy, examining three major stories: bond market volatility and Treasury Secretary Bessent's credibility amid deficit concerns, escalating Iran tensions and the overlooked risk of \"dark tankers\" navigating the Strait of Hormuz without transponders to avoid attacks, and a new White House space transportation policy aimed at streamlining launch approvals to accelerate the commercial space industry. The hosts also flag Harvard's ongoing financial squeeze from the Trump administration—delivered through bureaucratic friction rather than direct cuts—as a cautionary tale with potential ripple effects across the research-dependent biotech, defense, and AI sectors.",
       "keyTopics": []
     }
   ]
