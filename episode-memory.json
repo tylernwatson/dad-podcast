@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-06",
+      "summary": "# Sunday News Briefing: Energy Tensions, Ukraine Audit, and Strategic Supply Chain Risks\n\nThis episode covers five major stories shaping the week ahead: OPEC's decision to hold oil production steady amid escalating military tensions in the Strait of Hormuz, where U.S. Navy escorts are now protecting commercial tankers from Iranian attacks; a damning New York Times investigation revealing $1.2 billion in fraud and waste in Ukraine's weapons procurement system, complicating ongoing peace talks and U.S. aid debates; a chip smuggling exposé showing Chinese firms accessed sanctioned Nvidia technology through subsidiary loopholes, raising questions about export control effectiveness; a Trump administration proposal to redirect child care",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-05",
       "summary": "# Podcast Summary\n\nThis episode tackles three major stories shaping markets and geopolitics: serious diplomatic momentum on Russia-Ukraine peace talks with Trump's envoy in Moscow, alongside ongoing human costs from the Iran conflict and concerns about munitions depletion; and a must-read financial argument questioning whether the AI investment boom actually makes sense when examined through traditional balance-sheet analysis rather than transformative-technology hype. The hosts emphasize that while AI is genuinely significant, history shows that ignoring profit-and-loss fundamentals during technology booms consistently leads to poor investment outcomes.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-24",
       "summary": "# Episode Summary\n\nAn AI-powered Russian drone strike in Ukraine has exposed a critical vulnerability in semiconductor export controls, as Nvidia chips flow into weapons systems through secondary markets—raising urgent questions about autonomous warfare and regulatory risk for the entire tech sector. Meanwhile, Canada's escalating trade retaliation signals a potential new playbook for U.S. trading partners, while Treasury prepares Iran sanctions that markets are already pricing in as oil prices fall. Together, these stories reveal how geopolitical friction is reshaping everything from supply chains to AI infrastructure investment assumptions.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-23",
-      "summary": "# Episode Summary\n\nThis episode breaks down three major stories reshaping markets and politics: escalating Canada tariffs are hitting specific goods—from dog muzzles to metal statuettes—creating real supply chain costs for American businesses, while both sides wage a parallel PR battle. The midterm environment is crystallizing into a 2006-style wave setup favoring Democrats, complicated by a surprising private meeting between House Minority Leader Hakeem Jeffries and Jared Kushner suggesting both parties are already thinking about post-election cooperation. Finally, data center opposition is rapidly becoming a bipartisan campaign issue, threatening the permitting timelines and cost assumptions that have fueled trillion-dollar AI infrastructure investment plans.",
       "keyTopics": []
     }
   ]
