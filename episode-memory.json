@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-07",
+      "summary": "# Episode Summary\n\nA Chinese AI startup's new cost-efficient model triggers a massive tech selloff, with Nvidia and other chip makers plummeting as investors question whether expensive U.S. hardware remains essential for frontier AI development—though bulls argue cheaper AI could ultimately expand total demand. Meanwhile, escalating U.S.-Iran tensions push oil prices toward $100 a barrel and gas to $4.15 nationally, threatening consumer spending and complicating the Fed's rate-cutting plans, while far-right parties gain dangerous electoral momentum in Germany, signaling broader fractures in post-Cold War Western consensus.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-06",
       "summary": "# Sunday News Briefing: Energy Tensions, Ukraine Audit, and Strategic Supply Chain Risks\n\nThis episode covers five major stories shaping the week ahead: OPEC's decision to hold oil production steady amid escalating military tensions in the Strait of Hormuz, where U.S. Navy escorts are now protecting commercial tankers from Iranian attacks; a damning New York Times investigation revealing $1.2 billion in fraud and waste in Ukraine's weapons procurement system, complicating ongoing peace talks and U.S. aid debates; a chip smuggling exposé showing Chinese firms accessed sanctioned Nvidia technology through subsidiary loopholes, raising questions about export control effectiveness; a Trump administration proposal to redirect child care",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-25",
       "summary": "# Episode Summary\n\nTreasury Secretary Scott Bessent is making an unprecedented move to suppress long-term bond yields by having the Treasury Department buy back $2 billion in 30-year bonds—a strategy drawing sharp criticism from prominent figures like Stanley Druckenmiller—raising questions about whether this is market intervention or political maneuvering ahead of midterms. Meanwhile, a landmark New York Times study reveals that at least one in four NFL players develops chronic traumatic encephalopathy (CTE), prompting questions about why workplace safety regulators haven't intervened and what this means for the league's long-term liability and cultural standing. The show also covers emerging solutions to data center opposition through power management software and early",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-24",
-      "summary": "# Episode Summary\n\nAn AI-powered Russian drone strike in Ukraine has exposed a critical vulnerability in semiconductor export controls, as Nvidia chips flow into weapons systems through secondary markets—raising urgent questions about autonomous warfare and regulatory risk for the entire tech sector. Meanwhile, Canada's escalating trade retaliation signals a potential new playbook for U.S. trading partners, while Treasury prepares Iran sanctions that markets are already pricing in as oil prices fall. Together, these stories reveal how geopolitical friction is reshaping everything from supply chains to AI infrastructure investment assumptions.",
       "keyTopics": []
     }
   ]
