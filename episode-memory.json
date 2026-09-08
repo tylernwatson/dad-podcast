@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-08",
+      "summary": "# Episode Summary\n\nThis episode tracks three major market drivers: an escalating U.S.-Canada trade war featuring new retaliatory tariffs and threats against Bombardier that could disrupt cross-border supply chains; oil climbing toward $100 a barrel due to Houthi attacks in the Red Sea, creating inflation risks and putting the Federal Reserve in a difficult position on rate cuts; and surprisingly resilient stock markets buoyed by strong corporate earnings and AI optimism, though rising interest rates pose a growing threat to valuations. The hosts examine how these interconnected economic pressures—trade friction, energy shocks, and rate dynamics—could reshape market sentiment in the coming weeks.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-07",
       "summary": "# Episode Summary\n\nA Chinese AI startup's new cost-efficient model triggers a massive tech selloff, with Nvidia and other chip makers plummeting as investors question whether expensive U.S. hardware remains essential for frontier AI development—though bulls argue cheaper AI could ultimately expand total demand. Meanwhile, escalating U.S.-Iran tensions push oil prices toward $100 a barrel and gas to $4.15 nationally, threatening consumer spending and complicating the Fed's rate-cutting plans, while far-right parties gain dangerous electoral momentum in Germany, signaling broader fractures in post-Cold War Western consensus.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-26",
       "summary": "# Episode Summary\n\nThis episode dives into three major financial stories shaping markets this week: Fed Chair Kevin Warsh's first major Jackson Hole speech and the critical question of whether rate hikes are coming as inflation risks resurface, and soaring diesel prices hitting record highs due to geopolitical disruptions in Iran and the Red Sea—a concerning re-inflation signal given diesel's outsized impact on goods and shipping costs throughout the economy. The show also explores David Bahnsen's new book on dividend growth investing and argues that in today's higher-rate environment, dividends have become a crucial signal of genuine business profitability rather than just a source of income.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-25",
-      "summary": "# Episode Summary\n\nTreasury Secretary Scott Bessent is making an unprecedented move to suppress long-term bond yields by having the Treasury Department buy back $2 billion in 30-year bonds—a strategy drawing sharp criticism from prominent figures like Stanley Druckenmiller—raising questions about whether this is market intervention or political maneuvering ahead of midterms. Meanwhile, a landmark New York Times study reveals that at least one in four NFL players develops chronic traumatic encephalopathy (CTE), prompting questions about why workplace safety regulators haven't intervened and what this means for the league's long-term liability and cultural standing. The show also covers emerging solutions to data center opposition through power management software and early",
       "keyTopics": []
     }
   ]
