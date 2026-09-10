@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-10",
+      "summary": "# Episode Summary\n\nGeopolitical tensions are ratcheting up as Iran-backed Houthis seize a strategic Red Sea port, sending crude oil to its highest levels in months and complicating the Federal Reserve's inflation-fighting efforts—while both the ECB raises rates and the bond market grows increasingly nervous. Back home, a proposed trillion-dollar \"Trump Dividend\" is raising alarm among investors worried about U.S. fiscal deficits, even as election-year legal battles over voting access and congressional maps intensify ahead of November. Meanwhile, researchers are raising red flags about inconsistent AI chatbot outputs potentially shaping voter decisions, adding another layer of uncertainty to an already turbulent political and economic moment.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-09",
       "summary": "# Episode Summary\n\nOil has surged to $100 a barrel overnight due to escalating Iran tensions and Red Sea shipping disruptions blocking Saudi exports, sending ripple effects through gas prices, inflation, and the Federal Reserve's rate-cutting plans just as Republicans gather in Dallas to strategize for midterm elections. Beyond energy, AI markets are stabilizing with a focus shifting from expensive infrastructure to practical business applications like AI sales tools and music generation, while nuclear energy is gaining unexpected traction as a solution to domestic power demands—all converging into a week dominated by scarcity, cost, and economic pressure on American households heading into November.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-28",
       "summary": "# Episode Summary\n\nThis episode covers three major market-moving stories: Fed Chair Warsh signals a hawkish stance on inflation with his \"we have work to do\" comment, while a cleaner-than-expected jobs benchmark revision suggests the labor market can sustain higher rates; China's AI ecosystem is repositioning itself as a safer, open-source alternative to American closed models—a geopolitical play that could reshape which countries adopt which AI infrastructure; and the U.S. is quietly reshaping global energy markets by encouraging Chevron to expand Venezuelan oil production while simultaneously maintaining pressure on Iran. Together, these developments signal major shifts in monetary policy, tech competition, and resource geopolitics heading into year-end.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-27",
-      "summary": "# Episode Summary\n\nThis episode dives deep into Treasury Secretary Bessent's controversial bond-buying intervention—dubbed \"Operation Treasury Twist\"—exploring why manipulating long-end yields risks the Treasury's credibility with markets, and examines the real consumer impact of inflation as shoppers across all income brackets increasingly trade down to dollar stores. The discussion also covers the escalating U.S.-Canada trade dispute, including creative negotiations over French language laws and defense contracts, plus the CIA director's secretive Moscow talks aimed at pushing Russia toward a Ukraine ceasefire.",
       "keyTopics": []
     }
   ]
