@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-11",
+      "summary": "# Episode Summary\n\nInflation took a sharp turn for the worse with August's CPI report nearly guaranteeing a Fed rate hike next week, while diesel prices surging past $6 a gallon and used car prices remaining stubbornly high signal that price pressures are broadening across the economy. The bond market is flashing red amid concerns about federal deficit spending, putting Treasury Secretary Bessent under pressure to restore investor confidence, while energy shocks and geopolitical tensions create a policy bind where traditional rate hikes may be ineffective against supply-side inflation. The episode also touches on a 3.6% projected Social Security COLA for 2027, the 25th anniversary of 9/",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-10",
       "summary": "# Episode Summary\n\nGeopolitical tensions are ratcheting up as Iran-backed Houthis seize a strategic Red Sea port, sending crude oil to its highest levels in months and complicating the Federal Reserve's inflation-fighting efforts—while both the ECB raises rates and the bond market grows increasingly nervous. Back home, a proposed trillion-dollar \"Trump Dividend\" is raising alarm among investors worried about U.S. fiscal deficits, even as election-year legal battles over voting access and congressional maps intensify ahead of November. Meanwhile, researchers are raising red flags about inconsistent AI chatbot outputs potentially shaping voter decisions, adding another layer of uncertainty to an already turbulent political and economic moment.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-29",
       "summary": "# Saturday Briefing: Meta's Historic Settlement, Venezuela's Oil Deal, and Iran's Endless War\n\nMeta faces its largest consumer protection settlement ever—$17.1 billion—with major new restrictions on teen users' time on Instagram and Facebook, marking a watershed moment for social media regulation that parents should watch closely. The U.S. is simultaneously reshaping global energy markets by securing access to Venezuela's massive oil reserves while managing an unresolved military engagement with Iran that's become a political and economic complication heading into the midterm elections. Together, these stories reveal how tech regulation, energy strategy, and foreign policy are converging to create new pressures on prices, rates, and the political environment.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-28",
-      "summary": "# Episode Summary\n\nThis episode covers three major market-moving stories: Fed Chair Warsh signals a hawkish stance on inflation with his \"we have work to do\" comment, while a cleaner-than-expected jobs benchmark revision suggests the labor market can sustain higher rates; China's AI ecosystem is repositioning itself as a safer, open-source alternative to American closed models—a geopolitical play that could reshape which countries adopt which AI infrastructure; and the U.S. is quietly reshaping global energy markets by encouraging Chevron to expand Venezuelan oil production while simultaneously maintaining pressure on Iran. Together, these developments signal major shifts in monetary policy, tech competition, and resource geopolitics heading into year-end.",
       "keyTopics": []
     }
   ]
