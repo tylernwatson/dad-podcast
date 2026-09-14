@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-09-14</title>
+      <description># Episode Summary
+
+This week&apos;s markets and policy landscape is dominated by two major stories: Treasury yields have hit five percent for the first time since the financial crisis, representing a direct rebuke of Treasury Secretary Scott Bessent&apos;s confidence and signaling deepening bond market concerns about U.S. fiscal sustainability. Meanwhile, artificial intelligence is exploding across three critical fronts—from the Trump administration&apos;s hands-off regulatory stance clashing with safety warnings from AI company leaders, to the rollout of AI agents already making prescribing decisions for Medicare patients, to China&apos;s internal assessment of AI as an existential threat to party control.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-09-14.mp3" length="3741504" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-09-14.mp3</guid>
+      <itunes:duration>234</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-09-13</title>
       <description># Sunday Digest: AI Safety Breaks Into Washington Politics, Iranian Hardliners May Have Sabotaged Peace Deal
 
