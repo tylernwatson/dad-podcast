@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-15",
+      "summary": "# Episode Summary\n\nAs the Federal Reserve prepares for a historic rate decision amid unprecedented political pressure from the White House, bond markets are flashing warning signs with ten-year Treasury yields approaching five percent—levels unseen since 2007. Meanwhile, AI regulation remains gridlocked in Congress despite bipartisan calls for guardrails, while the technology itself advances rapidly; semiconductors took a significant hit following an industry leader's open letter warning against unchecked AI development. Global pressures are mounting simultaneously, from fuel-driven protests and blackouts across multiple countries to NATO's first coordinated response to suspected undersea infrastructure sabotage, all while the midterm elections loom just weeks away and filter every policy decision through a political",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-14",
       "summary": "# Episode Summary\n\nThis week's markets and policy landscape is dominated by two major stories: Treasury yields have hit five percent for the first time since the financial crisis, representing a direct rebuke of Treasury Secretary Scott Bessent's confidence and signaling deepening bond market concerns about U.S. fiscal sustainability. Meanwhile, artificial intelligence is exploding across three critical fronts—from the Trump administration's hands-off regulatory stance clashing with safety warnings from AI company leaders, to the rollout of AI agents already making prescribing decisions for Medicare patients, to China's internal assessment of AI as an existential threat to party control.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-02",
       "summary": "# Episode Summary\n\nThis episode covers four major market-moving stories: escalating U.S.-Iran conflict threatening oil supplies and inflation through the critical Strait of Hormuz chokepoint, Chevron's $7 billion investment in Venezuelan oil production as a strategic geopolitical move to offset Iranian sanctions, a projected 11% spike in employer health insurance costs for 2027 that will squeeze both corporate margins and worker paychecks, and NATO's first coordinated response to suspected Russian undersea cable sabotage in the Baltic Sea—a threat to the physical infrastructure underpinning the global internet and AI compute. The discussion weaves together how these geopolitical and economic pressures are reshaping energy",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-01",
-      "summary": "# Episode Summary\n\nThis episode covers three major market and geopolitical developments: a dramatic selloff in AI infrastructure stocks triggered by Chinese startup DeepSeek's efficient AI model, which challenged the narrative that expensive U.S. chip dominance is essential; global bond yields hitting multi-decade highs and threatening to squeeze borrowers worldwide through higher mortgage and loan rates; and a fracturing G20 summit where the U.S. is increasingly isolated on trade policy while China builds alternative power structures through the SCO. The hosts also discuss how these dynamics interconnect—from energy geopolitics driving inflation to potential shifts in the Senate midterm race—while highlighting key signals to watch including Nvidia's trading, Iran sanctions negotiations,",
       "keyTopics": []
     }
   ]
