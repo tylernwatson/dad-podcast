@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-18",
+      "summary": "# Episode Summary\n\nWarren Buffett steps down as Berkshire Hathaway chairman after nearly six decades, marking a generational transition that could reshape how the company deploys its massive cash reserves and exercises influence during market stress. Meanwhile, AI companies face a new concrete threat: legal liability frameworks are tightening as plaintiffs' lawyers build cases against the industry's \"it's just a tool\" defense, potentially accelerating consolidation and forcing companies to price in real legal risk. The episode also covers mounting household financial stress as Americans deplete pandemic-era savings and struggle with inflation, alongside geopolitical tension between the White House's diplomatic overtures to Russia and Congress's push for harder sanctions ahead of Ukraine-related negotiations.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-17",
       "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping markets and politics: the Federal Reserve's unanimous rate hike with deliberately vague forward guidance, signaling Chairman Warsh's independence from White House pressure; China's quietly dominant position in global oil markets, which the Iran conflict exposed and which constrains how much economic slack remains globally; and a shifting midterm map where Republican-held districts are suddenly competitive, creating policy uncertainty heading into November. Together, these stories illustrate how geopolitical shocks, monetary tightening, and political instability are feeding into each other across energy, inflation, and market volatility.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-05",
       "summary": "# Podcast Summary\n\nThis episode tackles three major stories shaping markets and geopolitics: serious diplomatic momentum on Russia-Ukraine peace talks with Trump's envoy in Moscow, alongside ongoing human costs from the Iran conflict and concerns about munitions depletion; and a must-read financial argument questioning whether the AI investment boom actually makes sense when examined through traditional balance-sheet analysis rather than transformative-technology hype. The hosts emphasize that while AI is genuinely significant, history shows that ignoring profit-and-loss fundamentals during technology booms consistently leads to poor investment outcomes.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-04",
-      "summary": "# Episode Summary\n\nThis episode connects four major economic and geopolitical pressures reshaping markets and household finances: record-high diesel prices driven by Iran conflict escalation, rising bond yields and mortgage rates signaling the Fed may keep rates higher for longer, and emerging risks from Tesla's regulatory scrutiny and Russia's expanding sabotage campaign against European infrastructure. Together, these stories paint a picture of rising costs and instability that are flowing through to consumers' wallets across energy, housing, credit, and technology sectors.",
       "keyTopics": []
     }
   ]
