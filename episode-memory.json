@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-19",
+      "summary": "# Weekly Market & Policy Briefing\n\nThis week's markets faced a significant shock when Chinese AI startup DeepSeek triggered a sharp tech selloff—with Nvidia dropping 16% and raising questions about whether cheaper AI efficiency could disrupt the massive infrastructure spending driving the current AI boom. Beyond markets, the podcast covers key political developments including how a Trump administration proposal to exclude immigrants from the 2030 census could ironically cost Republican-held states congressional seats, mounting political pressure from the Canada trade war in key swing states, and a troubling investigation into how DraftKings uses AI to target problem gamblers. Finally, a new analysis reframes the Fed's recent rate hike not as actual tightening but as",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-18",
       "summary": "# Episode Summary\n\nWarren Buffett steps down as Berkshire Hathaway chairman after nearly six decades, marking a generational transition that could reshape how the company deploys its massive cash reserves and exercises influence during market stress. Meanwhile, AI companies face a new concrete threat: legal liability frameworks are tightening as plaintiffs' lawyers build cases against the industry's \"it's just a tool\" defense, potentially accelerating consolidation and forcing companies to price in real legal risk. The episode also covers mounting household financial stress as Americans deplete pandemic-era savings and struggle with inflation, alongside geopolitical tension between the White House's diplomatic overtures to Russia and Congress's push for harder sanctions ahead of Ukraine-related negotiations.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-06",
       "summary": "# Sunday News Briefing: Energy Tensions, Ukraine Audit, and Strategic Supply Chain Risks\n\nThis episode covers five major stories shaping the week ahead: OPEC's decision to hold oil production steady amid escalating military tensions in the Strait of Hormuz, where U.S. Navy escorts are now protecting commercial tankers from Iranian attacks; a damning New York Times investigation revealing $1.2 billion in fraud and waste in Ukraine's weapons procurement system, complicating ongoing peace talks and U.S. aid debates; a chip smuggling exposé showing Chinese firms accessed sanctioned Nvidia technology through subsidiary loopholes, raising questions about export control effectiveness; a Trump administration proposal to redirect child care",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-05",
-      "summary": "# Podcast Summary\n\nThis episode tackles three major stories shaping markets and geopolitics: serious diplomatic momentum on Russia-Ukraine peace talks with Trump's envoy in Moscow, alongside ongoing human costs from the Iran conflict and concerns about munitions depletion; and a must-read financial argument questioning whether the AI investment boom actually makes sense when examined through traditional balance-sheet analysis rather than transformative-technology hype. The hosts emphasize that while AI is genuinely significant, history shows that ignoring profit-and-loss fundamentals during technology booms consistently leads to poor investment outcomes.",
       "keyTopics": []
     }
   ]
