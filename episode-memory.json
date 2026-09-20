@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-20",
+      "summary": "# Episode Summary\n\nThis episode examines the collision between China's AI advances and economic crisis as Xi Jinping prepares for a Washington state visit, where he'll tout technological progress while facing questions about domestic instability in property markets and commodities demand. Domestically, the White House is increasingly politicizing institutions—from media access bans to the Kennedy Center to immigration enforcement—signaling governance challenges ahead of the midterms, while older workers displaced by AI face a brutal gap without Medicare eligibility or affordable health insurance. The episode also flags NATO's coordinated response to suspected Russian undersea cable sabotage as a significant infrastructure vulnerability with growing geopolitical implications.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-19",
       "summary": "# Weekly Market & Policy Briefing\n\nThis week's markets faced a significant shock when Chinese AI startup DeepSeek triggered a sharp tech selloff—with Nvidia dropping 16% and raising questions about whether cheaper AI efficiency could disrupt the massive infrastructure spending driving the current AI boom. Beyond markets, the podcast covers key political developments including how a Trump administration proposal to exclude immigrants from the 2030 census could ironically cost Republican-held states congressional seats, mounting political pressure from the Canada trade war in key swing states, and a troubling investigation into how DraftKings uses AI to target problem gamblers. Finally, a new analysis reframes the Fed's recent rate hike not as actual tightening but as",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-07",
       "summary": "# Episode Summary\n\nA Chinese AI startup's new cost-efficient model triggers a massive tech selloff, with Nvidia and other chip makers plummeting as investors question whether expensive U.S. hardware remains essential for frontier AI development—though bulls argue cheaper AI could ultimately expand total demand. Meanwhile, escalating U.S.-Iran tensions push oil prices toward $100 a barrel and gas to $4.15 nationally, threatening consumer spending and complicating the Fed's rate-cutting plans, while far-right parties gain dangerous electoral momentum in Germany, signaling broader fractures in post-Cold War Western consensus.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-06",
-      "summary": "# Sunday News Briefing: Energy Tensions, Ukraine Audit, and Strategic Supply Chain Risks\n\nThis episode covers five major stories shaping the week ahead: OPEC's decision to hold oil production steady amid escalating military tensions in the Strait of Hormuz, where U.S. Navy escorts are now protecting commercial tankers from Iranian attacks; a damning New York Times investigation revealing $1.2 billion in fraud and waste in Ukraine's weapons procurement system, complicating ongoing peace talks and U.S. aid debates; a chip smuggling exposé showing Chinese firms accessed sanctioned Nvidia technology through subsidiary loopholes, raising questions about export control effectiveness; a Trump administration proposal to redirect child care",
       "keyTopics": []
     }
   ]
