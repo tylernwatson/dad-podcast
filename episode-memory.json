@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-21",
+      "summary": "# Monday Briefing: Trump-Xi Summit, Media Merger, and Press Freedom Showdown\n\nThis week brings three major stories to watch: the Trump-Xi summit in Washington state, where the U.S. and China are negotiating AI development frameworks amid ongoing economic tensions and tit-for-tat trade measures. Meanwhile, the Paramount and Warner Bros. Discovery merger has cleared its final legal hurdle, creating a media giant that consolidates HBO, CBS, CNN, and major film studios—even as CNN simultaneously joins MSNBC and Politico in filing a First Amendment lawsuit against the White House for banning them from press grounds. The press freedom case underscores escalating tensions between the administration",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-20",
       "summary": "# Episode Summary\n\nThis episode examines the collision between China's AI advances and economic crisis as Xi Jinping prepares for a Washington state visit, where he'll tout technological progress while facing questions about domestic instability in property markets and commodities demand. Domestically, the White House is increasingly politicizing institutions—from media access bans to the Kennedy Center to immigration enforcement—signaling governance challenges ahead of the midterms, while older workers displaced by AI face a brutal gap without Medicare eligibility or affordable health insurance. The episode also flags NATO's coordinated response to suspected Russian undersea cable sabotage as a significant infrastructure vulnerability with growing geopolitical implications.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-08",
       "summary": "# Episode Summary\n\nThis episode tracks three major market drivers: an escalating U.S.-Canada trade war featuring new retaliatory tariffs and threats against Bombardier that could disrupt cross-border supply chains; oil climbing toward $100 a barrel due to Houthi attacks in the Red Sea, creating inflation risks and putting the Federal Reserve in a difficult position on rate cuts; and surprisingly resilient stock markets buoyed by strong corporate earnings and AI optimism, though rising interest rates pose a growing threat to valuations. The hosts examine how these interconnected economic pressures—trade friction, energy shocks, and rate dynamics—could reshape market sentiment in the coming weeks.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-07",
-      "summary": "# Episode Summary\n\nA Chinese AI startup's new cost-efficient model triggers a massive tech selloff, with Nvidia and other chip makers plummeting as investors question whether expensive U.S. hardware remains essential for frontier AI development—though bulls argue cheaper AI could ultimately expand total demand. Meanwhile, escalating U.S.-Iran tensions push oil prices toward $100 a barrel and gas to $4.15 nationally, threatening consumer spending and complicating the Fed's rate-cutting plans, while far-right parties gain dangerous electoral momentum in Germany, signaling broader fractures in post-Cold War Western consensus.",
       "keyTopics": []
     }
   ]
