@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-23",
+      "summary": "# Episode Summary\n\nThis episode covers Trump's scaled-back Greenland deal (a security agreement far short of annexation rhetoric), the White House's legal defense against press access lawsuits by major news networks, and a Republican divide over banning diesel exports amid domestic price pressures. The briefing also unpacks a sharp analysis suggesting last week's Fed rate hike was largely performative—with markets leading policy rather than the Fed driving market conditions—a distinction that has real implications for mortgage rates, inflation, and portfolio positioning heading into fall.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-22",
       "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping markets and politics: the Trump-Xi summit in Washington state, where AI cooperation talks are happening amid low expectations and China's economic fragility; a dramatic shift in White House press relations, with major networks boycotting over banned outlets and a First Amendment lawsuit potentially setting precedent; and troubling market internals highlighted by the Dividend Cafe—the S&P 500 hitting new highs while fewer stocks actually participate in the rally, signaling a dangerously narrow market. Additional coverage includes the finalized Paramount-Warner Bros. Discovery merger, labor unions now negotiating AI deployment in contracts, and ten-year yields hovering near the critical 5%",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-10",
       "summary": "# Episode Summary\n\nGeopolitical tensions are ratcheting up as Iran-backed Houthis seize a strategic Red Sea port, sending crude oil to its highest levels in months and complicating the Federal Reserve's inflation-fighting efforts—while both the ECB raises rates and the bond market grows increasingly nervous. Back home, a proposed trillion-dollar \"Trump Dividend\" is raising alarm among investors worried about U.S. fiscal deficits, even as election-year legal battles over voting access and congressional maps intensify ahead of November. Meanwhile, researchers are raising red flags about inconsistent AI chatbot outputs potentially shaping voter decisions, adding another layer of uncertainty to an already turbulent political and economic moment.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-09",
-      "summary": "# Episode Summary\n\nOil has surged to $100 a barrel overnight due to escalating Iran tensions and Red Sea shipping disruptions blocking Saudi exports, sending ripple effects through gas prices, inflation, and the Federal Reserve's rate-cutting plans just as Republicans gather in Dallas to strategize for midterm elections. Beyond energy, AI markets are stabilizing with a focus shifting from expensive infrastructure to practical business applications like AI sales tools and music generation, while nuclear energy is gaining unexpected traction as a solution to domestic power demands—all converging into a week dominated by scarcity, cost, and economic pressure on American households heading into November.",
       "keyTopics": []
     }
   ]
