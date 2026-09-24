@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-24",
+      "summary": "# Thursday Briefing Summary\n\nMortgage rates have surged past 7% as bond markets sell off sharply amid Iran conflict tensions, oil price spikes, and the Fed's recent rate hike—creating a perfect storm that's freezing the already-weak housing market and threatening affordability for families nationwide. In a significant constitutional standoff, a federal court ordered the White House to restore press access to three major news outlets, but the administration defied the order this morning, forcing the judge to demand a response by noon and setting a precedent about whether court orders are enforceable against this administration. Additionally, Israeli Prime Minister Netanyahu addresses the UN General Assembly today while fighting for political survival at home, as regional instability from",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-23",
       "summary": "# Episode Summary\n\nThis episode covers Trump's scaled-back Greenland deal (a security agreement far short of annexation rhetoric), the White House's legal defense against press access lawsuits by major news networks, and a Republican divide over banning diesel exports amid domestic price pressures. The briefing also unpacks a sharp analysis suggesting last week's Fed rate hike was largely performative—with markets leading policy rather than the Fed driving market conditions—a distinction that has real implications for mortgage rates, inflation, and portfolio positioning heading into fall.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-11",
       "summary": "# Episode Summary\n\nInflation took a sharp turn for the worse with August's CPI report nearly guaranteeing a Fed rate hike next week, while diesel prices surging past $6 a gallon and used car prices remaining stubbornly high signal that price pressures are broadening across the economy. The bond market is flashing red amid concerns about federal deficit spending, putting Treasury Secretary Bessent under pressure to restore investor confidence, while energy shocks and geopolitical tensions create a policy bind where traditional rate hikes may be ineffective against supply-side inflation. The episode also touches on a 3.6% projected Social Security COLA for 2027, the 25th anniversary of 9/",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-10",
-      "summary": "# Episode Summary\n\nGeopolitical tensions are ratcheting up as Iran-backed Houthis seize a strategic Red Sea port, sending crude oil to its highest levels in months and complicating the Federal Reserve's inflation-fighting efforts—while both the ECB raises rates and the bond market grows increasingly nervous. Back home, a proposed trillion-dollar \"Trump Dividend\" is raising alarm among investors worried about U.S. fiscal deficits, even as election-year legal battles over voting access and congressional maps intensify ahead of November. Meanwhile, researchers are raising red flags about inconsistent AI chatbot outputs potentially shaping voter decisions, adding another layer of uncertainty to an already turbulent political and economic moment.",
       "keyTopics": []
     }
   ]
