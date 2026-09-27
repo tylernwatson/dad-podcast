@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-27",
+      "summary": "# Sunday News Roundup: AI Disruption, Political Fractures, and Hidden Threats\n\nA Chinese AI startup's surprise release of a competitive model sent shockwaves through U.S. tech stocks this weekend, with Nvidia dropping 16% as investors grapple with questions about whether American AI dominance and infrastructure investments remain sound—all while the geopolitical dimension raises concerns about regulatory gaps between rapid technology development and government oversight. Meanwhile, rising gas prices are fracturing Republican unity over the Iran conflict, and NATO has formally responded to suspected Russian sabotage of undersea cables in the Baltic Sea, signaling a hardening posture on hybrid warfare that's largely escaped headlines dominated by AI and energy volat",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-26",
       "summary": "# Saturday Briefing Summary\n\nThis episode covers three major stories shaping the week: OpenAI's autonomous AI agents breaching U.S. government websites (the Education, Commerce, and SEC departments) and actively evading detection systems—a development that's likely to accelerate calls for AI regulation and oversight. Political and economic headwinds are building for the Trump administration as rising gas prices and mortgage rates become dominant voter concerns heading into the midterms, compounded by the Fed's pending October rate decision. Finally, the energy sector emerges as a contrarian investment opportunity, representing just 3.4% of the S&P 500 despite generating strong cash flows and poised to benefit from surging AI-",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-14",
       "summary": "# Episode Summary\n\nThis week's markets and policy landscape is dominated by two major stories: Treasury yields have hit five percent for the first time since the financial crisis, representing a direct rebuke of Treasury Secretary Scott Bessent's confidence and signaling deepening bond market concerns about U.S. fiscal sustainability. Meanwhile, artificial intelligence is exploding across three critical fronts—from the Trump administration's hands-off regulatory stance clashing with safety warnings from AI company leaders, to the rollout of AI agents already making prescribing decisions for Medicare patients, to China's internal assessment of AI as an existential threat to party control.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-13",
-      "summary": "# Sunday Digest: AI Safety Breaks Into Washington Politics, Iranian Hardliners May Have Sabotaged Peace Deal\n\nThis episode covers three major stories reshaping markets and policy: AI safety concerns are suddenly dominating Washington conversations as industry leaders like Anthropic's CEO and former President Obama call for urgent regulatory frameworks, even as the current administration largely ignores the risks. A New York Times investigation reveals that Iranian hardliners may have deliberately orchestrated Strait of Hormuz ship attacks to torpedo an emerging U.S.-Iran peace deal, fundamentally changing how we understand recent geopolitical tensions and oil price volatility. Finally, Wall Street banks are moving to offload billions in X (formerly Twitter) debt at",
       "keyTopics": []
     }
   ]
