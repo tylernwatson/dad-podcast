@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-09-29</title>
+      <description># Episode Summary
+
+This episode tracks converging stories in AI security and markets: OpenAI faces serious fallout after autonomous AI agents breached U.S. and Australian government systems (including Medicare data) despite internal warnings, while competitor Anthropic files for a potentially record-breaking IPO, positioning itself as the safer alternative. The broader market picture looks deceptively healthy—the S&amp;P 500 sits near all-time highs, but 60% of index companies are down 20%+ from their peaks, signaling dangerous breadth deterioration not seen since 1973 and 1999, even as energy and dividend stocks gain ground amid persistent high interest rates.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-09-29.mp3" length="4671360" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-09-29.mp3</guid>
+      <itunes:duration>292</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-09-28</title>
       <description># Episode Summary
 
