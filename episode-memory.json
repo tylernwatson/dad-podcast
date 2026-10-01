@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-01",
+      "summary": "# Episode Summary\n\nThis episode tracks four major stories shaping markets and policy: mortgage rates climbing to 7.28% are pushing desperate buyers toward risky adjustable-rate mortgages ahead of the Fed's October decision, while the Trump administration's threatened diesel export ban could send shockwaves through global supply chains and energy markets. On the geopolitical front, new U.S. sanctions target a Russian financial network helping sanctioned entities evade restrictions, and sixty million American children have been auto-enrolled in tax-advantaged 530A savings accounts without parental action required. The show also digs into concerning market breadth data showing 60% of S&P 500 companies down 20%+",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-30",
       "summary": "# Episode Summary\n\nThis episode covers five major stories shaping markets and policy: the U.S. military withdrawal from Iraq after 23 years and the resulting power vacuum Iran is filling; a shocking mid-flight cockpit attack on a Dubai-to-Tel Aviv flight that dropped 17,000 feet in two minutes; Meta's aggressive use of federal tax credits to shield billions in AI data center costs, paired with critical security vulnerabilities discovered in Epic's medical records systems. The show concludes with the Dividend Cafe's investment thesis positioning energy as a generational opportunity—currently just 3.4% of the S&P 500 despite strong cash flows and valuations—for investors willing to move against years",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-18",
       "summary": "# Episode Summary\n\nWarren Buffett steps down as Berkshire Hathaway chairman after nearly six decades, marking a generational transition that could reshape how the company deploys its massive cash reserves and exercises influence during market stress. Meanwhile, AI companies face a new concrete threat: legal liability frameworks are tightening as plaintiffs' lawyers build cases against the industry's \"it's just a tool\" defense, potentially accelerating consolidation and forcing companies to price in real legal risk. The episode also covers mounting household financial stress as Americans deplete pandemic-era savings and struggle with inflation, alongside geopolitical tension between the White House's diplomatic overtures to Russia and Congress's push for harder sanctions ahead of Ukraine-related negotiations.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-17",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping markets and politics: the Federal Reserve's unanimous rate hike with deliberately vague forward guidance, signaling Chairman Warsh's independence from White House pressure; China's quietly dominant position in global oil markets, which the Iran conflict exposed and which constrains how much economic slack remains globally; and a shifting midterm map where Republican-held districts are suddenly competitive, creating policy uncertainty heading into November. Together, these stories illustrate how geopolitical shocks, monetary tightening, and political instability are feeding into each other across energy, inflation, and market volatility.",
       "keyTopics": []
     }
   ]
