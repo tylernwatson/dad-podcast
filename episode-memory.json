@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-02",
+      "summary": "# Episode Summary\n\nThis episode breaks down three major market-moving developments: a softer-than-expected September jobs report that's dramatically shifted Fed rate-hike odds for October and raised concerns about uneven labor market softening, particularly rising Black unemployment. The G7 announced a coordinated 100-million-barrel diesel reserve release to combat soaring energy prices, pivoting away from export bans toward multilateral action. Finally, new details emerged on the FlyDubai attack where off-duty pilots and brave passengers helped subdue an attacking co-pilot, raising critical aviation security questions about cockpit intrusion protocols.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-01",
       "summary": "# Episode Summary\n\nThis episode tracks four major stories shaping markets and policy: mortgage rates climbing to 7.28% are pushing desperate buyers toward risky adjustable-rate mortgages ahead of the Fed's October decision, while the Trump administration's threatened diesel export ban could send shockwaves through global supply chains and energy markets. On the geopolitical front, new U.S. sanctions target a Russian financial network helping sanctioned entities evade restrictions, and sixty million American children have been auto-enrolled in tax-advantaged 530A savings accounts without parental action required. The show also digs into concerning market breadth data showing 60% of S&P 500 companies down 20%+",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-19",
       "summary": "# Weekly Market & Policy Briefing\n\nThis week's markets faced a significant shock when Chinese AI startup DeepSeek triggered a sharp tech selloff—with Nvidia dropping 16% and raising questions about whether cheaper AI efficiency could disrupt the massive infrastructure spending driving the current AI boom. Beyond markets, the podcast covers key political developments including how a Trump administration proposal to exclude immigrants from the 2030 census could ironically cost Republican-held states congressional seats, mounting political pressure from the Canada trade war in key swing states, and a troubling investigation into how DraftKings uses AI to target problem gamblers. Finally, a new analysis reframes the Fed's recent rate hike not as actual tightening but as",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-18",
-      "summary": "# Episode Summary\n\nWarren Buffett steps down as Berkshire Hathaway chairman after nearly six decades, marking a generational transition that could reshape how the company deploys its massive cash reserves and exercises influence during market stress. Meanwhile, AI companies face a new concrete threat: legal liability frameworks are tightening as plaintiffs' lawyers build cases against the industry's \"it's just a tool\" defense, potentially accelerating consolidation and forcing companies to price in real legal risk. The episode also covers mounting household financial stress as Americans deplete pandemic-era savings and struggle with inflation, alongside geopolitical tension between the White House's diplomatic overtures to Russia and Congress's push for harder sanctions ahead of Ukraine-related negotiations.",
       "keyTopics": []
     }
   ]
