@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-03",
+      "summary": "# Today's Episode: Ukraine Peace Talks, Midterm Surprises, and AI's Marketing Revolution\n\nThis episode dives into a major conflict-of-interest story emerging from Ukraine peace negotiations, where Trump envoys with significant business interests are reportedly involved in discussions about Russian energy assets—raising questions about whether diplomacy is being shaped by personal profit. On the domestic front, surprising Senate polling shows Democrats performing competitively in traditionally red states like Texas and Ohio, suggesting economic frustrations are reshaping the midterm landscape faster than expected. Plus, we explore how AI agents are fundamentally disrupting traditional marketing by shopping based on data rather than emotion, forcing brands to completely rethink how they present products to consumers.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-02",
       "summary": "# Episode Summary\n\nThis episode breaks down three major market-moving developments: a softer-than-expected September jobs report that's dramatically shifted Fed rate-hike odds for October and raised concerns about uneven labor market softening, particularly rising Black unemployment. The G7 announced a coordinated 100-million-barrel diesel reserve release to combat soaring energy prices, pivoting away from export bans toward multilateral action. Finally, new details emerged on the FlyDubai attack where off-duty pilots and brave passengers helped subdue an attacking co-pilot, raising critical aviation security questions about cockpit intrusion protocols.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-20",
       "summary": "# Episode Summary\n\nThis episode examines the collision between China's AI advances and economic crisis as Xi Jinping prepares for a Washington state visit, where he'll tout technological progress while facing questions about domestic instability in property markets and commodities demand. Domestically, the White House is increasingly politicizing institutions—from media access bans to the Kennedy Center to immigration enforcement—signaling governance challenges ahead of the midterms, while older workers displaced by AI face a brutal gap without Medicare eligibility or affordable health insurance. The episode also flags NATO's coordinated response to suspected Russian undersea cable sabotage as a significant infrastructure vulnerability with growing geopolitical implications.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-19",
-      "summary": "# Weekly Market & Policy Briefing\n\nThis week's markets faced a significant shock when Chinese AI startup DeepSeek triggered a sharp tech selloff—with Nvidia dropping 16% and raising questions about whether cheaper AI efficiency could disrupt the massive infrastructure spending driving the current AI boom. Beyond markets, the podcast covers key political developments including how a Trump administration proposal to exclude immigrants from the 2030 census could ironically cost Republican-held states congressional seats, mounting political pressure from the Canada trade war in key swing states, and a troubling investigation into how DraftKings uses AI to target problem gamblers. Finally, a new analysis reframes the Fed's recent rate hike not as actual tightening but as",
       "keyTopics": []
     }
   ]
