@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-06",
+      "summary": "# Episode Summary\n\nThis episode covers four major stories reshaping markets and geopolitics: Paramount and Warner Bros. Discovery's completed merger consolidating Hollywood's legacy media giants amid serious debt concerns, a surprising seventeen-month high in the U.S. trade deficit despite aggressive tariff policies—undermining the administration's economic narrative. The show also examines a credible Iranian drone threat that prompted the quiet withdrawal of B-1 bombers from a British air base and resulted in seven arrests in London, plus analysis of the markets heading into earnings season with insights on bank stocks, rate sensitivity, and the expanding AI landscape. Key takeaway: Watch for integration risks in the media merger, understand how higher rates affect alternative asset valuations",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-05",
       "summary": "# Monday, October 5: AI's Economic Paradox, Energy Risk in the Persian Gulf, and Brazil's Political Realignment\n\nThis episode dives into three major stories reshaping markets and geopolitics: the Federal Reserve faces a genuine policy dilemma as massive AI infrastructure investment remains immune to interest rate hikes, fueling inflation while crushing traditional borrowing; energy markets are under pressure from coordinated attacks on tankers and Saudi infrastructure in the Persian Gulf, a critical chokepoint for 20% of global oil supply; and Brazil's presidential runoff could complete a rightward shift across Latin America, fundamentally realigning the region's geopolitics and giving the Trump administration a major ally while pressuring China's",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-23",
       "summary": "# Episode Summary\n\nThis episode covers Trump's scaled-back Greenland deal (a security agreement far short of annexation rhetoric), the White House's legal defense against press access lawsuits by major news networks, and a Republican divide over banning diesel exports amid domestic price pressures. The briefing also unpacks a sharp analysis suggesting last week's Fed rate hike was largely performative—with markets leading policy rather than the Fed driving market conditions—a distinction that has real implications for mortgage rates, inflation, and portfolio positioning heading into fall.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-22",
-      "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping markets and politics: the Trump-Xi summit in Washington state, where AI cooperation talks are happening amid low expectations and China's economic fragility; a dramatic shift in White House press relations, with major networks boycotting over banned outlets and a First Amendment lawsuit potentially setting precedent; and troubling market internals highlighted by the Dividend Cafe—the S&P 500 hitting new highs while fewer stocks actually participate in the rally, signaling a dangerously narrow market. Additional coverage includes the finalized Paramount-Warner Bros. Discovery merger, labor unions now negotiating AI deployment in contracts, and ten-year yields hovering near the critical 5%",
       "keyTopics": []
     }
   ]
