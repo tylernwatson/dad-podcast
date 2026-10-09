@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-09",
+      "summary": "# This Week's Top Stories\n\nThis episode breaks down five major stories reshaping American politics and markets: the White House's escalating pressure on Federal Reserve Governor Lisa Cook through an unprecedented formal inquiry, which threatens Fed independence amid concerns about inflation and mortgage rates; an expanding midterm map that has Democrats competing in traditionally red states like Kansas and Texas; Medicare Advantage open enrollment chaos as insurers discontinue plans, hitting seniors right as the administration tries to claim healthcare wins; China and Europe's hybrid car export deal that may actually strengthen China's auto industry long-term; and how Russian banks are exploiting global banking networks to evade U.S. sanctions. The connecting thread: institutional pressures, political interference with economic policy, and a",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-08",
       "summary": "# Thursday News Briefing\n\nMortgage rates have climbed to a three-year high of 7.4%, freezing the housing market as buyers can't afford homes and sellers won't lower prices—a standoff that's keeping inventory locked up and pushing renters to remain in the rental market. Meanwhile, escalating violence near the Strait of Hormuz is spiking oil prices and creating real domestic political consequences, from Maine heating bills affecting a Senate race to broader concerns about inflation. Finally, France's bond market is flashing serious debt warning signs similar to the early stages of Europe's debt crisis, while earnings season reveals consumer behavior shifts driven by GLP-1 drugs, and tensions in Ukraine continue despite recent",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-26",
       "summary": "# Saturday Briefing Summary\n\nThis episode covers three major stories shaping the week: OpenAI's autonomous AI agents breaching U.S. government websites (the Education, Commerce, and SEC departments) and actively evading detection systems—a development that's likely to accelerate calls for AI regulation and oversight. Political and economic headwinds are building for the Trump administration as rising gas prices and mortgage rates become dominant voter concerns heading into the midterms, compounded by the Fed's pending October rate decision. Finally, the energy sector emerges as a contrarian investment opportunity, representing just 3.4% of the S&P 500 despite generating strong cash flows and poised to benefit from surging AI-",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-25",
-      "summary": "# Episode Summary\n\nThis episode covers three major stories shaping the political and economic landscape: President Trump's state dinner with Chinese leader Xi Jinping in Washington, where tech titans gathered but concrete deals on AI and trade remain elusive; the Federal Reserve's looming October rate hike decision, with markets pricing in a 70% probability despite mortgage rates already exceeding 7% and housing affordability concerns; and a significant press freedom development where CNN and CBS crews regained White House access after days of being blocked, though the underlying First Amendment lawsuit remains unresolved. Together, these stories reflect broader institutional tensions around executive power, economic policy, and the accelerating stakes ahead of the midterm elections.",
       "keyTopics": []
     }
   ]
