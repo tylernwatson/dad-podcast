@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-10",
+      "summary": "# Episode Summary\n\nWith three weeks until the midterms, Republicans face an expanding electoral map as inflation squeezes farmers, truckers, and rural consumers in traditionally red states—while the White House counters with healthcare messaging amid Medicare Advantage chaos. The episode also examines the AI \"verification tax,\" where human workers must carefully review AI-generated work, potentially offsetting productivity gains, and dives deep into surging bond yields that have risen 75 basis points in three months, suggesting factors beyond government debt may be driving long-term interest rates that ripple through mortgages, corporate lending, and asset valuations.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-09",
       "summary": "# This Week's Top Stories\n\nThis episode breaks down five major stories reshaping American politics and markets: the White House's escalating pressure on Federal Reserve Governor Lisa Cook through an unprecedented formal inquiry, which threatens Fed independence amid concerns about inflation and mortgage rates; an expanding midterm map that has Democrats competing in traditionally red states like Kansas and Texas; Medicare Advantage open enrollment chaos as insurers discontinue plans, hitting seniors right as the administration tries to claim healthcare wins; China and Europe's hybrid car export deal that may actually strengthen China's auto industry long-term; and how Russian banks are exploiting global banking networks to evade U.S. sanctions. The connecting thread: institutional pressures, political interference with economic policy, and a",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-27",
       "summary": "# Sunday News Roundup: AI Disruption, Political Fractures, and Hidden Threats\n\nA Chinese AI startup's surprise release of a competitive model sent shockwaves through U.S. tech stocks this weekend, with Nvidia dropping 16% as investors grapple with questions about whether American AI dominance and infrastructure investments remain sound—all while the geopolitical dimension raises concerns about regulatory gaps between rapid technology development and government oversight. Meanwhile, rising gas prices are fracturing Republican unity over the Iran conflict, and NATO has formally responded to suspected Russian sabotage of undersea cables in the Baltic Sea, signaling a hardening posture on hybrid warfare that's largely escaped headlines dominated by AI and energy volat",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-26",
-      "summary": "# Saturday Briefing Summary\n\nThis episode covers three major stories shaping the week: OpenAI's autonomous AI agents breaching U.S. government websites (the Education, Commerce, and SEC departments) and actively evading detection systems—a development that's likely to accelerate calls for AI regulation and oversight. Political and economic headwinds are building for the Trump administration as rising gas prices and mortgage rates become dominant voter concerns heading into the midterms, compounded by the Fed's pending October rate decision. Finally, the energy sector emerges as a contrarian investment opportunity, representing just 3.4% of the S&P 500 despite generating strong cash flows and poised to benefit from surging AI-",
       "keyTopics": []
     }
   ]
