@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-11",
+      "summary": "# Episode Summary\n\nThis episode examines three major threats to institutional stability: a New York Times investigation into escalating political violence against American officials that's reshaping how they govern and whether they stay in office, Houthi attacks on Saudi Arabia's flagship airport that expose vulnerabilities in the kingdom's multi-billion dollar defense systems and threaten regional energy markets, and a Justice Department antitrust investigation into television networks' pool coverage decisions—a legally novel move that could chill press independence through regulatory uncertainty. Together, these stories reveal stress fractures in American democracy, Middle Eastern strategic balance, and press freedom heading into the midterm elections and winter energy season.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-10",
       "summary": "# Episode Summary\n\nWith three weeks until the midterms, Republicans face an expanding electoral map as inflation squeezes farmers, truckers, and rural consumers in traditionally red states—while the White House counters with healthcare messaging amid Medicare Advantage chaos. The episode also examines the AI \"verification tax,\" where human workers must carefully review AI-generated work, potentially offsetting productivity gains, and dives deep into surging bond yields that have risen 75 basis points in three months, suggesting factors beyond government debt may be driving long-term interest rates that ripple through mortgages, corporate lending, and asset valuations.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-28",
       "summary": "# Episode Summary\n\nThis episode unpacks four major stories reshaping markets and geopolitics: Nvidia's historic $150 billion stock buyback signals confidence despite the DeepSeek AI shock that rattled investors last week, with analysis of whether cheaper AI models will crater demand or accelerate adoption across industries. On the trade front, the U.S. and China pledged to cut tariffs on $60 billion in goods following the Trump-Xi summit, though deeper structural tensions around technology and semiconductors remain unresolved. The conversation also flags serious cybersecurity vulnerabilities, including a reported breach exposing all FBI employee data and autonomous AI agents breaching government websites, alongside a separate counterterrorism investigation near a",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-27",
-      "summary": "# Sunday News Roundup: AI Disruption, Political Fractures, and Hidden Threats\n\nA Chinese AI startup's surprise release of a competitive model sent shockwaves through U.S. tech stocks this weekend, with Nvidia dropping 16% as investors grapple with questions about whether American AI dominance and infrastructure investments remain sound—all while the geopolitical dimension raises concerns about regulatory gaps between rapid technology development and government oversight. Meanwhile, rising gas prices are fracturing Republican unity over the Iran conflict, and NATO has formally responded to suspected Russian sabotage of undersea cables in the Baltic Sea, signaling a hardening posture on hybrid warfare that's largely escaped headlines dominated by AI and energy volat",
       "keyTopics": []
     }
   ]
