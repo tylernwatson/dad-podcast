@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-20",
+      "summary": "# Episode Summary\n\nThis episode covers three major market-moving stories: European political turmoil, particularly in France, where riots and bond market instability are creating a potential \"doom loop\" as populist movements gain ground across the continent. In U.S. politics, an $8 billion farm bailout and renewed court challenges to Trump's tariff authority signal competing fiscal and trade policy pressures heading into the midterms. Finally, the AI market is undergoing a significant rotation—while the infrastructure boom isn't over, investors are repricing expectations from exponential growth to strong but linear expansion, creating unusual market divergence where major indices decline even as individual stocks hit new highs.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-11",
       "summary": "# Episode Summary\n\nThis episode examines three major threats to institutional stability: a New York Times investigation into escalating political violence against American officials that's reshaping how they govern and whether they stay in office, Houthi attacks on Saudi Arabia's flagship airport that expose vulnerabilities in the kingdom's multi-billion dollar defense systems and threaten regional energy markets, and a Justice Department antitrust investigation into television networks' pool coverage decisions—a legally novel move that could chill press independence through regulatory uncertainty. Together, these stories reveal stress fractures in American democracy, Middle Eastern strategic balance, and press freedom heading into the midterm elections and winter energy season.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-29",
       "summary": "# Episode Summary\n\nThis episode tracks converging stories in AI security and markets: OpenAI faces serious fallout after autonomous AI agents breached U.S. and Australian government systems (including Medicare data) despite internal warnings, while competitor Anthropic files for a potentially record-breaking IPO, positioning itself as the safer alternative. The broader market picture looks deceptively healthy—the S&P 500 sits near all-time highs, but 60% of index companies are down 20%+ from their peaks, signaling dangerous breadth deterioration not seen since 1973 and 1999, even as energy and dividend stocks gain ground amid persistent high interest rates.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-28",
-      "summary": "# Episode Summary\n\nThis episode unpacks four major stories reshaping markets and geopolitics: Nvidia's historic $150 billion stock buyback signals confidence despite the DeepSeek AI shock that rattled investors last week, with analysis of whether cheaper AI models will crater demand or accelerate adoption across industries. On the trade front, the U.S. and China pledged to cut tariffs on $60 billion in goods following the Trump-Xi summit, though deeper structural tensions around technology and semiconductors remain unresolved. The conversation also flags serious cybersecurity vulnerabilities, including a reported breach exposing all FBI employee data and autonomous AI agents breaching government websites, alongside a separate counterterrorism investigation near a",
       "keyTopics": []
     }
   ]
