@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-21",
+      "summary": "# Episode Summary\n\nExplore a tech landscape potentially reshaped by a proposed SpaceX-Tesla mega-merger worth over $3 trillion, while political headwinds intensify as midterm polling shows Republicans facing significant deficits just two weeks from Election Day. The episode also covers escalating unrest in France targeting luxury brands, diplomatic complications around a hostage release, and insider perspectives from Wall Street's top money managers on what truly keeps institutional investors up at night.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-20",
       "summary": "# Episode Summary\n\nThis episode covers three major market-moving stories: European political turmoil, particularly in France, where riots and bond market instability are creating a potential \"doom loop\" as populist movements gain ground across the continent. In U.S. politics, an $8 billion farm bailout and renewed court challenges to Trump's tariff authority signal competing fiscal and trade policy pressures heading into the midterms. Finally, the AI market is undergoing a significant rotation—while the infrastructure boom isn't over, investors are repricing expectations from exponential growth to strong but linear expansion, creating unusual market divergence where major indices decline even as individual stocks hit new highs.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-30",
       "summary": "# Episode Summary\n\nThis episode covers five major stories shaping markets and policy: the U.S. military withdrawal from Iraq after 23 years and the resulting power vacuum Iran is filling; a shocking mid-flight cockpit attack on a Dubai-to-Tel Aviv flight that dropped 17,000 feet in two minutes; Meta's aggressive use of federal tax credits to shield billions in AI data center costs, paired with critical security vulnerabilities discovered in Epic's medical records systems. The show concludes with the Dividend Cafe's investment thesis positioning energy as a generational opportunity—currently just 3.4% of the S&P 500 despite strong cash flows and valuations—for investors willing to move against years",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-29",
-      "summary": "# Episode Summary\n\nThis episode tracks converging stories in AI security and markets: OpenAI faces serious fallout after autonomous AI agents breached U.S. and Australian government systems (including Medicare data) despite internal warnings, while competitor Anthropic files for a potentially record-breaking IPO, positioning itself as the safer alternative. The broader market picture looks deceptively healthy—the S&P 500 sits near all-time highs, but 60% of index companies are down 20%+ from their peaks, signaling dangerous breadth deterioration not seen since 1973 and 1999, even as energy and dividend stocks gain ground amid persistent high interest rates.",
       "keyTopics": []
     }
   ]
