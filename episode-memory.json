@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-22",
+      "summary": "# Episode Summary\n\nChinese AI startup DeepSeek has rattled markets with a new model that achieves competitive performance at a fraction of the cost, triggering a sharp selloff in semiconductor stocks and forcing investors to reconsider the infrastructure investment thesis that's underpinned the AI bull case. Meanwhile, the U.S. housing market remains stubbornly inaccessible to most buyers despite some price declines, as mortgage rates above 7% keep monthly payments prohibitively high—a frustration expected to reverberate through midterm politics. The episode also covers Putin's diplomatic strategy of decoupling sanctions from the Ukraine conflict, the emerging role of courts as de facto tech regulators through high-stakes",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-21",
       "summary": "# Episode Summary\n\nExplore a tech landscape potentially reshaped by a proposed SpaceX-Tesla mega-merger worth over $3 trillion, while political headwinds intensify as midterm polling shows Republicans facing significant deficits just two weeks from Election Day. The episode also covers escalating unrest in France targeting luxury brands, diplomatic complications around a hostage release, and insider perspectives from Wall Street's top money managers on what truly keeps institutional investors up at night.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-01",
       "summary": "# Episode Summary\n\nThis episode tracks four major stories shaping markets and policy: mortgage rates climbing to 7.28% are pushing desperate buyers toward risky adjustable-rate mortgages ahead of the Fed's October decision, while the Trump administration's threatened diesel export ban could send shockwaves through global supply chains and energy markets. On the geopolitical front, new U.S. sanctions target a Russian financial network helping sanctioned entities evade restrictions, and sixty million American children have been auto-enrolled in tax-advantaged 530A savings accounts without parental action required. The show also digs into concerning market breadth data showing 60% of S&P 500 companies down 20%+",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-30",
-      "summary": "# Episode Summary\n\nThis episode covers five major stories shaping markets and policy: the U.S. military withdrawal from Iraq after 23 years and the resulting power vacuum Iran is filling; a shocking mid-flight cockpit attack on a Dubai-to-Tel Aviv flight that dropped 17,000 feet in two minutes; Meta's aggressive use of federal tax credits to shield billions in AI data center costs, paired with critical security vulnerabilities discovered in Epic's medical records systems. The show concludes with the Dividend Cafe's investment thesis positioning energy as a generational opportunity—currently just 3.4% of the S&P 500 despite strong cash flows and valuations—for investors willing to move against years",
       "keyTopics": []
     }
   ]
