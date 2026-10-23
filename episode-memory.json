@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-23",
+      "summary": "# This Week's Essential Briefing\n\nMarkets are flashing structural warning signs reminiscent of 2008—not predicting collapse, but highlighting hidden leverage and concentration risk masked by healthy headline numbers, especially as AI growth expectations reprice and expose crowded trades. Meanwhile, the Trump administration is pioneering a novel approach to semiconductor independence by taking direct equity stakes in fabrication plants funded by allied nations, reshaping how Washington conducts industrial policy overseas. On the political front, just two weeks before the midterms, Republicans are playing defense in traditionally safe territory like Florida, and tax-cut strategies aren't moving voters as expected—suggesting energy prices and supply-chain frustrations matter more than April tax returns.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-22",
       "summary": "# Episode Summary\n\nChinese AI startup DeepSeek has rattled markets with a new model that achieves competitive performance at a fraction of the cost, triggering a sharp selloff in semiconductor stocks and forcing investors to reconsider the infrastructure investment thesis that's underpinned the AI bull case. Meanwhile, the U.S. housing market remains stubbornly inaccessible to most buyers despite some price declines, as mortgage rates above 7% keep monthly payments prohibitively high—a frustration expected to reverberate through midterm politics. The episode also covers Putin's diplomatic strategy of decoupling sanctions from the Ukraine conflict, the emerging role of courts as de facto tech regulators through high-stakes",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-02",
       "summary": "# Episode Summary\n\nThis episode breaks down three major market-moving developments: a softer-than-expected September jobs report that's dramatically shifted Fed rate-hike odds for October and raised concerns about uneven labor market softening, particularly rising Black unemployment. The G7 announced a coordinated 100-million-barrel diesel reserve release to combat soaring energy prices, pivoting away from export bans toward multilateral action. Finally, new details emerged on the FlyDubai attack where off-duty pilots and brave passengers helped subdue an attacking co-pilot, raising critical aviation security questions about cockpit intrusion protocols.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-01",
-      "summary": "# Episode Summary\n\nThis episode tracks four major stories shaping markets and policy: mortgage rates climbing to 7.28% are pushing desperate buyers toward risky adjustable-rate mortgages ahead of the Fed's October decision, while the Trump administration's threatened diesel export ban could send shockwaves through global supply chains and energy markets. On the geopolitical front, new U.S. sanctions target a Russian financial network helping sanctioned entities evade restrictions, and sixty million American children have been auto-enrolled in tax-advantaged 530A savings accounts without parental action required. The show also digs into concerning market breadth data showing 60% of S&P 500 companies down 20%+",
       "keyTopics": []
     }
   ]
