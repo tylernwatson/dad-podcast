@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-24",
+      "summary": "# Dad's Daily Digest - Saturday, October 24th\n\nThis episode tackles four major stories shaping markets and politics: the Justice Department's unprecedented pre-election lawsuit to block Alaska's Senate race certification, a hidden Russian energy company financing of a U.S. Alaska LNG project with implications for Ukraine peace talks, rising airline fares that are unlikely to drop even if Middle East tensions ease, and a deep dive into what it actually feels like to live through a flat market—where the index goes nowhere but individual investors experience dramatic swings and volatility along the way. Together, these stories illustrate how power is deployed in election season and how markets that look stable on paper can feel anything but stable to those living through them.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-23",
       "summary": "# This Week's Essential Briefing\n\nMarkets are flashing structural warning signs reminiscent of 2008—not predicting collapse, but highlighting hidden leverage and concentration risk masked by healthy headline numbers, especially as AI growth expectations reprice and expose crowded trades. Meanwhile, the Trump administration is pioneering a novel approach to semiconductor independence by taking direct equity stakes in fabrication plants funded by allied nations, reshaping how Washington conducts industrial policy overseas. On the political front, just two weeks before the midterms, Republicans are playing defense in traditionally safe territory like Florida, and tax-cut strategies aren't moving voters as expected—suggesting energy prices and supply-chain frustrations matter more than April tax returns.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-03",
       "summary": "# Today's Episode: Ukraine Peace Talks, Midterm Surprises, and AI's Marketing Revolution\n\nThis episode dives into a major conflict-of-interest story emerging from Ukraine peace negotiations, where Trump envoys with significant business interests are reportedly involved in discussions about Russian energy assets—raising questions about whether diplomacy is being shaped by personal profit. On the domestic front, surprising Senate polling shows Democrats performing competitively in traditionally red states like Texas and Ohio, suggesting economic frustrations are reshaping the midterm landscape faster than expected. Plus, we explore how AI agents are fundamentally disrupting traditional marketing by shopping based on data rather than emotion, forcing brands to completely rethink how they present products to consumers.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-02",
-      "summary": "# Episode Summary\n\nThis episode breaks down three major market-moving developments: a softer-than-expected September jobs report that's dramatically shifted Fed rate-hike odds for October and raised concerns about uneven labor market softening, particularly rising Black unemployment. The G7 announced a coordinated 100-million-barrel diesel reserve release to combat soaring energy prices, pivoting away from export bans toward multilateral action. Finally, new details emerged on the FlyDubai attack where off-duty pilots and brave passengers helped subdue an attacking co-pilot, raising critical aviation security questions about cockpit intrusion protocols.",
       "keyTopics": []
     }
   ]
