@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-25",
+      "summary": "# Episode Summary\n\nThis episode covers two major market-moving stories: escalating U.S.-Israel military planning against Iran amid heightened regional tensions and proxy threats, which could trigger an oil price shock; and a dramatic repricing of AI stocks triggered by DeepSeek's efficiency breakthrough, which sent Nvidia down 16% and raised questions about the durability of the semiconductor infrastructure investment thesis. Together, these stories highlight emerging risks—geopolitical miscalculation and concentrated market positioning—that investors should closely monitor heading into the week.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-24",
       "summary": "# Dad's Daily Digest - Saturday, October 24th\n\nThis episode tackles four major stories shaping markets and politics: the Justice Department's unprecedented pre-election lawsuit to block Alaska's Senate race certification, a hidden Russian energy company financing of a U.S. Alaska LNG project with implications for Ukraine peace talks, rising airline fares that are unlikely to drop even if Middle East tensions ease, and a deep dive into what it actually feels like to live through a flat market—where the index goes nowhere but individual investors experience dramatic swings and volatility along the way. Together, these stories illustrate how power is deployed in election season and how markets that look stable on paper can feel anything but stable to those living through them.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-04",
       "summary": "# Episode Summary\n\nThis episode covers three major global stories: the escalating nuclear space race as the U.S. and Russia-China compete to establish lunar reactors by 2030-2036, driven by trillion-dollar resource extraction potential; the DeepSeek AI market shock and subsequent stabilization, with analysis suggesting the panic-driven selloff in Nvidia and chip stocks was overdone as cheaper AI likely accelerates adoption rather than reducing demand; and critical developments in Ukraine, Gaza, and Russia including Palestinian returns to northern Gaza, Ukrainian strikes forcing Russians toward Chinese EVs, and NATO's coordinated response to suspected Russian undersea cable sabotage. The episode also touches on surging arabica coffee prices tied to U",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-03",
-      "summary": "# Today's Episode: Ukraine Peace Talks, Midterm Surprises, and AI's Marketing Revolution\n\nThis episode dives into a major conflict-of-interest story emerging from Ukraine peace negotiations, where Trump envoys with significant business interests are reportedly involved in discussions about Russian energy assets—raising questions about whether diplomacy is being shaped by personal profit. On the domestic front, surprising Senate polling shows Democrats performing competitively in traditionally red states like Texas and Ohio, suggesting economic frustrations are reshaping the midterm landscape faster than expected. Plus, we explore how AI agents are fundamentally disrupting traditional marketing by shopping based on data rather than emotion, forcing brands to completely rethink how they present products to consumers.",
       "keyTopics": []
     }
   ]
