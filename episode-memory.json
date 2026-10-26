@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-26",
+      "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping markets and geopolitics: Anthropic's landmark IPO signals the AI boom still has real revenue backing it, though enormous spending projections raise questions about long-term sustainability—especially as efficiency breakthroughs like DeepSeek's threaten to reshape competitive advantages in the sector. Brazil's unexpected election result rattled emerging markets as investors repriced risk, while NATO's coordinated response to suspected undersea cable sabotage in the Baltic marks an escalating threshold in infrastructure conflict. The episode also touches on evolving dynamics in Gaza as hostage releases restart Palestinian movement northward and Israeli political pressure mounts.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-25",
       "summary": "# Episode Summary\n\nThis episode covers two major market-moving stories: escalating U.S.-Israel military planning against Iran amid heightened regional tensions and proxy threats, which could trigger an oil price shock; and a dramatic repricing of AI stocks triggered by DeepSeek's efficiency breakthrough, which sent Nvidia down 16% and raised questions about the durability of the semiconductor infrastructure investment thesis. Together, these stories highlight emerging risks—geopolitical miscalculation and concentrated market positioning—that investors should closely monitor heading into the week.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-05",
       "summary": "# Monday, October 5: AI's Economic Paradox, Energy Risk in the Persian Gulf, and Brazil's Political Realignment\n\nThis episode dives into three major stories reshaping markets and geopolitics: the Federal Reserve faces a genuine policy dilemma as massive AI infrastructure investment remains immune to interest rate hikes, fueling inflation while crushing traditional borrowing; energy markets are under pressure from coordinated attacks on tankers and Saudi infrastructure in the Persian Gulf, a critical chokepoint for 20% of global oil supply; and Brazil's presidential runoff could complete a rightward shift across Latin America, fundamentally realigning the region's geopolitics and giving the Trump administration a major ally while pressuring China's",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-04",
-      "summary": "# Episode Summary\n\nThis episode covers three major global stories: the escalating nuclear space race as the U.S. and Russia-China compete to establish lunar reactors by 2030-2036, driven by trillion-dollar resource extraction potential; the DeepSeek AI market shock and subsequent stabilization, with analysis suggesting the panic-driven selloff in Nvidia and chip stocks was overdone as cheaper AI likely accelerates adoption rather than reducing demand; and critical developments in Ukraine, Gaza, and Russia including Palestinian returns to northern Gaza, Ukrainian strikes forcing Russians toward Chinese EVs, and NATO's coordinated response to suspected Russian undersea cable sabotage. The episode also touches on surging arabica coffee prices tied to U",
       "keyTopics": []
     }
   ]
