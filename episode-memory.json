@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-28",
+      "summary": "# Episode Summary\n\nThis episode breaks down a week of market turbulence driven by three major forces: DeepSeek's challenge to AI infrastructure spending (triggering a brutal 16% sell-off in Nvidia), confusion around bond yield movements that don't match traditional economic explanations, and mounting institutional pressure on the Federal Reserve's independence as the administration moves to remove a sitting governor. Underneath these headlines, internal market breadth is surprisingly strong even as indexes decline, and emerging risks—from Brazil's political upheaval to Spain's deadly train crash—are reshaping global risk calculations.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-26",
       "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping markets and geopolitics: Anthropic's landmark IPO signals the AI boom still has real revenue backing it, though enormous spending projections raise questions about long-term sustainability—especially as efficiency breakthroughs like DeepSeek's threaten to reshape competitive advantages in the sector. Brazil's unexpected election result rattled emerging markets as investors repriced risk, while NATO's coordinated response to suspected undersea cable sabotage in the Baltic marks an escalating threshold in infrastructure conflict. The episode also touches on evolving dynamics in Gaza as hostage releases restart Palestinian movement northward and Israeli political pressure mounts.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-06",
       "summary": "# Episode Summary\n\nThis episode covers four major stories reshaping markets and geopolitics: Paramount and Warner Bros. Discovery's completed merger consolidating Hollywood's legacy media giants amid serious debt concerns, a surprising seventeen-month high in the U.S. trade deficit despite aggressive tariff policies—undermining the administration's economic narrative. The show also examines a credible Iranian drone threat that prompted the quiet withdrawal of B-1 bombers from a British air base and resulted in seven arrests in London, plus analysis of the markets heading into earnings season with insights on bank stocks, rate sensitivity, and the expanding AI landscape. Key takeaway: Watch for integration risks in the media merger, understand how higher rates affect alternative asset valuations",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-05",
-      "summary": "# Monday, October 5: AI's Economic Paradox, Energy Risk in the Persian Gulf, and Brazil's Political Realignment\n\nThis episode dives into three major stories reshaping markets and geopolitics: the Federal Reserve faces a genuine policy dilemma as massive AI infrastructure investment remains immune to interest rate hikes, fueling inflation while crushing traditional borrowing; energy markets are under pressure from coordinated attacks on tankers and Saudi infrastructure in the Persian Gulf, a critical chokepoint for 20% of global oil supply; and Brazil's presidential runoff could complete a rightward shift across Latin America, fundamentally realigning the region's geopolitics and giving the Trump administration a major ally while pressuring China's",
       "keyTopics": []
     }
   ]
