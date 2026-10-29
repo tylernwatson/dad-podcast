@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-10-29</title>
+      <description># Episode Summary
+
+Today&apos;s episode breaks down three major economic developments reshaping markets: strong 3.4% GDP growth is offset by accelerating PCE inflation, signaling the Fed will likely resume rate hikes in December and killing the rate-cut narrative that dominated earlier this year. In tech, a stark divergence is emerging as investors demand proof of returns on AI spending—Microsoft impressed while Google disappointed, marking a crucial shift from treating all hyperscalers as interchangeable AI plays. The episode also covers a bombshell national security story: Nvidia CEO Jensen Huang was targeted by a Chinese intelligence operation, raising urgent questions about America&apos;s AI infrastructure vulnerabilities during the global competition for AI supremacy.</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-10-29.mp3" length="3927552" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-10-29.mp3</guid>
+      <itunes:duration>245</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-10-28</title>
       <description># Episode Summary
 
