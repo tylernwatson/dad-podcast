@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-29",
+      "summary": "# Episode Summary\n\nToday's episode breaks down three major economic developments reshaping markets: strong 3.4% GDP growth is offset by accelerating PCE inflation, signaling the Fed will likely resume rate hikes in December and killing the rate-cut narrative that dominated earlier this year. In tech, a stark divergence is emerging as investors demand proof of returns on AI spending—Microsoft impressed while Google disappointed, marking a crucial shift from treating all hyperscalers as interchangeable AI plays. The episode also covers a bombshell national security story: Nvidia CEO Jensen Huang was targeted by a Chinese intelligence operation, raising urgent questions about America's AI infrastructure vulnerabilities during the global competition for AI supremacy.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-28",
       "summary": "# Episode Summary\n\nThis episode breaks down a week of market turbulence driven by three major forces: DeepSeek's challenge to AI infrastructure spending (triggering a brutal 16% sell-off in Nvidia), confusion around bond yield movements that don't match traditional economic explanations, and mounting institutional pressure on the Federal Reserve's independence as the administration moves to remove a sitting governor. Underneath these headlines, internal market breadth is surprisingly strong even as indexes decline, and emerging risks—from Brazil's political upheaval to Spain's deadly train crash—are reshaping global risk calculations.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-07",
       "summary": "# Wednesday, October 7th — Markets, Geopolitics & Ukraine\n\nThis episode covers three major stories: the AI trade heading into earnings season, where hyperscaler capex guidance will be critical to watch despite recent market volatility; a significant geopolitical shift as the U.S. pulls back from forward military positions in the Persian Gulf and Europe, prompting Secretary of State Rubio to warn allies about defending themselves; and encouraging battlefield news from Ukraine, where Kyiv is successfully disrupting Russian encirclement attempts in the Donbas despite sustained pressure.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-06",
-      "summary": "# Episode Summary\n\nThis episode covers four major stories reshaping markets and geopolitics: Paramount and Warner Bros. Discovery's completed merger consolidating Hollywood's legacy media giants amid serious debt concerns, a surprising seventeen-month high in the U.S. trade deficit despite aggressive tariff policies—undermining the administration's economic narrative. The show also examines a credible Iranian drone threat that prompted the quiet withdrawal of B-1 bombers from a British air base and resulted in seven arrests in London, plus analysis of the markets heading into earnings season with insights on bank stocks, rate sensitivity, and the expanding AI landscape. Key takeaway: Watch for integration risks in the media merger, understand how higher rates affect alternative asset valuations",
       "keyTopics": []
     }
   ]
