@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-30",
+      "summary": "# Episode Summary\n\nA massive $6.3 billion crypto heist at Binance—attributed to North Korean hackers using AI-assisted attacks—is reshaping how markets view cybersecurity risk across digital assets, while AI stocks continue their selloff as investors demand proof that tech giants' enormous spending on artificial intelligence is actually generating returns. With the midterms just days away, markets are largely focused on macro factors like inflation and interest rates rather than election outcomes, though the results could signal important shifts for 2028 politics.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-29",
       "summary": "# Episode Summary\n\nToday's episode breaks down three major economic developments reshaping markets: strong 3.4% GDP growth is offset by accelerating PCE inflation, signaling the Fed will likely resume rate hikes in December and killing the rate-cut narrative that dominated earlier this year. In tech, a stark divergence is emerging as investors demand proof of returns on AI spending—Microsoft impressed while Google disappointed, marking a crucial shift from treating all hyperscalers as interchangeable AI plays. The episode also covers a bombshell national security story: Nvidia CEO Jensen Huang was targeted by a Chinese intelligence operation, raising urgent questions about America's AI infrastructure vulnerabilities during the global competition for AI supremacy.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-08",
       "summary": "# Thursday News Briefing\n\nMortgage rates have climbed to a three-year high of 7.4%, freezing the housing market as buyers can't afford homes and sellers won't lower prices—a standoff that's keeping inventory locked up and pushing renters to remain in the rental market. Meanwhile, escalating violence near the Strait of Hormuz is spiking oil prices and creating real domestic political consequences, from Maine heating bills affecting a Senate race to broader concerns about inflation. Finally, France's bond market is flashing serious debt warning signs similar to the early stages of Europe's debt crisis, while earnings season reveals consumer behavior shifts driven by GLP-1 drugs, and tensions in Ukraine continue despite recent",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-07",
-      "summary": "# Wednesday, October 7th — Markets, Geopolitics & Ukraine\n\nThis episode covers three major stories: the AI trade heading into earnings season, where hyperscaler capex guidance will be critical to watch despite recent market volatility; a significant geopolitical shift as the U.S. pulls back from forward military positions in the Persian Gulf and Europe, prompting Secretary of State Rubio to warn allies about defending themselves; and encouraging battlefield news from Ukraine, where Kyiv is successfully disrupting Russian encirclement attempts in the Donbas despite sustained pressure.",
       "keyTopics": []
     }
   ]
