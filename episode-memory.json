@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-31",
+      "summary": "# Episode Summary\n\nThis week's podcast dives into three major stories reshaping markets and politics: the ongoing DeepSeek AI shock, which has sparked debate over whether AI infrastructure spending will slow if efficiency gains reduce chip demand; a critical examination of credit risk hidden in AI financing structures—the kind of structural vulnerability that often precedes major market disruptions; and the midterm elections on Tuesday, where tightening margins in traditionally Republican strongholds could reshape the political landscape ahead. Along the way, we explore how federal research funding cuts could weaken America's long-term competitive edge in AI, and how tariff uncertainty alone can drive commodity prices to record highs.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-30",
       "summary": "# Episode Summary\n\nA massive $6.3 billion crypto heist at Binance—attributed to North Korean hackers using AI-assisted attacks—is reshaping how markets view cybersecurity risk across digital assets, while AI stocks continue their selloff as investors demand proof that tech giants' enormous spending on artificial intelligence is actually generating returns. With the midterms just days away, markets are largely focused on macro factors like inflation and interest rates rather than election outcomes, though the results could signal important shifts for 2028 politics.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-09",
       "summary": "# This Week's Top Stories\n\nThis episode breaks down five major stories reshaping American politics and markets: the White House's escalating pressure on Federal Reserve Governor Lisa Cook through an unprecedented formal inquiry, which threatens Fed independence amid concerns about inflation and mortgage rates; an expanding midterm map that has Democrats competing in traditionally red states like Kansas and Texas; Medicare Advantage open enrollment chaos as insurers discontinue plans, hitting seniors right as the administration tries to claim healthcare wins; China and Europe's hybrid car export deal that may actually strengthen China's auto industry long-term; and how Russian banks are exploiting global banking networks to evade U.S. sanctions. The connecting thread: institutional pressures, political interference with economic policy, and a",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-08",
-      "summary": "# Thursday News Briefing\n\nMortgage rates have climbed to a three-year high of 7.4%, freezing the housing market as buyers can't afford homes and sellers won't lower prices—a standoff that's keeping inventory locked up and pushing renters to remain in the rental market. Meanwhile, escalating violence near the Strait of Hormuz is spiking oil prices and creating real domestic political consequences, from Maine heating bills affecting a Senate race to broader concerns about inflation. Finally, France's bond market is flashing serious debt warning signs similar to the early stages of Europe's debt crisis, while earnings season reveals consumer behavior shifts driven by GLP-1 drugs, and tensions in Ukraine continue despite recent",
       "keyTopics": []
     }
   ]
