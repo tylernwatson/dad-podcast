@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-11-02</title>
+      <description># Episode Summary
+
+With midterm elections just one day away, this episode covers the final legal maneuvers and institutional vulnerabilities that could shape the outcome—including an emergency Supreme Court filing over California mail-in ballots and a troubling retreat by CISA from election security work. Simultaneously, markets are experiencing a major AI reckoning as DeepSeek&apos;s efficiency claims trigger a 16% plunge in Nvidia and raise urgent questions about whether the compute-heavy infrastructure buildout that underpinned the AI bull case remains viable. The episode also explores emerging security threats to critical infrastructure, from Baltic undersea cables to coordinated cyberattacks on European grocery store freezers, alongside the paradox of</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-02.mp3" length="4736256" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-02.mp3</guid>
+      <itunes:duration>296</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-11-01</title>
       <description># This Week&apos;s Essential Stories
 
