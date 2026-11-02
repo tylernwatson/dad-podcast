@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-02",
+      "summary": "# Episode Summary\n\nWith midterm elections just one day away, this episode covers the final legal maneuvers and institutional vulnerabilities that could shape the outcome—including an emergency Supreme Court filing over California mail-in ballots and a troubling retreat by CISA from election security work. Simultaneously, markets are experiencing a major AI reckoning as DeepSeek's efficiency claims trigger a 16% plunge in Nvidia and raise urgent questions about whether the compute-heavy infrastructure buildout that underpinned the AI bull case remains viable. The episode also explores emerging security threats to critical infrastructure, from Baltic undersea cables to coordinated cyberattacks on European grocery store freezers, alongside the paradox of",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-01",
       "summary": "# This Week's Essential Stories\n\nWith midterm elections just two days away, voters are laser-focused on inflation and tariffs as the defining issue of the campaign—and the margins matter as much as the outcomes, especially in competitive states like Texas where ad spending is breaking records. Beyond the ballot box, three major stories are reshaping markets and geopolitics: a little-known South Korean company now controls half of all tanker traffic through the Strait of Hormuz (a critical chokepoint for global oil), the DeepSeek AI shock continues to ripple through tech stocks and force a reckoning about AI infrastructure spending, and an escalating humanitarian crisis in Congo—where Rwanda-backed rebels have entered the major",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-11",
       "summary": "# Episode Summary\n\nThis episode examines three major threats to institutional stability: a New York Times investigation into escalating political violence against American officials that's reshaping how they govern and whether they stay in office, Houthi attacks on Saudi Arabia's flagship airport that expose vulnerabilities in the kingdom's multi-billion dollar defense systems and threaten regional energy markets, and a Justice Department antitrust investigation into television networks' pool coverage decisions—a legally novel move that could chill press independence through regulatory uncertainty. Together, these stories reveal stress fractures in American democracy, Middle Eastern strategic balance, and press freedom heading into the midterm elections and winter energy season.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-10",
-      "summary": "# Episode Summary\n\nWith three weeks until the midterms, Republicans face an expanding electoral map as inflation squeezes farmers, truckers, and rural consumers in traditionally red states—while the White House counters with healthcare messaging amid Medicare Advantage chaos. The episode also examines the AI \"verification tax,\" where human workers must carefully review AI-generated work, potentially offsetting productivity gains, and dives deep into surging bond yields that have risen 75 basis points in three months, suggesting factors beyond government debt may be driving long-term interest rates that ripple through mortgages, corporate lending, and asset valuations.",
       "keyTopics": []
     }
   ]
