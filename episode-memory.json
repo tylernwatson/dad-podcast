@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-03",
+      "summary": "# Dad's Daily Digest: Election Day, Markets, and AI Repricing\n\nToday's episode breaks down Election Day results as they unfold, examining what margin of victory means for policy and markets—particularly around tech regulation and data center permitting. The second major focus is the ongoing AI sector correction, where despite the S&P 500 looking relatively flat in October, massive sell-offs in Nvidia, Meta, and Google masked strong performance across the broader market; analyst David Bahnsen challenges claims that valuations are \"cheap\" at 19x forward earnings and flags structural questions about whether capital markets will sustain the enormous funding needs of AI infrastructure. The episode also touches on key global risks including the humanitarian crisis",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-02",
       "summary": "# Episode Summary\n\nWith midterm elections just one day away, this episode covers the final legal maneuvers and institutional vulnerabilities that could shape the outcome—including an emergency Supreme Court filing over California mail-in ballots and a troubling retreat by CISA from election security work. Simultaneously, markets are experiencing a major AI reckoning as DeepSeek's efficiency claims trigger a 16% plunge in Nvidia and raise urgent questions about whether the compute-heavy infrastructure buildout that underpinned the AI bull case remains viable. The episode also explores emerging security threats to critical infrastructure, from Baltic undersea cables to coordinated cyberattacks on European grocery store freezers, alongside the paradox of",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-20",
       "summary": "# Episode Summary\n\nThis episode covers three major market-moving stories: European political turmoil, particularly in France, where riots and bond market instability are creating a potential \"doom loop\" as populist movements gain ground across the continent. In U.S. politics, an $8 billion farm bailout and renewed court challenges to Trump's tariff authority signal competing fiscal and trade policy pressures heading into the midterms. Finally, the AI market is undergoing a significant rotation—while the infrastructure boom isn't over, investors are repricing expectations from exponential growth to strong but linear expansion, creating unusual market divergence where major indices decline even as individual stocks hit new highs.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-11",
-      "summary": "# Episode Summary\n\nThis episode examines three major threats to institutional stability: a New York Times investigation into escalating political violence against American officials that's reshaping how they govern and whether they stay in office, Houthi attacks on Saudi Arabia's flagship airport that expose vulnerabilities in the kingdom's multi-billion dollar defense systems and threaten regional energy markets, and a Justice Department antitrust investigation into television networks' pool coverage decisions—a legally novel move that could chill press independence through regulatory uncertainty. Together, these stories reveal stress fractures in American democracy, Middle Eastern strategic balance, and press freedom heading into the midterm elections and winter energy season.",
       "keyTopics": []
     }
   ]
