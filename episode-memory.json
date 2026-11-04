@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-04",
+      "summary": "# Episode Summary\n\nFollowing Democrats' decisive midterm victory and takeover of Congress, this episode examines the immediate political and market fallout—including Tesla and SpaceX's sharp decline due to Elon Musk's political exposure, and broader sector rotation away from tariff-sensitive businesses. The conversation then pivots to deeper structural risks: CVS Health's planned breakup of its retail pharmacy business, and a substantive dive into David Bahnsen's warnings about hidden credit vulnerabilities in AI financing that could ripple across markets far beyond the tech sector. A final segment addresses NATO's first coordinated response to suspected Baltic Sea cable sabotage, highlighting physical infrastructure as an underappreciated geopolitical and",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-03",
       "summary": "# Dad's Daily Digest: Election Day, Markets, and AI Repricing\n\nToday's episode breaks down Election Day results as they unfold, examining what margin of victory means for policy and markets—particularly around tech regulation and data center permitting. The second major focus is the ongoing AI sector correction, where despite the S&P 500 looking relatively flat in October, massive sell-offs in Nvidia, Meta, and Google masked strong performance across the broader market; analyst David Bahnsen challenges claims that valuations are \"cheap\" at 19x forward earnings and flags structural questions about whether capital markets will sustain the enormous funding needs of AI infrastructure. The episode also touches on key global risks including the humanitarian crisis",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-21",
       "summary": "# Episode Summary\n\nExplore a tech landscape potentially reshaped by a proposed SpaceX-Tesla mega-merger worth over $3 trillion, while political headwinds intensify as midterm polling shows Republicans facing significant deficits just two weeks from Election Day. The episode also covers escalating unrest in France targeting luxury brands, diplomatic complications around a hostage release, and insider perspectives from Wall Street's top money managers on what truly keeps institutional investors up at night.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-20",
-      "summary": "# Episode Summary\n\nThis episode covers three major market-moving stories: European political turmoil, particularly in France, where riots and bond market instability are creating a potential \"doom loop\" as populist movements gain ground across the continent. In U.S. politics, an $8 billion farm bailout and renewed court challenges to Trump's tariff authority signal competing fiscal and trade policy pressures heading into the midterms. Finally, the AI market is undergoing a significant rotation—while the infrastructure boom isn't over, investors are repricing expectations from exponential growth to strong but linear expansion, creating unusual market divergence where major indices decline even as individual stocks hit new highs.",
       "keyTopics": []
     }
   ]
