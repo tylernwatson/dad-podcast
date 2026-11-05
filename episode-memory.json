@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-05",
+      "summary": "# Episode Summary\n\nMarkets are reeling after the worst S&P 500 day in over a year, driven by a collision of post-election tech regulation fears and renewed concerns about whether AI infrastructure spending is sustainable—a story that analyst David Bahnsen has been tracking all week. Meanwhile, the Democratic wave is reshaping the political landscape with real business consequences, particularly in Texas, which flipped and is now forcing companies to recalculate their tax and regulatory assumptions in what was supposed to be a business haven.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-04",
       "summary": "# Episode Summary\n\nFollowing Democrats' decisive midterm victory and takeover of Congress, this episode examines the immediate political and market fallout—including Tesla and SpaceX's sharp decline due to Elon Musk's political exposure, and broader sector rotation away from tariff-sensitive businesses. The conversation then pivots to deeper structural risks: CVS Health's planned breakup of its retail pharmacy business, and a substantive dive into David Bahnsen's warnings about hidden credit vulnerabilities in AI financing that could ripple across markets far beyond the tech sector. A final segment addresses NATO's first coordinated response to suspected Baltic Sea cable sabotage, highlighting physical infrastructure as an underappreciated geopolitical and",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-22",
       "summary": "# Episode Summary\n\nChinese AI startup DeepSeek has rattled markets with a new model that achieves competitive performance at a fraction of the cost, triggering a sharp selloff in semiconductor stocks and forcing investors to reconsider the infrastructure investment thesis that's underpinned the AI bull case. Meanwhile, the U.S. housing market remains stubbornly inaccessible to most buyers despite some price declines, as mortgage rates above 7% keep monthly payments prohibitively high—a frustration expected to reverberate through midterm politics. The episode also covers Putin's diplomatic strategy of decoupling sanctions from the Ukraine conflict, the emerging role of courts as de facto tech regulators through high-stakes",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-21",
-      "summary": "# Episode Summary\n\nExplore a tech landscape potentially reshaped by a proposed SpaceX-Tesla mega-merger worth over $3 trillion, while political headwinds intensify as midterm polling shows Republicans facing significant deficits just two weeks from Election Day. The episode also covers escalating unrest in France targeting luxury brands, diplomatic complications around a hostage release, and insider perspectives from Wall Street's top money managers on what truly keeps institutional investors up at night.",
       "keyTopics": []
     }
   ]
