@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-06",
+      "summary": "# Episode Summary\n\nThis episode breaks down a turbulent week in markets and tech, starting with Thursday's worst trading day in over a year followed by Friday's rebound—and what it reveals about ongoing tensions around AI valuations and infrastructure spending. A strong jobs report suggests the Fed will hold rates steady, which has ripple effects across credit markets and mortgage rates. Tesla's announcement to halt Cybertruck production by 2027 to focus on autonomous robotaxi development marks a major strategic pivot with significant execution risk.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-05",
       "summary": "# Episode Summary\n\nMarkets are reeling after the worst S&P 500 day in over a year, driven by a collision of post-election tech regulation fears and renewed concerns about whether AI infrastructure spending is sustainable—a story that analyst David Bahnsen has been tracking all week. Meanwhile, the Democratic wave is reshaping the political landscape with real business consequences, particularly in Texas, which flipped and is now forcing companies to recalculate their tax and regulatory assumptions in what was supposed to be a business haven.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-23",
       "summary": "# This Week's Essential Briefing\n\nMarkets are flashing structural warning signs reminiscent of 2008—not predicting collapse, but highlighting hidden leverage and concentration risk masked by healthy headline numbers, especially as AI growth expectations reprice and expose crowded trades. Meanwhile, the Trump administration is pioneering a novel approach to semiconductor independence by taking direct equity stakes in fabrication plants funded by allied nations, reshaping how Washington conducts industrial policy overseas. On the political front, just two weeks before the midterms, Republicans are playing defense in traditionally safe territory like Florida, and tax-cut strategies aren't moving voters as expected—suggesting energy prices and supply-chain frustrations matter more than April tax returns.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-22",
-      "summary": "# Episode Summary\n\nChinese AI startup DeepSeek has rattled markets with a new model that achieves competitive performance at a fraction of the cost, triggering a sharp selloff in semiconductor stocks and forcing investors to reconsider the infrastructure investment thesis that's underpinned the AI bull case. Meanwhile, the U.S. housing market remains stubbornly inaccessible to most buyers despite some price declines, as mortgage rates above 7% keep monthly payments prohibitively high—a frustration expected to reverberate through midterm politics. The episode also covers Putin's diplomatic strategy of decoupling sanctions from the Ukraine conflict, the emerging role of courts as de facto tech regulators through high-stakes",
       "keyTopics": []
     }
   ]
