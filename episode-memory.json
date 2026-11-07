@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-07",
+      "summary": "# Episode Summary\n\n**Political shifts and market reactions dominate this week's analysis.** Stephen Miller's appointment as White House Chief of Staff signals a more ideologically aggressive second term focused on immigration and executive power expansion, while Democrats secured decisive midterm victories that reshape congressional power dynamics and create new regulatory uncertainty for businesses. The episode breaks down why markets celebrated resolution itself rather than specific election outcomes, and warns investors against making portfolio decisions based on political results—instead highlighting the structural risks in AI valuations and credit markets that persist regardless of who's in power.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-06",
       "summary": "# Episode Summary\n\nThis episode breaks down a turbulent week in markets and tech, starting with Thursday's worst trading day in over a year followed by Friday's rebound—and what it reveals about ongoing tensions around AI valuations and infrastructure spending. A strong jobs report suggests the Fed will hold rates steady, which has ripple effects across credit markets and mortgage rates. Tesla's announcement to halt Cybertruck production by 2027 to focus on autonomous robotaxi development marks a major strategic pivot with significant execution risk.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-24",
       "summary": "# Dad's Daily Digest - Saturday, October 24th\n\nThis episode tackles four major stories shaping markets and politics: the Justice Department's unprecedented pre-election lawsuit to block Alaska's Senate race certification, a hidden Russian energy company financing of a U.S. Alaska LNG project with implications for Ukraine peace talks, rising airline fares that are unlikely to drop even if Middle East tensions ease, and a deep dive into what it actually feels like to live through a flat market—where the index goes nowhere but individual investors experience dramatic swings and volatility along the way. Together, these stories illustrate how power is deployed in election season and how markets that look stable on paper can feel anything but stable to those living through them.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-23",
-      "summary": "# This Week's Essential Briefing\n\nMarkets are flashing structural warning signs reminiscent of 2008—not predicting collapse, but highlighting hidden leverage and concentration risk masked by healthy headline numbers, especially as AI growth expectations reprice and expose crowded trades. Meanwhile, the Trump administration is pioneering a novel approach to semiconductor independence by taking direct equity stakes in fabrication plants funded by allied nations, reshaping how Washington conducts industrial policy overseas. On the political front, just two weeks before the midterms, Republicans are playing defense in traditionally safe territory like Florida, and tax-cut strategies aren't moving voters as expected—suggesting energy prices and supply-chain frustrations matter more than April tax returns.",
       "keyTopics": []
     }
   ]
