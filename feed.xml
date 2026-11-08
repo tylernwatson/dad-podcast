@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-11-08</title>
+      <description># Episode Summary
+
+This episode unpacks three major stories shaping markets and policy: the complex political aftermath of Democrats&apos; midterm victory, where Stephen Miller&apos;s appointment as White House Chief of Staff signals continued executive aggression despite electoral losses; a sharp selloff in AI stocks triggered by Chinese startup DeepSeek&apos;s claims of building rival AI models at a fraction of the cost, raising questions about the sustainability of infrastructure valuations; and the intersection of the Iran conflict with the clean energy transition, where oil price shocks are boosting EV demand while simultaneously pressuring governments toward short-term fossil fuel expansion.</description>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-08.mp3" length="4714560" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-08.mp3</guid>
+      <itunes:duration>295</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-11-07</title>
       <description># Episode Summary
 
