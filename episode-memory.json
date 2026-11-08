@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-08",
+      "summary": "# Episode Summary\n\nThis episode unpacks three major stories shaping markets and policy: the complex political aftermath of Democrats' midterm victory, where Stephen Miller's appointment as White House Chief of Staff signals continued executive aggression despite electoral losses; a sharp selloff in AI stocks triggered by Chinese startup DeepSeek's claims of building rival AI models at a fraction of the cost, raising questions about the sustainability of infrastructure valuations; and the intersection of the Iran conflict with the clean energy transition, where oil price shocks are boosting EV demand while simultaneously pressuring governments toward short-term fossil fuel expansion.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-07",
       "summary": "# Episode Summary\n\n**Political shifts and market reactions dominate this week's analysis.** Stephen Miller's appointment as White House Chief of Staff signals a more ideologically aggressive second term focused on immigration and executive power expansion, while Democrats secured decisive midterm victories that reshape congressional power dynamics and create new regulatory uncertainty for businesses. The episode breaks down why markets celebrated resolution itself rather than specific election outcomes, and warns investors against making portfolio decisions based on political results—instead highlighting the structural risks in AI valuations and credit markets that persist regardless of who's in power.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-25",
       "summary": "# Episode Summary\n\nThis episode covers two major market-moving stories: escalating U.S.-Israel military planning against Iran amid heightened regional tensions and proxy threats, which could trigger an oil price shock; and a dramatic repricing of AI stocks triggered by DeepSeek's efficiency breakthrough, which sent Nvidia down 16% and raised questions about the durability of the semiconductor infrastructure investment thesis. Together, these stories highlight emerging risks—geopolitical miscalculation and concentrated market positioning—that investors should closely monitor heading into the week.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-24",
-      "summary": "# Dad's Daily Digest - Saturday, October 24th\n\nThis episode tackles four major stories shaping markets and politics: the Justice Department's unprecedented pre-election lawsuit to block Alaska's Senate race certification, a hidden Russian energy company financing of a U.S. Alaska LNG project with implications for Ukraine peace talks, rising airline fares that are unlikely to drop even if Middle East tensions ease, and a deep dive into what it actually feels like to live through a flat market—where the index goes nowhere but individual investors experience dramatic swings and volatility along the way. Together, these stories illustrate how power is deployed in election season and how markets that look stable on paper can feel anything but stable to those living through them.",
       "keyTopics": []
     }
   ]
