@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-09",
+      "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and politics: escalating tensions in Washington as a Republican congressman files impeachment charges against the Defense Secretary, signaling GOP fracturing; a significant regulatory investigation into Nvidia involving allegations that a top executive contacted Commerce Department officials about a customer under scrutiny—raising questions about oversight and executive influence in the AI sector; a dramatic twenty-dollar drop in oil prices driven by promising U.S.-Iran peace negotiations, which could ease inflation and give the Fed more flexibility; and Boeing's announcement of workforce cuts due to slower-than-expected production recovery, underscoring the difficulty of its ongoing turnaround.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-08",
       "summary": "# Episode Summary\n\nThis episode unpacks three major stories shaping markets and policy: the complex political aftermath of Democrats' midterm victory, where Stephen Miller's appointment as White House Chief of Staff signals continued executive aggression despite electoral losses; a sharp selloff in AI stocks triggered by Chinese startup DeepSeek's claims of building rival AI models at a fraction of the cost, raising questions about the sustainability of infrastructure valuations; and the intersection of the Iran conflict with the clean energy transition, where oil price shocks are boosting EV demand while simultaneously pressuring governments toward short-term fossil fuel expansion.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-26",
       "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping markets and geopolitics: Anthropic's landmark IPO signals the AI boom still has real revenue backing it, though enormous spending projections raise questions about long-term sustainability—especially as efficiency breakthroughs like DeepSeek's threaten to reshape competitive advantages in the sector. Brazil's unexpected election result rattled emerging markets as investors repriced risk, while NATO's coordinated response to suspected undersea cable sabotage in the Baltic marks an escalating threshold in infrastructure conflict. The episode also touches on evolving dynamics in Gaza as hostage releases restart Palestinian movement northward and Israeli political pressure mounts.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-25",
-      "summary": "# Episode Summary\n\nThis episode covers two major market-moving stories: escalating U.S.-Israel military planning against Iran amid heightened regional tensions and proxy threats, which could trigger an oil price shock; and a dramatic repricing of AI stocks triggered by DeepSeek's efficiency breakthrough, which sent Nvidia down 16% and raised questions about the durability of the semiconductor infrastructure investment thesis. Together, these stories highlight emerging risks—geopolitical miscalculation and concentrated market positioning—that investors should closely monitor heading into the week.",
       "keyTopics": []
     }
   ]
