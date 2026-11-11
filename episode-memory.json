@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-11",
+      "summary": "# Episode Summary\n\nThis episode covers three major stories shaping markets and policy: the Nvidia scandal has escalated into a full intelligence operation involving cabinet-level conflict over chip exports to China and questions about national security breaches at the company's core. Washington is entering a constitutional standoff as the White House threatens Congressional oversight while the outgoing majority races to confirm judges and the incoming Democratic majority prepares aggressive investigations. Finally, investment strategist David Bahnsen warns investors against making emotional portfolio decisions based on election results, arguing that structural market risks in credit and AI valuations persist regardless of political outcomes—and that market reactions reflect uncertainty resolution, not political preference.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-10",
       "summary": "# Episode Summary\n\nThis episode dives into a major crisis unfolding at Nvidia—CEO Jensen Huang is under internal investigation by elite law firm Wachtell Lipton regarding a relationship with a Chinese intelligence asset, raising serious national security questions and exposing potential board governance failures at the world's most strategically important semiconductor company. The story compounds a brutal 16% single-day stock drop driven by renewed concerns about Chinese AI startup DeepSeek's efficiency claims, prompting broader questions about whether AI infrastructure valuations are built on sustainable earnings estimates or circular reasoning. The episode also weighs these risks against steadier consumer debt data and explores structural leverage embedded in the AI trade that could force a deleveraging event.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-29",
       "summary": "# Episode Summary\n\nToday's episode breaks down three major economic developments reshaping markets: strong 3.4% GDP growth is offset by accelerating PCE inflation, signaling the Fed will likely resume rate hikes in December and killing the rate-cut narrative that dominated earlier this year. In tech, a stark divergence is emerging as investors demand proof of returns on AI spending—Microsoft impressed while Google disappointed, marking a crucial shift from treating all hyperscalers as interchangeable AI plays. The episode also covers a bombshell national security story: Nvidia CEO Jensen Huang was targeted by a Chinese intelligence operation, raising urgent questions about America's AI infrastructure vulnerabilities during the global competition for AI supremacy.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-28",
-      "summary": "# Episode Summary\n\nThis episode breaks down a week of market turbulence driven by three major forces: DeepSeek's challenge to AI infrastructure spending (triggering a brutal 16% sell-off in Nvidia), confusion around bond yield movements that don't match traditional economic explanations, and mounting institutional pressure on the Federal Reserve's independence as the administration moves to remove a sitting governor. Underneath these headlines, internal market breadth is surprisingly strong even as indexes decline, and emerging risks—from Brazil's political upheaval to Spain's deadly train crash—are reshaping global risk calculations.",
       "keyTopics": []
     }
   ]
