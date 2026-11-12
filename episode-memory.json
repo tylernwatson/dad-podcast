@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-12",
+      "summary": "# Episode Summary\n\nJensen Huang has resigned as Nvidia CEO following an investigation into his relationship with a woman confirmed by Singapore to be a suspected Chinese intelligence asset—a national security breach that raises serious questions about access to the world's most strategically important semiconductor company. The leadership vacuum at Nvidia compounds existing concerns about AI infrastructure valuations and market positioning, while separately, the Trump administration's pullback from Iran nuclear negotiations threatens to reignite oil price volatility and complicate the Fed's inflation outlook under new Chairman Kevin Warsh. Together, these developments signal mounting pressure across tech leadership, geopolitical risk, and monetary policy heading into what could be a turbulent period for markets.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-11",
       "summary": "# Episode Summary\n\nThis episode covers three major stories shaping markets and policy: the Nvidia scandal has escalated into a full intelligence operation involving cabinet-level conflict over chip exports to China and questions about national security breaches at the company's core. Washington is entering a constitutional standoff as the White House threatens Congressional oversight while the outgoing majority races to confirm judges and the incoming Democratic majority prepares aggressive investigations. Finally, investment strategist David Bahnsen warns investors against making emotional portfolio decisions based on election results, arguing that structural market risks in credit and AI valuations persist regardless of political outcomes—and that market reactions reflect uncertainty resolution, not political preference.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-30",
       "summary": "# Episode Summary\n\nA massive $6.3 billion crypto heist at Binance—attributed to North Korean hackers using AI-assisted attacks—is reshaping how markets view cybersecurity risk across digital assets, while AI stocks continue their selloff as investors demand proof that tech giants' enormous spending on artificial intelligence is actually generating returns. With the midterms just days away, markets are largely focused on macro factors like inflation and interest rates rather than election outcomes, though the results could signal important shifts for 2028 politics.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-29",
-      "summary": "# Episode Summary\n\nToday's episode breaks down three major economic developments reshaping markets: strong 3.4% GDP growth is offset by accelerating PCE inflation, signaling the Fed will likely resume rate hikes in December and killing the rate-cut narrative that dominated earlier this year. In tech, a stark divergence is emerging as investors demand proof of returns on AI spending—Microsoft impressed while Google disappointed, marking a crucial shift from treating all hyperscalers as interchangeable AI plays. The episode also covers a bombshell national security story: Nvidia CEO Jensen Huang was targeted by a Chinese intelligence operation, raising urgent questions about America's AI infrastructure vulnerabilities during the global competition for AI supremacy.",
       "keyTopics": []
     }
   ]
