@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-13",
+      "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping markets and policy: the fallout from Jensen Huang's departure from Nvidia, including the loss of $48 billion in startup funding and concerns about potential discrimination against Asian American tech workers; a major Microsoft global outage now in its second day that's exposing dangerous concentration risk in cloud infrastructure; and a significant shift in the Trump administration's Iran strategy toward long-term economic pressure rather than near-term deal-making, which could keep oil prices elevated and complicate the Fed's inflation outlook. Together, these stories reveal vulnerabilities in how the digital economy is structured and raise questions about both geopolitical strategy and market stability heading into the final weeks of the year.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-12",
       "summary": "# Episode Summary\n\nJensen Huang has resigned as Nvidia CEO following an investigation into his relationship with a woman confirmed by Singapore to be a suspected Chinese intelligence asset—a national security breach that raises serious questions about access to the world's most strategically important semiconductor company. The leadership vacuum at Nvidia compounds existing concerns about AI infrastructure valuations and market positioning, while separately, the Trump administration's pullback from Iran nuclear negotiations threatens to reignite oil price volatility and complicate the Fed's inflation outlook under new Chairman Kevin Warsh. Together, these developments signal mounting pressure across tech leadership, geopolitical risk, and monetary policy heading into what could be a turbulent period for markets.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-31",
       "summary": "# Episode Summary\n\nThis week's podcast dives into three major stories reshaping markets and politics: the ongoing DeepSeek AI shock, which has sparked debate over whether AI infrastructure spending will slow if efficiency gains reduce chip demand; a critical examination of credit risk hidden in AI financing structures—the kind of structural vulnerability that often precedes major market disruptions; and the midterm elections on Tuesday, where tightening margins in traditionally Republican strongholds could reshape the political landscape ahead. Along the way, we explore how federal research funding cuts could weaken America's long-term competitive edge in AI, and how tariff uncertainty alone can drive commodity prices to record highs.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-30",
-      "summary": "# Episode Summary\n\nA massive $6.3 billion crypto heist at Binance—attributed to North Korean hackers using AI-assisted attacks—is reshaping how markets view cybersecurity risk across digital assets, while AI stocks continue their selloff as investors demand proof that tech giants' enormous spending on artificial intelligence is actually generating returns. With the midterms just days away, markets are largely focused on macro factors like inflation and interest rates rather than election outcomes, though the results could signal important shifts for 2028 politics.",
       "keyTopics": []
     }
   ]
