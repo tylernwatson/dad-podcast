@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-11-13</title>
+      <description># Episode Summary
+
+This episode covers three major stories reshaping markets and policy: the fallout from Jensen Huang&apos;s departure from Nvidia, including the loss of $48 billion in startup funding and concerns about potential discrimination against Asian American tech workers; a major Microsoft global outage now in its second day that&apos;s exposing dangerous concentration risk in cloud infrastructure; and a significant shift in the Trump administration&apos;s Iran strategy toward long-term economic pressure rather than near-term deal-making, which could keep oil prices elevated and complicate the Fed&apos;s inflation outlook. Together, these stories reveal vulnerabilities in how the digital economy is structured and raise questions about both geopolitical strategy and market stability heading into the final weeks of the year.</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-13.mp3" length="3422400" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-13.mp3</guid>
+      <itunes:duration>214</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-11-12</title>
       <description># Episode Summary
 
