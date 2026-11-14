@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-14",
+      "summary": "# Episode Summary\n\nThis episode explores three major interconnected stories shaping markets and geopolitics: the escalating Nvidia espionage scandal involving CEO Jensen Huang and a Chinese intelligence operative, which now threatens to overshadow an upcoming U.S. tech CEO summit in Shenzhen; the FAA's nationwide ground stop exposing aging, failing air traffic control infrastructure; and deepening concerns about China's property sector crisis, with even state-backed developer Vanke reporting massive losses. Woven throughout is a timely reminder from the Dividend Cafe that investors repeatedly sabotage their portfolios by making panic-driven decisions based on political fears rather than economic fundamentals—a cautionary lesson as geopolit",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-13",
       "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping markets and policy: the fallout from Jensen Huang's departure from Nvidia, including the loss of $48 billion in startup funding and concerns about potential discrimination against Asian American tech workers; a major Microsoft global outage now in its second day that's exposing dangerous concentration risk in cloud infrastructure; and a significant shift in the Trump administration's Iran strategy toward long-term economic pressure rather than near-term deal-making, which could keep oil prices elevated and complicate the Fed's inflation outlook. Together, these stories reveal vulnerabilities in how the digital economy is structured and raise questions about both geopolitical strategy and market stability heading into the final weeks of the year.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-01",
       "summary": "# This Week's Essential Stories\n\nWith midterm elections just two days away, voters are laser-focused on inflation and tariffs as the defining issue of the campaign—and the margins matter as much as the outcomes, especially in competitive states like Texas where ad spending is breaking records. Beyond the ballot box, three major stories are reshaping markets and geopolitics: a little-known South Korean company now controls half of all tanker traffic through the Strait of Hormuz (a critical chokepoint for global oil), the DeepSeek AI shock continues to ripple through tech stocks and force a reckoning about AI infrastructure spending, and an escalating humanitarian crisis in Congo—where Rwanda-backed rebels have entered the major",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-31",
-      "summary": "# Episode Summary\n\nThis week's podcast dives into three major stories reshaping markets and politics: the ongoing DeepSeek AI shock, which has sparked debate over whether AI infrastructure spending will slow if efficiency gains reduce chip demand; a critical examination of credit risk hidden in AI financing structures—the kind of structural vulnerability that often precedes major market disruptions; and the midterm elections on Tuesday, where tightening margins in traditionally Republican strongholds could reshape the political landscape ahead. Along the way, we explore how federal research funding cuts could weaken America's long-term competitive edge in AI, and how tariff uncertainty alone can drive commodity prices to record highs.",
       "keyTopics": []
     }
   ]
