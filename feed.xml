@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-11-15</title>
+      <description># Episode Summary
+
+This episode digs into three major stories reshaping tech and markets: the Nvidia scandal deepens as evidence emerges that CEO Jensen Huang deliberately concealed a sustained relationship with a Chinese intelligence-connected executive, while Commerce Secretary Howard Lutnick&apos;s potential conflicts of interest raise questions about who&apos;s shaping chip export policy. The FAA ground stop that paralyzed U.S. air traffic is traced to a single router failure in Arkansas, spotlighting dangerous fragility in critical infrastructure—a pattern echoed by Microsoft&apos;s earlier outage and now Anthropic&apos;s unusually frank IPO prospectus that openly warns investors about existential AI risks. Together, these stories reveal cascading vulnerabilities across</description>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-15.mp3" length="3957888" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-15.mp3</guid>
+      <itunes:duration>247</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-11-14</title>
       <description># Episode Summary
 
