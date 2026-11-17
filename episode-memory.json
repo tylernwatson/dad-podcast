@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-17",
+      "summary": "# Episode Summary\n\nThis episode covers four major stories reshaping markets and policy: Nvidia CEO Jensen Huang's public signal that he'd return to the company after his resignation, raising questions about leadership and national security amid a 16% stock drop; Apple's latest infrastructure outage, part of a troubling pattern of system failures across major platforms that reveals dangerous concentration risk; Ukraine's successful strike on the Kerch Bridge, a strategic blow that complicates ongoing peace negotiations and could trigger Russian escalation; and the U.S. officially losing its measles elimination status—a historic public health setback that could take years to reverse. The episode also flags Fed Governor Lisa Cook's refusal to attend a White House hearing, sign",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-16",
       "summary": "# Episode Summary\n\nThis episode unpacks the contradictions shaping markets and policy this week: President Trump is floating a reinstatement for Nvidia's ousted CEO Jensen Huang while simultaneously tightening AI chip export controls ahead of a China trip, sending mixed signals about how seriously the administration takes tech security. Beyond the chip wars, the show flags a troubling pattern of infrastructure fragility—from banking outages to recent cloud and aviation disruptions—that reveals real vulnerabilities in systems underpinning daily life, even as Fed Chairman Warsh candidly admits uncertainty about how AI-driven productivity will reshape the economy. The episode closes with a reminder that informed investors shouldn't confuse staying informed with reactive decision-making,",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-04",
       "summary": "# Episode Summary\n\nFollowing Democrats' decisive midterm victory and takeover of Congress, this episode examines the immediate political and market fallout—including Tesla and SpaceX's sharp decline due to Elon Musk's political exposure, and broader sector rotation away from tariff-sensitive businesses. The conversation then pivots to deeper structural risks: CVS Health's planned breakup of its retail pharmacy business, and a substantive dive into David Bahnsen's warnings about hidden credit vulnerabilities in AI financing that could ripple across markets far beyond the tech sector. A final segment addresses NATO's first coordinated response to suspected Baltic Sea cable sabotage, highlighting physical infrastructure as an underappreciated geopolitical and",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-03",
-      "summary": "# Dad's Daily Digest: Election Day, Markets, and AI Repricing\n\nToday's episode breaks down Election Day results as they unfold, examining what margin of victory means for policy and markets—particularly around tech regulation and data center permitting. The second major focus is the ongoing AI sector correction, where despite the S&P 500 looking relatively flat in October, massive sell-offs in Nvidia, Meta, and Google masked strong performance across the broader market; analyst David Bahnsen challenges claims that valuations are \"cheap\" at 19x forward earnings and flags structural questions about whether capital markets will sustain the enormous funding needs of AI infrastructure. The episode also touches on key global risks including the humanitarian crisis",
       "keyTopics": []
     }
   ]
