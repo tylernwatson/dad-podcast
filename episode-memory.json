@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-18",
+      "summary": "# Episode Summary\n\nThe Federal Reserve's latest meeting minutes signal continued rate hikes ahead despite skipping October's hike—a tactical pause, not a pivot—keeping the \"higher-for-longer\" environment intact. Nvidia's interim CEO addresses employee concerns about operational continuity following Jensen Huang's departure, with the real test coming through customer and government confidence. Meanwhile, a growing student pushback against AI integration in schools—from major districts dropping Google Search over forced Gemini bundling to college campus anti-AI movements—represents the first significant consumer friction signal against AI adoption and could reshape product development and policy conversations.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-17",
       "summary": "# Episode Summary\n\nThis episode covers four major stories reshaping markets and policy: Nvidia CEO Jensen Huang's public signal that he'd return to the company after his resignation, raising questions about leadership and national security amid a 16% stock drop; Apple's latest infrastructure outage, part of a troubling pattern of system failures across major platforms that reveals dangerous concentration risk; Ukraine's successful strike on the Kerch Bridge, a strategic blow that complicates ongoing peace negotiations and could trigger Russian escalation; and the U.S. officially losing its measles elimination status—a historic public health setback that could take years to reverse. The episode also flags Fed Governor Lisa Cook's refusal to attend a White House hearing, sign",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-05",
       "summary": "# Episode Summary\n\nMarkets are reeling after the worst S&P 500 day in over a year, driven by a collision of post-election tech regulation fears and renewed concerns about whether AI infrastructure spending is sustainable—a story that analyst David Bahnsen has been tracking all week. Meanwhile, the Democratic wave is reshaping the political landscape with real business consequences, particularly in Texas, which flipped and is now forcing companies to recalculate their tax and regulatory assumptions in what was supposed to be a business haven.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-04",
-      "summary": "# Episode Summary\n\nFollowing Democrats' decisive midterm victory and takeover of Congress, this episode examines the immediate political and market fallout—including Tesla and SpaceX's sharp decline due to Elon Musk's political exposure, and broader sector rotation away from tariff-sensitive businesses. The conversation then pivots to deeper structural risks: CVS Health's planned breakup of its retail pharmacy business, and a substantive dive into David Bahnsen's warnings about hidden credit vulnerabilities in AI financing that could ripple across markets far beyond the tech sector. A final segment addresses NATO's first coordinated response to suspected Baltic Sea cable sabotage, highlighting physical infrastructure as an underappreciated geopolitical and",
       "keyTopics": []
     }
   ]
