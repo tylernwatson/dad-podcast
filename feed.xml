@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-11-18</title>
+      <description># Episode Summary
+
+The Federal Reserve&apos;s latest meeting minutes signal continued rate hikes ahead despite skipping October&apos;s hike—a tactical pause, not a pivot—keeping the &quot;higher-for-longer&quot; environment intact. Nvidia&apos;s interim CEO addresses employee concerns about operational continuity following Jensen Huang&apos;s departure, with the real test coming through customer and government confidence. Meanwhile, a growing student pushback against AI integration in schools—from major districts dropping Google Search over forced Gemini bundling to college campus anti-AI movements—represents the first significant consumer friction signal against AI adoption and could reshape product development and policy conversations.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-18.mp3" length="4060800" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-18.mp3</guid>
+      <itunes:duration>254</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-11-17</title>
       <description># Episode Summary
 
