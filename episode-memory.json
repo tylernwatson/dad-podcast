@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-19",
+      "summary": "# Thursday Morning Brief\n\nThis episode breaks down three major stories reshaping markets and geopolitics: Anthropic's blockbuster IPO that mints billionaire founders and raises questions about whether public markets are the right home for AI safety-critical technology, a high-stakes diplomatic summit in Shenzhen where Trump meets with Xi and Putin—signaling shifting global power dynamics amid tension with U.S. chip export controls, and strong holiday retail sales from Walmart and Target that reveal consumers are spending strategically on value rather than broadly. The underlying thread connects all three: critical infrastructure—whether technological, diplomatic, or economic—is increasingly fragile and contested in ways markets may be underpricing.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-18",
       "summary": "# Episode Summary\n\nThe Federal Reserve's latest meeting minutes signal continued rate hikes ahead despite skipping October's hike—a tactical pause, not a pivot—keeping the \"higher-for-longer\" environment intact. Nvidia's interim CEO addresses employee concerns about operational continuity following Jensen Huang's departure, with the real test coming through customer and government confidence. Meanwhile, a growing student pushback against AI integration in schools—from major districts dropping Google Search over forced Gemini bundling to college campus anti-AI movements—represents the first significant consumer friction signal against AI adoption and could reshape product development and policy conversations.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-06",
       "summary": "# Episode Summary\n\nThis episode breaks down a turbulent week in markets and tech, starting with Thursday's worst trading day in over a year followed by Friday's rebound—and what it reveals about ongoing tensions around AI valuations and infrastructure spending. A strong jobs report suggests the Fed will hold rates steady, which has ripple effects across credit markets and mortgage rates. Tesla's announcement to halt Cybertruck production by 2027 to focus on autonomous robotaxi development marks a major strategic pivot with significant execution risk.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-05",
-      "summary": "# Episode Summary\n\nMarkets are reeling after the worst S&P 500 day in over a year, driven by a collision of post-election tech regulation fears and renewed concerns about whether AI infrastructure spending is sustainable—a story that analyst David Bahnsen has been tracking all week. Meanwhile, the Democratic wave is reshaping the political landscape with real business consequences, particularly in Texas, which flipped and is now forcing companies to recalculate their tax and regulatory assumptions in what was supposed to be a business haven.",
       "keyTopics": []
     }
   ]
