@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-20",
+      "summary": "# Episode Summary\n\nMarkets are heading for their worst week in over a year as investor anxiety about AI's real-world profitability spreads across the tech sector, even after positive news like Anthropic's successful IPO. Nvidia faces mounting pressure from multiple fronts: a deepening espionage scandal involving a network of Chinese defense contractors seeking advanced chips, damaging reporting on CEO Jensen Huang's toxic management practices, and scrutiny over national security implications of the company's international relationships. Meanwhile, the Trump administration is threatening to restrict U.S. tech companies from building data centers abroad, creating tension between its ambitions to dominate AI globally and its suspicion of American firms operating internationally.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-19",
       "summary": "# Thursday Morning Brief\n\nThis episode breaks down three major stories reshaping markets and geopolitics: Anthropic's blockbuster IPO that mints billionaire founders and raises questions about whether public markets are the right home for AI safety-critical technology, a high-stakes diplomatic summit in Shenzhen where Trump meets with Xi and Putin—signaling shifting global power dynamics amid tension with U.S. chip export controls, and strong holiday retail sales from Walmart and Target that reveal consumers are spending strategically on value rather than broadly. The underlying thread connects all three: critical infrastructure—whether technological, diplomatic, or economic—is increasingly fragile and contested in ways markets may be underpricing.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-07",
       "summary": "# Episode Summary\n\n**Political shifts and market reactions dominate this week's analysis.** Stephen Miller's appointment as White House Chief of Staff signals a more ideologically aggressive second term focused on immigration and executive power expansion, while Democrats secured decisive midterm victories that reshape congressional power dynamics and create new regulatory uncertainty for businesses. The episode breaks down why markets celebrated resolution itself rather than specific election outcomes, and warns investors against making portfolio decisions based on political results—instead highlighting the structural risks in AI valuations and credit markets that persist regardless of who's in power.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-06",
-      "summary": "# Episode Summary\n\nThis episode breaks down a turbulent week in markets and tech, starting with Thursday's worst trading day in over a year followed by Friday's rebound—and what it reveals about ongoing tensions around AI valuations and infrastructure spending. A strong jobs report suggests the Fed will hold rates steady, which has ripple effects across credit markets and mortgage rates. Tesla's announcement to halt Cybertruck production by 2027 to focus on autonomous robotaxi development marks a major strategic pivot with significant execution risk.",
       "keyTopics": []
     }
   ]
