@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-11-20</title>
+      <description># Episode Summary
+
+Markets are heading for their worst week in over a year as investor anxiety about AI&apos;s real-world profitability spreads across the tech sector, even after positive news like Anthropic&apos;s successful IPO. Nvidia faces mounting pressure from multiple fronts: a deepening espionage scandal involving a network of Chinese defense contractors seeking advanced chips, damaging reporting on CEO Jensen Huang&apos;s toxic management practices, and scrutiny over national security implications of the company&apos;s international relationships. Meanwhile, the Trump administration is threatening to restrict U.S. tech companies from building data centers abroad, creating tension between its ambitions to dominate AI globally and its suspicion of American firms operating internationally.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-20.mp3" length="3712512" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-20.mp3</guid>
+      <itunes:duration>232</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-11-19</title>
       <description># Thursday Morning Brief
 
