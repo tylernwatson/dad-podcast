@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-21",
+      "summary": "# Episode Summary\n\nThis week's market earthquake was triggered by DeepSeek, a Chinese AI startup that released an efficient large language model, sending Nvidia and chip stocks into a tailspin as investors questioned whether massive AI infrastructure spending was necessary. The episode also explores how CEO scandals and corporate leadership drama affect stock valuations—arguing that investors should distinguish between companies dependent on a visionary founder versus those with durable fundamentals and diversified leadership. The show rounds out with critical infrastructure concerns from NATO's response to suspected Baltic Sea cable sabotage, highlighting how digital and physical systems worldwide have become vulnerable flashpoints in geopolitical competition.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-20",
       "summary": "# Episode Summary\n\nMarkets are heading for their worst week in over a year as investor anxiety about AI's real-world profitability spreads across the tech sector, even after positive news like Anthropic's successful IPO. Nvidia faces mounting pressure from multiple fronts: a deepening espionage scandal involving a network of Chinese defense contractors seeking advanced chips, damaging reporting on CEO Jensen Huang's toxic management practices, and scrutiny over national security implications of the company's international relationships. Meanwhile, the Trump administration is threatening to restrict U.S. tech companies from building data centers abroad, creating tension between its ambitions to dominate AI globally and its suspicion of American firms operating internationally.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-08",
       "summary": "# Episode Summary\n\nThis episode unpacks three major stories shaping markets and policy: the complex political aftermath of Democrats' midterm victory, where Stephen Miller's appointment as White House Chief of Staff signals continued executive aggression despite electoral losses; a sharp selloff in AI stocks triggered by Chinese startup DeepSeek's claims of building rival AI models at a fraction of the cost, raising questions about the sustainability of infrastructure valuations; and the intersection of the Iran conflict with the clean energy transition, where oil price shocks are boosting EV demand while simultaneously pressuring governments toward short-term fossil fuel expansion.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-07",
-      "summary": "# Episode Summary\n\n**Political shifts and market reactions dominate this week's analysis.** Stephen Miller's appointment as White House Chief of Staff signals a more ideologically aggressive second term focused on immigration and executive power expansion, while Democrats secured decisive midterm victories that reshape congressional power dynamics and create new regulatory uncertainty for businesses. The episode breaks down why markets celebrated resolution itself rather than specific election outcomes, and warns investors against making portfolio decisions based on political results—instead highlighting the structural risks in AI valuations and credit markets that persist regardless of who's in power.",
       "keyTopics": []
     }
   ]
