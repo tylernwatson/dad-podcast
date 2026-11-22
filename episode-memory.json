@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-22",
+      "summary": "# Episode Summary\n\nThis episode covers four major stories reshaping American politics and business: Democrats swept the midterms with historic House gains that will give them significant legislative leverage heading into 2027, while Republicans enter a contentious internal debate about their losses. Nvidia faces mounting pressure as Treasury Secretary Scott Bessent publicly demands answers about chip sales to China and leaves open the possibility of ousting CEO Jensen Huang, adding to weeks of market turbulence from espionage allegations and competition from Chinese AI models. Consumer goods giant Procter & Gamble is quietly expanding its network of fully automated factories with no human workers, signaling a broader shift in manufacturing that could reshape the workforce and complicate the Fed's understanding of productivity",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-21",
       "summary": "# Episode Summary\n\nThis week's market earthquake was triggered by DeepSeek, a Chinese AI startup that released an efficient large language model, sending Nvidia and chip stocks into a tailspin as investors questioned whether massive AI infrastructure spending was necessary. The episode also explores how CEO scandals and corporate leadership drama affect stock valuations—arguing that investors should distinguish between companies dependent on a visionary founder versus those with durable fundamentals and diversified leadership. The show rounds out with critical infrastructure concerns from NATO's response to suspected Baltic Sea cable sabotage, highlighting how digital and physical systems worldwide have become vulnerable flashpoints in geopolitical competition.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-09",
       "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and politics: escalating tensions in Washington as a Republican congressman files impeachment charges against the Defense Secretary, signaling GOP fracturing; a significant regulatory investigation into Nvidia involving allegations that a top executive contacted Commerce Department officials about a customer under scrutiny—raising questions about oversight and executive influence in the AI sector; a dramatic twenty-dollar drop in oil prices driven by promising U.S.-Iran peace negotiations, which could ease inflation and give the Fed more flexibility; and Boeing's announcement of workforce cuts due to slower-than-expected production recovery, underscoring the difficulty of its ongoing turnaround.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-08",
-      "summary": "# Episode Summary\n\nThis episode unpacks three major stories shaping markets and policy: the complex political aftermath of Democrats' midterm victory, where Stephen Miller's appointment as White House Chief of Staff signals continued executive aggression despite electoral losses; a sharp selloff in AI stocks triggered by Chinese startup DeepSeek's claims of building rival AI models at a fraction of the cost, raising questions about the sustainability of infrastructure valuations; and the intersection of the Iran conflict with the clean energy transition, where oil price shocks are boosting EV demand while simultaneously pressuring governments toward short-term fossil fuel expansion.",
       "keyTopics": []
     }
   ]
