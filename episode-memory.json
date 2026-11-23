@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-23",
+      "summary": "# Episode Summary\n\nThis episode explores how political power and corporate governance intersected when President Trump personally orchestrated Jensen Huang's return as Nvidia CEO—a move that bypassed the company's board and raised alarm among governance experts, even as the stock market celebrated. The show also covers Ukraine's expanding military reach with Mediterranean drone strikes, the staggering human toll of the Russia war, Elon Musk's conflicting interests as SpaceX rents AI computing power to his competitors, and how tariff threats are already driving commodity volatility in coffee markets.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-22",
       "summary": "# Episode Summary\n\nThis episode covers four major stories reshaping American politics and business: Democrats swept the midterms with historic House gains that will give them significant legislative leverage heading into 2027, while Republicans enter a contentious internal debate about their losses. Nvidia faces mounting pressure as Treasury Secretary Scott Bessent publicly demands answers about chip sales to China and leaves open the possibility of ousting CEO Jensen Huang, adding to weeks of market turbulence from espionage allegations and competition from Chinese AI models. Consumer goods giant Procter & Gamble is quietly expanding its network of fully automated factories with no human workers, signaling a broader shift in manufacturing that could reshape the workforce and complicate the Fed's understanding of productivity",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-10",
       "summary": "# Episode Summary\n\nThis episode dives into a major crisis unfolding at Nvidia—CEO Jensen Huang is under internal investigation by elite law firm Wachtell Lipton regarding a relationship with a Chinese intelligence asset, raising serious national security questions and exposing potential board governance failures at the world's most strategically important semiconductor company. The story compounds a brutal 16% single-day stock drop driven by renewed concerns about Chinese AI startup DeepSeek's efficiency claims, prompting broader questions about whether AI infrastructure valuations are built on sustainable earnings estimates or circular reasoning. The episode also weighs these risks against steadier consumer debt data and explores structural leverage embedded in the AI trade that could force a deleveraging event.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-09",
-      "summary": "# Episode Summary\n\nThis episode covers four major stories shaping markets and politics: escalating tensions in Washington as a Republican congressman files impeachment charges against the Defense Secretary, signaling GOP fracturing; a significant regulatory investigation into Nvidia involving allegations that a top executive contacted Commerce Department officials about a customer under scrutiny—raising questions about oversight and executive influence in the AI sector; a dramatic twenty-dollar drop in oil prices driven by promising U.S.-Iran peace negotiations, which could ease inflation and give the Fed more flexibility; and Boeing's announcement of workforce cuts due to slower-than-expected production recovery, underscoring the difficulty of its ongoing turnaround.",
       "keyTopics": []
     }
   ]
