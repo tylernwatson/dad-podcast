@@ -16,6 +16,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dad&apos;s Daily Digest — 2026-11-25</title>
+      <description># Episode Summary
+
+Markets face a triple squeeze heading into Thanksgiving: AI uncertainty (triggered by disappointing Anthropic IPO performance and lingering DeepSeek concerns), fresh tariff escalations, and persistent inflation that keeps the Fed on a hiking path. Meanwhile, the incoming Democratic Congress is poised to increase corporate oversight, and the broader economy reveals a disconnect between solid headline numbers and widespread consumer pessimism about prices. The episode closes with a refreshing reminder to pause and practice gratitude amid the market turbulence.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-25.mp3" length="4159680" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/dad-podcast/episodes/Dads-Digest-2026-11-25.mp3</guid>
+      <itunes:duration>260</itunes:duration>
+    </item>
+    <item>
       <title>Dad&apos;s Daily Digest — 2026-11-24</title>
       <description># Episode Summary
 
