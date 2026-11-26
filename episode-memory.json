@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-26",
+      "summary": "# Episode Summary\n\nThis Thanksgiving episode covers three major stories reshaping markets and policy: Chinese AI startup DeepSeek's release of a highly efficient language model triggered a sharp selloff in Nvidia and chip stocks, forcing investors to reconsider the trillion-dollar AI infrastructure spending thesis, while opinions diverge on whether this is an overcorrection or genuine reassessment. In Europe, Christine Lagarde's early exit from the European Central Bank creates leadership uncertainty at a critical moment for the continent's sluggish economy and monetary policy direction. On the domestic front, Democrats face the perennial fiscal challenge of paying for their ambitious agenda, while the Trump administration's proposed cuts to food assistance programs highlight real-economy consequences ahead of",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-25",
       "summary": "# Episode Summary\n\nMarkets face a triple squeeze heading into Thanksgiving: AI uncertainty (triggered by disappointing Anthropic IPO performance and lingering DeepSeek concerns), fresh tariff escalations, and persistent inflation that keeps the Fed on a hiking path. Meanwhile, the incoming Democratic Congress is poised to increase corporate oversight, and the broader economy reveals a disconnect between solid headline numbers and widespread consumer pessimism about prices. The episode closes with a refreshing reminder to pause and practice gratitude amid the market turbulence.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-13",
       "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping markets and policy: the fallout from Jensen Huang's departure from Nvidia, including the loss of $48 billion in startup funding and concerns about potential discrimination against Asian American tech workers; a major Microsoft global outage now in its second day that's exposing dangerous concentration risk in cloud infrastructure; and a significant shift in the Trump administration's Iran strategy toward long-term economic pressure rather than near-term deal-making, which could keep oil prices elevated and complicate the Fed's inflation outlook. Together, these stories reveal vulnerabilities in how the digital economy is structured and raise questions about both geopolitical strategy and market stability heading into the final weeks of the year.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-12",
-      "summary": "# Episode Summary\n\nJensen Huang has resigned as Nvidia CEO following an investigation into his relationship with a woman confirmed by Singapore to be a suspected Chinese intelligence asset—a national security breach that raises serious questions about access to the world's most strategically important semiconductor company. The leadership vacuum at Nvidia compounds existing concerns about AI infrastructure valuations and market positioning, while separately, the Trump administration's pullback from Iran nuclear negotiations threatens to reignite oil price volatility and complicate the Fed's inflation outlook under new Chairman Kevin Warsh. Together, these developments signal mounting pressure across tech leadership, geopolitical risk, and monetary policy heading into what could be a turbulent period for markets.",
       "keyTopics": []
     }
   ]
