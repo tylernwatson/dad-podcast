@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-27",
+      "summary": "# Black Friday Markets and Political Crosswinds\n\nAs markets struggle to find their footing after a volatile week, the AI sector faces fresh headwinds from DeepSeek's cost-efficient breakthrough, triggering a major selloff in chip stocks that could reshape investor expectations around data center spending. Meanwhile, federal contractors are caught in a political standoff between Democratic congressional subpoenas and Trump administration threats of retaliation, creating unprecedented legal uncertainty. Against this backdrop, consumers are showing signs of financial strain despite solid spending numbers, while the clean energy transition continues its market-driven momentum independent of stalled climate diplomacy.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-26",
       "summary": "# Episode Summary\n\nThis Thanksgiving episode covers three major stories reshaping markets and policy: Chinese AI startup DeepSeek's release of a highly efficient language model triggered a sharp selloff in Nvidia and chip stocks, forcing investors to reconsider the trillion-dollar AI infrastructure spending thesis, while opinions diverge on whether this is an overcorrection or genuine reassessment. In Europe, Christine Lagarde's early exit from the European Central Bank creates leadership uncertainty at a critical moment for the continent's sluggish economy and monetary policy direction. On the domestic front, Democrats face the perennial fiscal challenge of paying for their ambitious agenda, while the Trump administration's proposed cuts to food assistance programs highlight real-economy consequences ahead of",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-14",
       "summary": "# Episode Summary\n\nThis episode explores three major interconnected stories shaping markets and geopolitics: the escalating Nvidia espionage scandal involving CEO Jensen Huang and a Chinese intelligence operative, which now threatens to overshadow an upcoming U.S. tech CEO summit in Shenzhen; the FAA's nationwide ground stop exposing aging, failing air traffic control infrastructure; and deepening concerns about China's property sector crisis, with even state-backed developer Vanke reporting massive losses. Woven throughout is a timely reminder from the Dividend Cafe that investors repeatedly sabotage their portfolios by making panic-driven decisions based on political fears rather than economic fundamentals—a cautionary lesson as geopolit",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-13",
-      "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping markets and policy: the fallout from Jensen Huang's departure from Nvidia, including the loss of $48 billion in startup funding and concerns about potential discrimination against Asian American tech workers; a major Microsoft global outage now in its second day that's exposing dangerous concentration risk in cloud infrastructure; and a significant shift in the Trump administration's Iran strategy toward long-term economic pressure rather than near-term deal-making, which could keep oil prices elevated and complicate the Fed's inflation outlook. Together, these stories reveal vulnerabilities in how the digital economy is structured and raise questions about both geopolitical strategy and market stability heading into the final weeks of the year.",
       "keyTopics": []
     }
   ]
